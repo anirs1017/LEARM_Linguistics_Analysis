@@ -1,0 +1,522 @@
+----ELIGIBILITY------------------------------------------
+
+IF SCN_AGE < 18 THEN LET EXCLUDE = 1
+IF SCN_PGNT = 1 THEN LET EXCLUDE = 1
+
+BODY COMPOSITION-----------------------------------------
+
+LET HT_TOT = (HT_FT*12) + HT_IN
+LET HT_CM = HT_TOT* 2.54
+LET HT_MT = HT_CM*0.01
+LET WT_KG = WEIGHT*0.4536
+LET BMI = WT_KG/(HT_MT*HT_MT)
+
+if bmi>=30 then let bmigp = 1
+if bmi<30 then let bmigp = 0
+if bmi>=25 then let ovwtgp = 1
+if bmi<25 then let ovwtgp = 0
+
+
+if body_com = 1 then let per_ovt = 0 
+if body_com = 2 then let per_ovt = 5 
+if body_com = 3 then let per_ovt = 12.5
+if body_com = 4 then let per_ovt = 17.5 
+if body_com = 5 then let per_ovt = 32.5 
+if body_com = 6 then let per_ovt = 45 
+if body_com = 7 then let per_ovt = 57.5 
+if body_com = 8 then let per_ovt = 75 
+if body_com = 9 then let per_ovt = 87.5 
+
+if per_ovt>45 then let bcompgp = 1
+if per_ovt<57.5 then let bcompgp = 0
+
+DEMOGRAPHICS----------------------------------------------
+
+IF INC_LVL = 1 THEN LET INCOME = 0
+IF INC_LVL = 2 THEN LET INCOME = 0
+IF INC_LVL = 3 THEN LET INCOME = 1000
+IF INC_LVL = 4 THEN LET INCOME = 3000
+IF INC_LVL = 5 THEN LET INCOME = 5000
+IF INC_LVL = 6 THEN LET INCOME = 7000
+IF INC_LVL = 7 THEN LET INCOME = 9000
+IF INC_LVL = 8 THEN LET INCOME = 11000
+IF INC_LVL = 9 THEN LET INCOME = 13000
+IF INC_LVL = 10 THEN LET INCOME = 15000
+IF INC_LVL = 11 THEN LET INCOME = 17000
+IF INC_LVL = 12 THEN LET INCOME = 19000
+IF INC_LVL = 13 THEN LET INCOME = 21500
+IF INC_LVL = 14 THEN LET INCOME = 23750
+IF INC_LVL = 15 THEN LET INCOME = 26250
+IF INC_LVL = 16 THEN LET INCOME = 28750
+IF INC_LVL = 17 THEN LET INCOME = 31250
+IF INC_LVL = 18 THEN LET INCOME = 33750
+IF INC_LVL = 19 THEN LET INCOME = 36250
+IF INC_LVL = 20 THEN LET INCOME = 38750
+IF INC_LVL = 21 THEN LET INCOME = 41250
+IF INC_LVL = 22 THEN LET INCOME = 43750
+IF INC_LVL = 23 THEN LET INCOME = 46250
+IF INC_LVL = 24 THEN LET INCOME = 52500
+IF INC_LVL = 25 THEN LET INCOME = 57500
+IF INC_LVL = 26 THEN LET INCOME = 62500
+IF INC_LVL = 27 THEN LET INCOME = 67500
+IF INC_LVL = 28 THEN LET INCOME = 72500
+IF INC_LVL = 29 THEN LET INCOME = 77500
+IF INC_LVL = 30 THEN LET INCOME = 82500
+IF INC_LVL = 31 THEN LET INCOME = 87500
+IF INC_LVL = 32 THEN LET INCOME = 92500
+IF INC_LVL = 33 THEN LET INCOME = 97500
+IF INC_LVL = 34 THEN LET INCOME = 105000
+IF INC_LVL = 35 THEN LET INCOME = 115000
+IF INC_LVL = 36 THEN LET INCOME = 130000
+IF INC_LVL = 37 THEN LET INCOME = 135000
+IF INC_LVL = 38 THEN LET INCOME = 145000
+IF INC_LVL = 39 THEN LET INCOME = 162500
+IF INC_LVL = 40 THEN LET INCOME = 187500
+IF INC_LVL = 41 THEN LET INCOME = 225000
+IF INC_LVL = 42 THEN LET INCOME = 275000
+IF INC_LVL = 43 THEN LET INCOME = 350000
+IF INC_LVL = 44 THEN LET INCOME = 450000
+IF INC_LVL = 45 THEN LET INCOME = 750000
+IF INC_LVL = 46 THEN LET INCOME = 1000000
+
+if edu_lvl = 1 then let edu_years = 6
+if edu_lvl = 2 then let edu_years = 8
+if edu_lvl = 3 then let edu_years = 10.5
+if edu_lvl = 4 then let edu_years = 12
+if edu_lvl = 5 then let edu_years = 13
+if edu_lvl = 6 then let edu_years = 14
+if edu_lvl = 7 then let edu_years = 16
+if edu_lvl = 8 and edu_deg = 4 then let edu_years = 18
+if edu_lvl = 8 and edu_deg = 5 then let edu_years = 20
+if edu_lvl = 8 and edu_deg = 6 then let edu_years = 20
+
+
+IF RACE  = 5 AND ETHNICIT = 2 THEN LET MIN = 1
+if race = 5 and ethnicit = 1 then let min = 0
+if race <>5 then let min = 1
+
+if hh_tot = 1 and income >12331 then let poverty = 0
+if hh_tot = 1 and income <=12331 then let poverty = 1
+
+if hh_tot = 2 and hh_chd = 0 and income >15871 then let poverty = 0
+if hh_tot = 2 and hh_chd = 0 and income <=15871 then let poverty = 1
+if hh_tot = 2 and hh_chd = 1 and income >16337 then let poverty = 0
+if hh_tot = 2 and hh_chd = 1 and income <=16337 then let poverty = 1
+
+if hh_tot = 3 and hh_chd = 0 and income >18540 then let poverty = 0
+if hh_tot = 3 and hh_chd = 0 and income <=18540 then let poverty = 1
+if hh_tot = 3 and hh_chd = 1 and income >19078 then let poverty = 0
+if hh_tot = 3 and hh_chd = 1 and income <=19078 then let poverty = 1
+if hh_tot = 3 and hh_chd = 2 and income >19096 then let poverty = 0
+if hh_tot = 3 and hh_chd = 2 and income <=19096 then let poverty = 1
+
+if hh_tot = 4 and hh_chd = 0 and income >24447 then let poverty = 0
+if hh_tot = 4 and hh_chd = 0 and income <=24447 then let poverty = 1
+if hh_tot = 4 and hh_chd = 1 and income >24847 then let poverty = 0
+if hh_tot = 4 and hh_chd = 1 and income <=24847 then let poverty = 1
+if hh_tot = 4 and hh_chd = 2 and income >24036 then let poverty = 0
+if hh_tot = 4 and hh_chd = 2 and income <=24036 then let poverty = 1
+if hh_tot = 4 and hh_chd = 3 and income >24120 then let poverty = 0
+if hh_tot = 4 and hh_chd = 3 and income <=24120 then let poverty = 1 
+
+if hh_tot = 5 and hh_chd = 0 and income >29482 then let poverty = 0
+if hh_tot = 5 and hh_chd = 0 and income <=29482 then let poverty = 1
+if hh_tot = 5 and hh_chd = 1 and income >29911 then let poverty = 0
+if hh_tot = 5 and hh_chd = 1 and income <=29911 then let poverty = 1
+if hh_tot = 5 and hh_chd = 2 and income >28995 then let poverty = 0
+if hh_tot = 5 and hh_chd = 2 and income <=28995 then let poverty = 1
+if hh_tot = 5 and hh_chd = 3 and income >28286 then let poverty = 0
+if hh_tot = 5 and hh_chd = 3 and income <=28286 then let poverty = 1 
+
+if hh_tot = 6 and hh_chd = 1 and income >34044 then let poverty = 0
+if hh_tot = 6 and hh_chd = 1 and income <=34044 then let poverty = 1
+if hh_tot = 6 and hh_chd = 2 and income >33342 then let poverty = 0
+if hh_tot = 6 and hh_chd = 2 and income <=33342 then let poverty = 1
+if hh_tot = 6 and hh_chd = 3 and income >32670 then let poverty = 0
+if hh_tot = 6 and hh_chd = 3 and income <=32670 then let poverty = 1
+if hh_tot = 6 and hh_chd = 4 and income >31670 then let poverty = 0
+if hh_tot = 6 and hh_chd = 4 and income <=31670 then let poverty = 1
+
+if hh_tot = 7 and hh_chd = 3 and income >37835 then let poverty = 0
+if hh_tot = 7 and hh_chd = 3 and income <=37836 then let poverty = 1 
+if hh_tot = 7 and hh_chd = 5 and income >35473 then let poverty = 0
+if hh_tot = 7 and hh_chd = 5 and income <=35473 then let poverty = 1
+
+if hh_tot = 9 and hh_chd = 3 and income >51457 then let poverty = 0 
+if hh_tot = 9 and hh_chd = 3 and income <=51457 then let poverty = 1 
+
+
+
+FOOD SECURITY---------------------------------------------
+
+IF FSM(1) <> 3 THEN LET FSM_SCO1 = 1
+if fsm(1) = 3 then let fsm_sco1=0
+IF FSM(2) <> 3 THEN LET FSM_SCO2 = 1
+if fsm(2) = 3 then let fsm_sco2=0
+IF FSM(3) <>2 THEN LET FSM_SCO3 = 1
+if fsm(3) = 2 then let fsm_sco3=0
+IF FSM(4) <3 THEN LET FSM_SCO4 = 1
+IF FSM(4) >2 THEN LET FSM_SCO4 = 0
+IF FSM(5) = 1 THEN LET FSM_SCO5 = 1
+IF FSM(5) <> 1 THEN LET FSM_SCO5 = 0
+IF FSM(6) = 1 THEN LET FSM_SCO6 = 1
+IF FSM(6) <> 1 THEN LET FSM_SCO6 = 0
+
+LET FSEC_TOT = FSM_SCO1 + FSM_SCO2 + FSM_SCO3 + FSM_SCO4 + FSM_SCO5 + FSM_SCO6
+
+IF FSEC_TOT >=2 THEN LET FSEC = 1
+IF FSEC_TOT <2 THEN LET FSEC = 0
+
+PATIENT HEALTH QUESTIONNAIRE ----------------------------
+
+5 - MILD DEPRESSION
+10 - MODERATE DEPRESSION
+15 - MODERATELY SEVERE DEPRESSION
+20 - SEVERE DEPRESSION
+
+
+if phq(1) = 1 then let phq_s1 = 0
+if phq(1) = 2 then let phq_s1 = 1
+if phq(1) = 3 then let phq_s1 = 2
+if phq(1) = 4 then let phq_s1 = 3
+
+if phq(2) = 1 then let phq_s2 = 0
+if phq(2) = 2 then let phq_s2 = 1
+if phq(2) = 3 then let phq_s2 = 2
+if phq(2) = 4 then let phq_s2 = 3
+
+if phq(3) = 1 then let phq_s3 = 0
+if phq(3) = 2 then let phq_s3 = 1
+if phq(3) = 3 then let phq_s3 = 2
+if phq(3) = 4 then let phq_s3 = 3
+
+if phq(4) = 1 then let phq_s4 = 0
+if phq(4) = 2 then let phq_s4 = 1
+if phq(4) = 3 then let phq_s4 = 2
+if phq(4) = 4 then let phq_s4 = 3
+
+if phq(5) = 1 then let phq_s5 = 0
+if phq(5) = 2 then let phq_s5 = 1
+if phq(5) = 3 then let phq_s5 = 2
+if phq(5) = 4 then let phq_s5 = 3
+
+if phq(6) = 1 then let phq_s6 = 0
+if phq(6) = 2 then let phq_s6 = 1
+if phq(6) = 3 then let phq_s6 = 2
+if phq(6) = 4 then let phq_s6 = 3
+
+if phq(7) = 1 then let phq_s7 = 0
+if phq(7) = 2 then let phq_s7 = 1
+if phq(7) = 3 then let phq_s7 = 2
+if phq(7) = 4 then let phq_s7 = 3
+
+if phq(8) = 1 then let phq_s8 = 0
+if phq(8) = 2 then let phq_s8 = 1
+if phq(8) = 3 then let phq_s8 = 2
+if phq(8) = 4 then let phq_s8 = 3
+
+let phq_tot = phq_s1 + phq_s2 + phq_s3 +phq_s4 +phq_s5 +phq_s6 +phq_s7 +phq_s8
+
+IF PHQ_TOT >=10 THEN LET PHQ_GP = 1
+IF PHQ_TOT<10 THEN LET PHQ_GP = 0
+
+IF PHQ_TOT<5 THEN LET PHQ_GP2 = 0
+IF PHQ_TOT<10 AND PHQ_TOT>=5 THEN LET PHQ_GP2 = 1
+IF PHQ_TOT<15 AND PHQ_TOT>=10 THEN LET PHQ_GP2 = 2
+IF PHQ_TOT<20 AND PHQ_TOT>=15 THEN LET PHQ_GP2 = 3
+IF PHQ_TOT<25 AND PHQ_TOT>=20 THEN LET PHQ_GP2 = 4
+
+
+
+IF BPS1 = 1 THEN LET BPS1_R = 7
+IF BPS1 = 2 THEN LET BPS1_R = 6
+IF BPS1 = 3 THEN LET BPS1_R = 5 
+IF BPS1 = 4 THEN LET BPS1_R = 4
+IF BPS1 = 5 THEN LET BPS1_R = 3
+IF BPS1 = 6 THEN LET BPS1_R = 2
+IF BPS1 = 7 THEN LET BPS1_R = 1
+
+IF BPS7 = 1 THEN LET BPS7_R = 7
+IF BPS7 = 2 THEN LET BPS7_R = 6
+IF BPS7 = 3 THEN LET BPS7_R = 5
+IF BPS7 = 4 THEN LET BPS7_R = 4
+IF BPS7 = 5 THEN LET BPS7_R = 3
+IF BPS7 = 6 THEN LET BPS7_R = 2
+IF BPS7 = 7 THEN LET BPS7_R = 1
+
+IF BPS8 = 1 THEN LET BPS8_R = 7
+IF BPS8 = 2 THEN LET BPS8_R = 6
+IF BPS8 = 3 THEN LET BPS8_R = 5
+IF BPS8 = 4 THEN LET BPS8_R = 4
+IF BPS8 = 5 THEN LET BPS8_R = 3
+IF BPS8 = 6 THEN LET BPS8_R = 2
+IF BPS8 = 7 THEN LET BPS8_R = 1
+
+IF BPS11 = 1 THEN LET BPS11_R = 7
+IF BPS11 = 2 THEN LET BPS11_R = 6
+IF BPS11 = 3 THEN LET BPS11_R = 5
+IF BPS11 = 4 THEN LET BPS11_R = 4
+IF BPS11 = 5 THEN LET BPS11_R = 3
+IF BPS11 = 6 THEN LET BPS11_R = 2
+IF BPS11 = 7 THEN LET BPS11_R = 1
+
+IF BPS13 = 1 THEN LET BPS13_R = 7
+IF BPS13 = 2 THEN LET BPS13_R = 6
+IF BPS13 = 3 THEN LET BPS13_R = 5
+IF BPS13 = 4 THEN LET BPS13_R = 4
+IF BPS13 = 5 THEN LET BPS13_R = 3
+IF BPS13 = 6 THEN LET BPS13_R = 2
+IF BPS13 = 7 THEN LET BPS13_R = 1
+
+IF BPS15 = 1 THEN LET BPS15_R = 7
+IF BPS15 = 2 THEN LET BPS15_R = 6
+IF BPS15 = 3 THEN LET BPS15_R = 5
+IF BPS15 = 4 THEN LET BPS15_R = 4
+IF BPS15 = 5 THEN LET BPS15_R = 3
+IF BPS15 = 6 THEN LET BPS15_R = 2
+IF BPS15 = 7 THEN LET BPS15_R = 1
+
+IF BPS18 = 1 THEN LET BPS18_R = 7
+IF BPS18 = 2 THEN LET BPS18_R = 6
+IF BPS18 = 3 THEN LET BPS18_R = 5
+IF BPS18 = 4 THEN LET BPS18_R = 4
+IF BPS18 = 5 THEN LET BPS18_R = 3
+IF BPS18 = 6 THEN LET BPS18_R = 2
+IF BPS18 = 7 THEN LET BPS18_R = 1
+
+IF BPS22 = 1 THEN LET BPS22_R = 7
+IF BPS22 = 2 THEN LET BPS22_R = 6
+IF BPS22 = 3 THEN LET BPS22_R = 5
+IF BPS22 = 4 THEN LET BPS22_R = 4
+IF BPS22 = 5 THEN LET BPS22_R = 3
+IF BPS22 = 6 THEN LET BPS22_R = 2
+IF BPS22 = 7 THEN LET BPS22_R = 1
+
+IF BPS23 = 1 THEN LET BPS23_R = 7
+IF BPS23 = 2 THEN LET BPS23_R = 6
+IF BPS23 = 3 THEN LET BPS23_R = 5
+IF BPS23 = 4 THEN LET BPS23_R = 4
+IF BPS23 = 5 THEN LET BPS23_R = 3
+IF BPS23 = 6 THEN LET BPS23_R = 2
+IF BPS23 = 7 THEN LET BPS23_R = 1
+
+IF BPS24 = 1 THEN LET BPS24_R = 7
+IF BPS24 = 2 THEN LET BPS24_R = 6
+IF BPS24 = 3 THEN LET BPS24_R = 5
+IF BPS24 = 4 THEN LET BPS24_R = 4
+IF BPS24 = 5 THEN LET BPS24_R = 3
+IF BPS24 = 6 THEN LET BPS24_R = 2
+IF BPS24 = 7 THEN LET BPS24_R = 1
+
+
+LET BPS_INT = BPS1_R + BPS8_R + BPS11_R + BPS13_R + BPS22_R + BPS24_R
+LET BPS_EXT = BPS6 + BPS9 + BPS19 + BPS25 + BPS27 + BPS28
+
+
+
+
+------------------------------------------------------
+LET RREF_BPT = 0
+IF RRE_F1 >=1 THEN LET RREF_BPT = 1
+IF RRE_F2 >=1 THEN LET RREF_BPT = 2
+IF RRE_F3 >=1 THEN LET RREF_BPT = 3
+IF RRE_F4 >=1 THEN LET RREF_BPT = 4
+IF RRE_F5 >=1 THEN LET RREF_BPT = 5
+IF RRE_F6 >=1 THEN LET RREF_BPT = 6
+IF RRE_F7 >=1 THEN LET RREF_BPT = 7
+IF RRE_F8 >=1 THEN LET RREF_BPT = 8
+IF RRE_F9 >=1 THEN LET RREF_BPT = 9
+IF RRE_F10 >=1 THEN LET RREF_BPT = 10
+IF RRE_F11 >=1 THEN LET RREF_BPT = 11
+IF RRE_F12 >=1 THEN LET RREF_BPT = 12
+if rre_f1 = . then let rref_bpt = .
+
+LET RREF_INT = RRE_F1
+if rre_f1 = . then let rref_int = .
+
+LET SPT_F1 = RRE_F1*0
+LET SPT_F2 = RRE_F2*0.06
+LET SPT_F3 = RRE_F3*0.12
+LET SPT_F4 = RRE_F4*0.25
+LET SPT_F5 = RRE_F5*0.50
+LET SPT_F6 = RRE_F6*1
+LET SPT_F7 = RRE_F7*2
+LET SPT_F8 = RRE_F8*5
+LET SPT_F9 = RRE_F9*10
+LET SPT_F10 = RRE_F10*20
+LET SPT_F11 = RRE_F11*40
+LET SPT_F12 = RRE_F11*80
+if rre_f1 = . then let spt_f1 = .
+
+LET RREF_PMAX = 0 
+IF RREF_BPT = 1 THEN LET RREF_PMAX = 0
+IF RREF_BPT = 2 THEN LET RREF_PMAX = 0.06
+IF RREF_BPT = 3 THEN LET RREF_PMAX = 0.12
+IF RREF_BPT = 4 THEN LET RREF_PMAX = 0.25
+IF RREF_BPT = 5 THEN LET RREF_PMAX = 0.50
+IF RREF_BPT = 6 THEN LET RREF_PMAX = 1
+IF RREF_BPT = 7 THEN LET RREF_PMAX = 2
+IF RREF_BPT = 8 THEN LET RREF_PMAX = 5
+IF RREF_BPT = 9 THEN LET RREF_PMAX = 10
+IF RREF_BPT = 10 THEN LET RREF_PMAX = 20
+IF RREF_BPT = 11 THEN LET RREF_PMAX = 40
+IF RREF_BPT = 12 THEN LET RREF_PMAX = 80
+if rre_f1 = . then let rref_pmax = .
+
+LET RREF_OMAX = 1
+IF SPT_F2 >0 THEN LET RREF_OMAX = SPT_F2
+IF SPT_F3 > SPT_F2 THEN LET RREF_OMAX = SPT_F3
+IF SPT_F4 > SPT_F3 THEN LET RREF_OMAX = SPT_F4
+IF SPT_F5 > SPT_F4 THEN LET RREF_OMAX = SPT_F5
+IF SPT_F6 > SPT_F5 THEN LET RREF_OMAX = SPT_F6
+IF SPT_F7 > SPT_F6 THEN LET RREF_OMAX = SPT_F7
+IF SPT_F8 > SPT_F7 THEN LET RREF_OMAX = SPT_F8
+IF SPT_F9 > SPT_F8 THEN LET RREF_OMAX = SPT_F9
+IF SPT_F10 > SPT_F9 THEN LET RREF_OMAX = SPT_F10
+IF SPT_F11 > SPT_F10 THEN LET RREF_OMAX = SPT_F11
+IF SPT_F12 > SPT_F11 THEN LET RREF_OMAX = SPT_F12
+if rre_f1 = . then let rref_omax = .
+
+
+LET RREA_BPT = 0
+IF RRE_A1 >=1 THEN LET RREA_BPT = 1
+IF RRE_A2 >=1 THEN LET RREA_BPT = 2
+IF RRE_A3 >=1 THEN LET RREA_BPT = 3
+IF RRE_A4 >=1 THEN LET RREA_BPT = 4
+IF RRE_A5 >=1 THEN LET RREA_BPT = 5
+IF RRE_A6 >=1 THEN LET RREA_BPT = 6
+IF RRE_A7 >=1 THEN LET RREA_BPT = 7
+IF RRE_A8 >=1 THEN LET RREA_BPT = 8
+IF RRE_A9 >=1 THEN LET RREA_BPT = 9
+IF RRE_A10 >=1 THEN LET RREA_BPT = 10
+IF RRE_A11 >=1 THEN LET RREA_BPT = 11
+IF RRE_A12 >=1 THEN LET RREA_BPT = 12
+if rre_a1 = . then let rrea_bpt = .
+
+
+LET RREA_INT = RRE_A1
+
+if rre_a1 = . then let rrea_int = .
+
+
+LET SPT_A1 = RRE_A1*0
+LET SPT_A2 = RRE_A2*0.06
+LET SPT_A3 = RRE_A3*0.12
+LET SPT_A4 = RRE_A4*0.25
+LET SPT_A5 = RRE_A5*0.50
+LET SPT_A6 = RRE_A6*1
+LET SPT_A7 = RRE_A7*2
+LET SPT_A8 = RRE_A8*5
+LET SPT_A9 = RRE_A9*10
+LET SPT_A10 = RRE_A10*20
+LET SPT_A11 = RRE_A11*40
+LET SPT_A12 = RRE_A12*80
+if rre_a1 = . then let spt_a1 = .
+
+LET RREA_PMAX = 0 
+IF RREA_BPT = 1 THEN LET RREA_PMAX = 0
+IF RREA_BPT = 2 THEN LET RREA_PMAX = 0.06
+IF RREA_BPT = 3 THEN LET RREA_PMAX = 0.12
+IF RREA_BPT = 4 THEN LET RREA_PMAX = 0.25
+IF RREA_BPT = 5 THEN LET RREA_PMAX = 0.50
+IF RREA_BPT = 6 THEN LET RREA_PMAX = 1
+IF RREA_BPT = 7 THEN LET RREA_PMAX = 2
+IF RREA_BPT = 8 THEN LET RREA_PMAX = 5
+IF RREA_BPT = 9 THEN LET RREA_PMAX = 10
+IF RREA_BPT = 10 THEN LET RREA_PMAX = 20
+IF RREA_BPT = 11 THEN LET RREA_PMAX = 40
+IF RREA_BPT = 12 THEN LET RREA_PMAX = 80
+if rre_a1 = . then let rrea_pmax = .
+
+LET RREA_OMAX = 1
+IF SPT_A2 >0 THEN LET RREA_OMAX = SPT_A2
+IF SPT_A3 > SPT_A2 THEN LET RREA_OMAX = SPT_A3
+IF SPT_A4 > SPT_A3 THEN LET RREA_OMAX = SPT_A4
+IF SPT_A5 > SPT_A4 THEN LET RREA_OMAX = SPT_A5
+IF SPT_A6 > SPT_A5 THEN LET RREA_OMAX = SPT_A6
+IF SPT_A7 > SPT_A6 THEN LET RREA_OMAX = SPT_A7
+IF SPT_A8 > SPT_A7 THEN LET RREA_OMAX = SPT_A8
+IF SPT_A9 > SPT_A8 THEN LET RREA_OMAX = SPT_A9
+IF SPT_A10 > SPT_A9 THEN LET RREA_OMAX = SPT_A10
+IF SPT_A11 > SPT_A10 THEN LET RREA_OMAX = SPT_A11
+IF SPT_A12 > SPT_A11 THEN LET RREA_OMAX = SPT_A12
+if rre_a1 = . then let rrea_omax = .
+
+LET LOG_F1 = LOG(RRE_F1 + 1)
+LET LOG_F2 = LOG(RRE_F2 + 1)
+LET LOG_F3 = LOG(RRE_F3 + 1)
+LET LOG_F4 = LOG(RRE_F4 + 1)
+LET LOG_F5 = LOG(RRE_F5 + 1)
+LET LOG_F6 = LOG(RRE_F6 + 1)
+LET LOG_F7 = LOG(RRE_F7 + 1)
+LET LOG_F8 = LOG(RRE_F8 + 1)
+LET LOG_F9 = LOG(RRE_F9 + 1)
+LET LOG_F10 = LOG(RRE_F10 + 1)
+LET LOG_F11 = LOG(RRE_F11 + 1)
+LET LOG_F12 = LOG(RRE_F12 + 1)
+
+LET LOG_A1 = LOG(RRE_A1 + 1)
+LET LOG_A2 = LOG(RRE_A2 + 1)
+LET LOG_A3 = LOG(RRE_A3 + 1)
+LET LOG_A4 = LOG(RRE_A4 + 1)
+LET LOG_A5 = LOG(RRE_A5 + 1)
+LET LOG_A6 = LOG(RRE_A6 + 1)
+LET LOG_A7 = LOG(RRE_A7 + 1)
+LET LOG_A8 = LOG(RRE_A8 + 1)
+LET LOG_A9 = LOG(RRE_A9 + 1)
+LET LOG_A10 = LOG(RRE_A10 + 1)
+LET LOG_A11 = LOG(RRE_A11 + 1)
+LET LOG_A12 = LOG(RRE_A12 + 1)
+
+LET LOG_PRICE1 = LOG(PRICE(1) + 1)
+LET LOG_PRICE2 = LOG(PRICE(2) + 1)
+LET LOG_PRICE3 = LOG(PRICE(3) + 1)
+LET LOG_PRICE4 = LOG(PRICE(4) + 1)
+LET LOG_PRICE5 = LOG(PRICE(5) + 1)
+LET LOG_PRICE6 = LOG(PRICE(6) + 1)
+LET LOG_PRICE7 = LOG(PRICE(7) + 1)
+LET LOG_PRICE8 = LOG(PRICE(8) + 1)
+LET LOG_PRICE9 = LOG(PRICE(9) + 1)
+LET LOG_PRICE10 = LOG(PRICE(10) + 1)
+LET LOG_PRICE11 = LOG(PRICE(11) + 1)
+LET LOG_PRICE12 = LOG(PRICE(12) + 1)
+
+
+RATE1 = LIKING/ENJOYMENT
+RATE2 = IMPORTANCE
+RATE3 = EXCITING
+RATE4 = HOW MUCH ABLE TO THINK ABOUT
+RATE5 = VIVIDNESS OF IMAGINING PLACES/TIMES/EVENTS
+
+
+
+AUC
+
+IP30
+IP180
+IP365
+
+LET AUC = [ PROPORTION OF DELAY2 - PROPORTION OF DELAY1)*([PROPORTION OF AMT2 - PROP OF AMT1]/2)
+
+LET AUC = ((PROPD2 - PROPD1) * ((PROPA2 - PROPA1) / 2)) + ((PROPD3 - PROPD2) * ((PROPA3 - PROPA2) / 2))
+
+LET AUC =( ( (180/365) - (30/365) ) *  ( (IP180/100 + IP30/100) / 2) ) + (( (365/365) - (180/365) ) * ( (IP365/100 + IP180/100) / 2) )  
+
+
+------------------------------------------------------
+NONSYSTEMATIC DATA
+
+if respid_$ = 'R_1E5QXPMOGZ' then let exclude = 2
+IF RESPID_$ = 'R_1ONWAR5K4P' THEN LET EXCLUDE = 2
+IF RESPID_$ = 'R_2BYBYP09QF' THEN LET EXCLUDE = 2
+if respid_$ = 'R_1E5QXPMOGZ' then let exclude = 2
+if respid_$ = 'R_2DTTYPWPLC' then let exclude = 2
+if respid_$ = 'R_3L6W2VGTD0' then let exclude = 2
+if respid_$ = 'R_PLUQ10QWM7' then let exclude = 2
+
+IF RRE_F1 = 0 THEN LET EXCLUDE = 2
+
+
+
+
+

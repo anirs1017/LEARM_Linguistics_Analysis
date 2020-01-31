@@ -1,0 +1,674 @@
+SYSTAT Rectangular file C:\Users\kcarr\Dropbox\EFT ALT data\2018-04-28 FINAL EFTALT.syd,
+created Fri Apr 27, 2018 at 10:57:02, contains variables:
+ ID           RESPID_$     COMPLETE     EXCLUDE      TIME         TYPE
+ SCN_AGE      SCN_SEX      SCN_PGNT     HT_FT        HT_IN        WEIGHT
+ BODY_COMP    MARITAL      EMPLOY1      EMPLOY2      EMPLOY3      STUDENT
+ EDU_LVL      EDU_DEG      EDU_DEG$     EDU_DAD      EDU_MOM      INC_LVL
+ INC1         INC2         INC3         INC_$        HH_TOT       HH_CHD
+ HH_ADT       HH_INC       RACE$        RACE_$       ETHNICITY    COM_LAD
+ NAT_LAD      FSM(1..6)    PHQ(1..9)    FAV_FOOD     FAV_ACT      LIKE_FOOD
+ LIKE_ACT     GOAL$        G1_IMP       G1_MOT       G1_CONF      CUE1$
+ T1_RATE1     T1_RATE2     T1_RATE3     T1_RATE4     T1_RATE5     CUE1_1$
+ T1_CHECK1    T1_CHECK2    T1_CHECK3    T1_CHECK4    T1_CHECK5    T1_CHECK6
+ T1_CHECK7    CUE2$        T2_RATE1     T2_RATE2     T2_RATE3     T2_RATE4
+ T2_RATE5     CUE2_2$      T2_CHECK1    T2_CHECK2    T2_CHECK3    T2_CHECK4
+ T2_CHECK5    T2_CHECK6    T2_CHECK7    CUE3$        T3_RATE1     T3_RATE2
+ T3_RATE3     T3_RATE4     T3_RATE5     CUE3_3$      T3_CHECK1    T3_CHECK2
+ T3_CHECK3    T3_CHECK4    T3_CHECK5    T3_CHECK6    T3_CHECK7    ATTEN1
+ ATTEN2       RRE_F1       RRE_A1       RRE_F2       RRE_A2       RRE_F3
+ RRE_A3       RRE_F4       RRE_A4       RRE_F5       RRE_A5       RRE_F6
+ RRE_A6       RRE_F7       RRE_A7       RRE_F8       RRE_A8       RRE_F9
+ RRE_A9       RRE_F10      RRE_A10      RRE_F11      RRE_A11      RRE_F12
+ RRE_A12      MAX_FOOD$    MAX_ACT$     GROUP$       GROUP        IP30
+ IP180        IP365        HT_TOT       HT_CM        HT_MT        WT_KG
+ BMI          BMIGP        OVWTGP       PER_OVT      BCOMPGP      INCOME
+ EDU_YEARS    MIN          POVERTY      FSM_SCO1     FSM_SCO2     FSM_SCO3
+ FSM_SCO4     FSM_SCO5     FSM_SCO6     FSEC_TOT     FSEC         PHQ_S1
+ PHQ_S2       PHQ_S3       PHQ_S4       PHQ_S5       PHQ_S6       PHQ_S7
+ PHQ_S8       PHQ_TOT      PHQ_GP       PHQ_GP2      RREF_BPT     RREF_INT
+ SPT_F1       SPT_F2       SPT_F3       SPT_F4       SPT_F5       SPT_F6
+ SPT_F7       SPT_F8       SPT_F9       SPT_F10      SPT_F11      SPT_F12
+ RREF_PMAX    RREF_OMAX    RREA_BPT     RREA_INT     SPT_A1       SPT_A2
+ SPT_A3       SPT_A4       SPT_A5       SPT_A6       SPT_A7       SPT_A8
+ SPT_A9       SPT_A10      SPT_A11      SPT_A12      RREA_PMAX    RREA_OMAX
+ RRE_PMAXP    AUC          CUE1         T1CHECK      T2CHECK      RATE1
+ LOG_FINT     LOG_AINT     LOG_FPMAX    LOG_APMAX    RRE_INTP     RATE2
+ RATE_VIVID   RACE         MAX_FOOD     MAX_ACT
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+GROUP (4 levels)
+          1,        2,        3,        4
+ 
+Dep Var: SCN_AGE   N: 265   Multiple R: 0.145   Squared multiple R: 0.021
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+GROUP                    660.320     3      220.107       1.866       0.136
+                                                                                                                                                                                                        
+Error                  30781.454   261      117.937
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  GROUP       =1                  35.492        1.368      63
+  GROUP       =2                  38.954        1.347      65
+  GROUP       =3                  34.791        1.327      67
+  GROUP       =4                  35.943        1.298      70
+
+ 
+-------------------------------------------------------------------------------
+ 
+Durbin-Watson D Statistic          2.080
+First Order Autocorrelation       -0.043
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+GROUP (4 levels)
+          1,        2,        3,        4
+ 
+Dep Var: HH_TOT   N: 265   Multiple R: 0.069   Squared multiple R: 0.005
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+GROUP                      2.518     3        0.839       0.418       0.740
+                                                                                                                                                                                                        
+Error                    523.617   261        2.006
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  GROUP       =1                   2.540        0.178      63
+  GROUP       =2                   2.354        0.176      65
+  GROUP       =3                   2.597        0.173      67
+  GROUP       =4                   2.586        0.169      70
+
+ 
+-------------------------------------------------------------------------------
+ 
+Durbin-Watson D Statistic          2.284
+First Order Autocorrelation       -0.144
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+GROUP (4 levels)
+          1,        2,        3,        4
+ 
+Dep Var: PHQ_TOT   N: 265   Multiple R: 0.071   Squared multiple R: 0.005
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+GROUP                     19.137     3        6.379       0.439       0.725
+                                                                                                                                                                                                        
+Error                   3790.086   261       14.521
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  GROUP       =1                   4.413        0.480      63
+  GROUP       =2                   4.692        0.473      65
+  GROUP       =3                   4.925        0.466      67
+  GROUP       =4                   4.229        0.455      70
+
+ 
+-------------------------------------------------------------------------------
+ 
+Durbin-Watson D Statistic          2.113
+First Order Autocorrelation       -0.059
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+GROUP (4 levels)
+          1,        2,        3,        4
+ 
+Dep Var: LIKE_FOOD   N: 265   Multiple R: 0.185   Squared multiple R: 0.034
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+GROUP                     17.140     3        5.713       3.070       0.028
+                                                                                                                                                                                                        
+Error                    485.675   261        1.861
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  GROUP       =1                   5.746        0.172      63
+  GROUP       =2                   5.138        0.169      65
+  GROUP       =3                   5.776        0.167      67
+  GROUP       =4                   5.629        0.163      70
+
+ 
+-------------------------------------------------------------------------------
+ 
+Durbin-Watson D Statistic          2.083
+First Order Autocorrelation       -0.047
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+GROUP (4 levels)
+          1,        2,        3,        4
+ 
+Dep Var: LIKE_ACT   N: 265   Multiple R: 0.156   Squared multiple R: 0.024
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+GROUP                      5.733     3        1.911       2.160       0.093
+                                                                                                                                                                                                        
+Error                    230.924   261        0.885
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  GROUP       =1                   6.540        0.119      63
+  GROUP       =2                   6.123        0.117      65
+  GROUP       =3                   6.373        0.115      67
+  GROUP       =4                   6.386        0.112      70
+
+ 
+-------------------------------------------------------------------------------
+*** WARNING ***
+Case          129 is an outlier        (Studentized Residual =       -5.825)
+ 
+Durbin-Watson D Statistic          2.080
+First Order Autocorrelation       -0.042
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+GROUP (4 levels)
+          1,        2,        3,        4
+ 
+Dep Var: BMI   N: 265   Multiple R: 0.062   Squared multiple R: 0.004
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+GROUP                     42.137     3       14.046       0.337       0.799
+                                                                                                                                                                                                        
+Error                  10893.177   261       41.736
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  GROUP       =1                  26.280        0.814      63
+  GROUP       =2                  26.664        0.801      65
+  GROUP       =3                  26.464        0.789      67
+  GROUP       =4                  27.323        0.772      70
+
+ 
+-------------------------------------------------------------------------------
+*** WARNING ***
+Case           41 is an outlier        (Studentized Residual =        3.904)
+ 
+Durbin-Watson D Statistic          1.802
+First Order Autocorrelation        0.097
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+GROUP (4 levels)
+          1,        2,        3,        4
+ 
+Dep Var: PER_OVT   N: 265   Multiple R: 0.088   Squared multiple R: 0.008
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+GROUP                   1129.620     3      376.540       0.678       0.566
+                                                                                                                                                                                                        
+Error                 144926.842   261      555.275
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  GROUP       =1                  46.786        2.969      63
+  GROUP       =2                  43.692        2.923      65
+  GROUP       =3                  42.052        2.879      67
+  GROUP       =4                  46.857        2.816      70
+
+ 
+-------------------------------------------------------------------------------
+ 
+Durbin-Watson D Statistic          1.919
+First Order Autocorrelation        0.038
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+GROUP (4 levels)
+          1,        2,        3,        4
+ 
+Dep Var: INCOME   N: 265   Multiple R: 0.117   Squared multiple R: 0.014
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+GROUP                2.81415E+10     3  9.38050E+09       1.202       0.310
+                                                                                                                                                                                                        
+Error                2.03730E+12   261  7.80574E+09
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  GROUP       =1               76690.476    11131.065      63
+  GROUP       =2               87846.154    10958.480      65
+  GROUP       =3              104514.925    10793.681      67
+  GROUP       =4               97025.000    10559.855      70
+
+ 
+-------------------------------------------------------------------------------
+*** WARNING ***
+Case           69 is an outlier        (Studentized Residual =        4.147)
+Case          236 is an outlier        (Studentized Residual =        8.372)
+Case          248 is an outlier        (Studentized Residual =        8.254)
+ 
+Durbin-Watson D Statistic          1.882
+First Order Autocorrelation        0.051
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+GROUP (4 levels)
+          1,        2,        3,        4
+12 case(s) deleted due to missing data.
+ 
+Dep Var: EDU_YEARS   N: 253   Multiple R: 0.131   Squared multiple R: 0.017
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+GROUP                     24.734     3        8.245       1.444       0.231
+                                                                                                                                                                                                        
+Error                   1421.993   249        5.711
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  GROUP       =1                  16.413        0.301      63
+  GROUP       =2                  17.048        0.303      62
+  GROUP       =3                  16.190        0.301      63
+  GROUP       =4                  16.538        0.296      65
+
+ 
+-------------------------------------------------------------------------------
+ 
+Durbin-Watson D Statistic          1.627
+First Order Autocorrelation        0.180
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+GROUP (4 levels)
+          1,        2,        3,        4
+ 
+Dep Var: FSEC_TOT   N: 265   Multiple R: 0.089   Squared multiple R: 0.008
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+GROUP                      3.077     3        1.026       0.693       0.557
+                                                                                                                                                                                                        
+Error                    386.379   261        1.480
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  GROUP       =1                   1.635        0.153      63
+  GROUP       =2                   1.477        0.151      65
+  GROUP       =3                   1.687        0.149      67
+  GROUP       =4                   1.429        0.145      70
+
+ 
+-------------------------------------------------------------------------------
+*** WARNING ***
+Case           11 is an outlier        (Studentized Residual =        3.844)
+Case          160 is an outlier        (Studentized Residual =        3.844)
+ 
+Durbin-Watson D Statistic          2.073
+First Order Autocorrelation       -0.037
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Frequencies
+ GROUP (rows) by SCN_SEX (columns)
+ 
+            1     2     3    Total
+       +-------------------+
+     1 |   23    40     0  |    63
+     2 |   20    44     1  |    65
+     3 |   28    38     1  |    67
+     4 |   24    46     0  |    70
+       +-------------------+
+ Total     95   168     2      265
+
+ 
+ 
+ 
+WARNING: More than one-fifth of fitted cells are sparse (frequency < 5).
+         Significance tests computed on this table are suspect.
+Test statistic                         Value          df           Prob
+  Pearson Chi-square                   3.919       6.000          0.688
+  Likelihood ratio Chi-square          4.695       6.000          0.583
+
+ 
+Coefficient                            Value       Asymptotic Std Error
+  Phi                                  0.122
+  Cramer V                             0.086
+  Contingency                          0.121
+  Goodman-Kruskal Gamma               -0.015               0.092
+  Kendall Tau-B                       -0.009               0.055
+  Stuart Tau-C                        -0.008               0.049
+  Spearman Rho                        -0.010               0.061
+  Somers D    (column dependent)      -0.007               0.043
+  Lambda      (column dependent)       0.000               0.000
+  Uncertainty (column dependent)       0.013               0.009
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Frequencies
+ GROUP (rows) by OVWTGP (columns)
+ 
+            0     1    Total
+       +-------------+
+     1 |   30    33  |    63
+     2 |   29    36  |    65
+     3 |   35    32  |    67
+     4 |   30    40  |    70
+       +-------------+
+ Total    124   141      265
+
+ 
+ 
+Test statistic                         Value          df           Prob
+  Pearson Chi-square                   1.375       3.000          0.711
+  Likelihood ratio Chi-square          1.375       3.000          0.711
+
+ 
+Coefficient                            Value       Asymptotic Std Error
+  Phi                                  0.072
+  Cramer V                             0.072
+  Contingency                          0.072
+  Goodman-Kruskal Gamma                0.025               0.091
+  Kendall Tau-B                        0.015               0.056
+  Stuart Tau-C                         0.019               0.068
+  Spearman Rho                         0.017               0.061
+  Somers D    (column dependent)       0.012               0.046
+  Lambda      (column dependent)       0.024               0.065
+  Uncertainty (column dependent)       0.004               0.006
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Frequencies
+ GROUP (rows) by BCOMPGP (columns)
+ 
+            0     1    Total
+       +-------------+
+     1 |   38    25  |    63
+     2 |   41    24  |    65
+     3 |   46    21  |    67
+     4 |   38    32  |    70
+       +-------------+
+ Total    163   102      265
+
+ 
+ 
+Test statistic                         Value          df           Prob
+  Pearson Chi-square                   3.094       3.000          0.377
+  Likelihood ratio Chi-square          3.105       3.000          0.376
+
+ 
+Coefficient                            Value       Asymptotic Std Error
+  Phi                                  0.108
+  Cramer V                             0.108
+  Contingency                          0.107
+  Goodman-Kruskal Gamma                0.051               0.095
+  Kendall Tau-B                        0.030               0.057
+  Stuart Tau-C                         0.036               0.068
+  Spearman Rho                         0.033               0.062
+  Somers D    (column dependent)       0.024               0.045
+  Lambda      (column dependent)       0.000               0.000
+  Uncertainty (column dependent)       0.009               0.010
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Frequencies
+ BCOMPGP (rows) by OVWTGP (columns)
+ 
+            0     1    Total
+       +-------------+
+     0 |  113    50  |   163
+     1 |   11    91  |   102
+       +-------------+
+ Total    124   141      265
+
+ 
+ 
+Test statistic                         Value          df           Prob
+  Pearson Chi-square                  86.360       1.000          0.000
+  Likelihood ratio Chi-square         95.542       1.000          0.000
+  McNemar Symmetry Chi-square         24.934       1.000          0.000
+  Yates corrected Chi-square          84.024       1.000          0.000
+  Fisher exact test (two-tail)                                    0.000
+
+ 
+Coefficient                            Value       Asymptotic Std Error
+  Odds Ratio                          18.696
+  Ln(Odds)                             2.928               0.362
+  Phi                                  0.571
+  Cramer V                             0.571
+  Contingency                          0.496
+  Goodman-Kruskal Gamma                0.898               0.035
+  Kendall Tau-B                        0.571               0.047
+  Stuart Tau-C                         0.554               0.048
+  Yule Q                               0.898               0.035
+  Yule Y                               0.624               0.055
+  Cohen Kappa                          0.546               0.049
+  Spearman Rho                         0.571               0.047
+  Somers D    (column dependent)       0.585               0.047
+  Lambda      (column dependent)       0.508               0.072
+  Uncertainty (column dependent)       0.261               0.046
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Frequencies
+ GROUP (rows) by EMPLOY1 (columns)
+ 
+            1     2     4     5     6     7     8    Total
+       +-------------------------------------------+
+     1 |   37     8     1     3     0     3    11  |    63
+     2 |   45     9     4     2     2     1     2  |    65
+     3 |   43     9     3     2     2     2     6  |    67
+     4 |   56     7     1     0     1     0     5  |    70
+       +-------------------------------------------+
+ Total    181    33     9     7     5     6    24      265
+
+ 
+ 
+ 
+WARNING: More than one-fifth of fitted cells are sparse (frequency < 5).
+         Significance tests computed on this table are suspect.
+Test statistic                         Value          df           Prob
+  Pearson Chi-square                  22.577      18.000          0.207
+  Likelihood ratio Chi-square         26.347      18.000          0.092
+
+ 
+Coefficient                            Value       Asymptotic Std Error
+  Phi                                  0.292
+  Cramer V                             0.169
+  Contingency                          0.280
+  Goodman-Kruskal Gamma               -0.213               0.084
+  Kendall Tau-B                       -0.132               0.053
+  Stuart Tau-C                        -0.109               0.044
+  Spearman Rho                        -0.152               0.060
+  Somers D    (column dependent)      -0.109               0.044
+  Lambda      (column dependent)       0.000               0.000
+  Uncertainty (column dependent)       0.045               0.013
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Frequencies
+ GROUP (rows) by MARITAL (columns)
+ 
+            1     2     3     4     5    Total
+       +-------------------------------+
+     1 |   19    29     9     5     1  |    63
+     2 |   22    34     4     5     0  |    65
+     3 |   27    29    10     1     0  |    67
+     4 |   27    28    10     4     1  |    70
+       +-------------------------------+
+ Total     95   120    33    15     2      265
+
+ 
+ 
+ 
+WARNING: More than one-fifth of fitted cells are sparse (frequency < 5).
+         Significance tests computed on this table are suspect.
+Test statistic                         Value          df           Prob
+  Pearson Chi-square                  10.225      12.000          0.596
+  Likelihood ratio Chi-square         12.185      12.000          0.431
+
+ 
+Coefficient                            Value       Asymptotic Std Error
+  Phi                                  0.196
+  Cramer V                             0.113
+  Contingency                          0.193
+  Goodman-Kruskal Gamma               -0.076               0.078
+  Kendall Tau-B                       -0.053               0.055
+  Stuart Tau-C                        -0.049               0.051
+  Spearman Rho                        -0.061               0.063
+  Somers D    (column dependent)      -0.049               0.051
+  Lambda      (column dependent)       0.000               0.000
+  Uncertainty (column dependent)       0.019               0.009
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Frequencies
+ GROUP (rows) by MIN (columns)
+ 
+            0     1    Total
+       +-------------+
+     1 |   46    17  |    63
+     2 |   52    13  |    65
+     3 |   59     8  |    67
+     4 |   55    15  |    70
+       +-------------+
+ Total    212    53      265
+
+ 
+ 
+Test statistic                         Value          df           Prob
+  Pearson Chi-square                   4.730       3.000          0.193
+  Likelihood ratio Chi-square          4.941       3.000          0.176
+
+ 
+Coefficient                            Value       Asymptotic Std Error
+  Phi                                  0.134
+  Cramer V                             0.134
+  Contingency                          0.132
+  Goodman-Kruskal Gamma               -0.119               0.120
+  Kendall Tau-B                       -0.059               0.059
+  Stuart Tau-C                        -0.057               0.058
+  Spearman Rho                        -0.064               0.065
+  Somers D    (column dependent)      -0.038               0.039
+  Lambda      (column dependent)       0.000               0.000
+  Uncertainty (column dependent)       0.019               0.016

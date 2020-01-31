@@ -1,0 +1,16 @@
+LET LOG_PRICE = log(price+1)
+let log_food = log(food+1)
+let log_act = log(activity+1)
+
+by id_$
+mix
+clear
+model log_food = intercept log_price
+identifier id
+est
+
+model log_act = intercept log_price
+identifier id
+est
+
+

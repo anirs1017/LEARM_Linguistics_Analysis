@@ -1,0 +1,4518 @@
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.132648D+05 0.000000D+00
+   1 0.395171D+04 0.259149D-02
+   2 0.138773D+04 0.665337D-02
+   3 0.738147D+03 0.113507D-01
+   4 0.594098D+03 0.151435D-01
+   5 0.569876D+03 0.172328D-01
+   6 0.566860D+03 0.180746D-01
+   7 0.566551D+03 0.183574D-01
+   8 0.566522D+03 0.184454D-01
+   9 0.566520D+03 0.184721D-01
+  10 0.566519D+03 0.184801D-01
+  11 0.566519D+03 0.184825D-01
+  12 0.566519D+03 0.184832D-01
+  13 0.566519D+03 0.184835D-01
+ 
+Dependent variable is COL2
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       3790.2746     1   3790.2746
+   Residual        566.5194     2   283.2597
+ 
+      Total       4356.7940     3
+Mean corrected     649.5235     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.8700
+Mean corrected R-square (1-Residual/Corrected) =       0.1278
+          R(observed vs predicted) square      =       0.6433
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0185       0.0100       1.8493      -0.0245       0.0615
+ 
+          COL2         COL2
+  Case     Observed    Predicted     Residual
+      1      49.2200      64.3291     -15.1091
+      2      41.4000      23.1105      18.2895
+      3      14.8400      12.9091       1.9309
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.669240D+01 0.000000D+00
+   1 0.521399D+01 0.297433D-04
+   2 0.521372D+01 0.301471D-04
+   3 0.521372D+01 0.301487D-04
+   4 0.521372D+01 0.301487D-04
+ 
+Dependent variable is COL3
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29221.4787     1  29221.4787
+   Residual          5.2137     2     2.6069
+ 
+      Total      29226.6924     3
+Mean corrected       1.6224     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9998
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.6988
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.834223D+04 0.000000D+00
+   1 0.179801D+04 0.212799D-02
+   2 0.400686D+03 0.466057D-02
+   3 0.213673D+03 0.640362D-02
+   4 0.201912D+03 0.699515D-02
+   5 0.201581D+03 0.710338D-02
+   6 0.201575D+03 0.711859D-02
+   7 0.201575D+03 0.712062D-02
+   8 0.201575D+03 0.712089D-02
+ 
+Dependent variable is COL6
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       7984.6568     1   7984.6568
+   Residual        201.5748     2   100.7874
+ 
+      Total       8186.2316     3
+Mean corrected     764.0288     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9754
+Mean corrected R-square (1-Residual/Corrected) =       0.7362
+          R(observed vs predicted) square      =       0.9562
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0071       0.0020       3.4778      -0.0017       0.0159
+ 
+          COL6         COL6
+  Case     Observed    Predicted     Residual
+      1      69.5400      82.3976     -12.8576
+      2      49.2200      43.8257       5.3943
+      3      30.4600      27.7844       2.6756
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.310284D+02 0.000000D+00
+   1 0.329402D+01 0.129512D-03
+   2 0.326044D+01 0.134404D-03
+   3 0.326044D+01 0.134381D-03
+   4 0.326044D+01 0.134382D-03
+ 
+Dependent variable is COL8
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      28623.7680     1  28623.7680
+   Residual          3.2604     2     1.6302
+ 
+      Total      28627.0284     3
+Mean corrected      14.6016     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9999
+Mean corrected R-square (1-Residual/Corrected) =       0.7767
+          R(observed vs predicted) square      =       0.7901
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0001       0.0000       3.9427      -0.0000       0.0003
+ 
+          COL8         COL8
+  Case     Observed    Predicted     Residual
+      1      99.2200      99.5985      -0.3785
+      2      99.2200      97.6383       1.5817
+      3      94.5400      95.3244      -0.7844
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.109310D+03 0.000000D+00
+   1 0.642633D+02 0.162516D-03
+   2 0.639835D+02 0.176673D-03
+   3 0.639831D+02 0.177168D-03
+   4 0.639831D+02 0.177184D-03
+   5 0.639831D+02 0.177184D-03
+ 
+Dependent variable is COL9
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      27389.3265     1  27389.3265
+   Residual         63.9831     2    31.9916
+ 
+      Total      27453.3096     3
+Mean corrected      50.5235     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9977
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0125
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.323778D+03 0.000000D+00
+   1 0.623119D+02 0.403495D-03
+   2 0.602085D+02 0.449581D-03
+   3 0.602078D+02 0.448689D-03
+   4 0.602078D+02 0.448718D-03
+   5 0.602078D+02 0.448717D-03
+ 
+Dependent variable is COL10
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      26359.5706     1  26359.5706
+   Residual         60.2078     2    30.1039
+ 
+      Total      26419.7784     3
+Mean corrected     196.7683     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9977
+Mean corrected R-square (1-Residual/Corrected) =       0.6940
+          R(observed vs predicted) square      =       0.7676
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0004       0.0002       2.5501      -0.0003       0.0012
+ 
+          COL10        COL10
+  Case     Observed    Predicted     Residual
+      1      99.2200      98.6717       0.5483
+      2      99.2200      92.5267       6.6933
+      3      82.0400      85.9268      -3.8868
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.572838D+04 0.000000D+00
+   1 0.973973D+03 0.177999D-02
+   2 0.151680D+03 0.347828D-02
+   3 0.913480D+02 0.423941D-02
+   4 0.905641D+02 0.434350D-02
+   5 0.905632D+02 0.434721D-02
+   6 0.905632D+02 0.434729D-02
+   7 0.905632D+02 0.434730D-02
+ 
+Dependent variable is COL11
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      12669.8168     1  12669.8168
+   Residual         90.5632     2    45.2816
+ 
+      Total      12760.3800     3
+Mean corrected    1332.3048     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9929
+Mean corrected R-square (1-Residual/Corrected) =       0.9320
+          R(observed vs predicted) square      =       0.9331
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0043       0.0008       5.3022       0.0008       0.0079
+ 
+          COL11        COL11
+  Case     Observed    Predicted     Residual
+      1      91.4000      88.4628       2.9372
+      2      49.2200      56.1006      -6.8806
+      3      44.5400      38.6583       5.8817
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.153396D+03 0.000000D+00
+   1 0.166899D+02 0.285675D-03
+   2 0.153301D+02 0.319505D-03
+   3 0.153292D+02 0.320395D-03
+   4 0.153292D+02 0.320410D-03
+   5 0.153292D+02 0.320410D-03
+ 
+Dependent variable is COL12
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      26230.0664     1  26230.0664
+   Residual         15.3292     2     7.6646
+ 
+      Total      26245.3956     3
+Mean corrected      26.1251     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9994
+Mean corrected R-square (1-Residual/Corrected) =       0.4132
+          R(observed vs predicted) square      =       0.7224
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0003       0.0001       3.8793      -0.0000       0.0007
+ 
+          COL12        COL12
+  Case     Observed    Predicted     Residual
+      1      97.6600      99.0479      -1.3879
+      2      91.4000      94.5471      -3.1471
+      3      91.4000      89.5295       1.8705
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.669240D+01 0.000000D+00
+   1 0.347727D+01 0.437952D-04
+   2 0.347585D+01 0.447433D-04
+   3 0.347585D+01 0.447503D-04
+   4 0.347585D+01 0.447503D-04
+ 
+Dependent variable is COL13
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29223.2166     1  29223.2166
+   Residual          3.4758     2     1.7379
+ 
+      Total      29226.6924     3
+Mean corrected       1.6224     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9999
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0031
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.133646D+03 0.000000D+00
+   1 0.434218D+02 0.230902D-03
+   2 0.426411D+02 0.255610D-03
+   3 0.426403D+02 0.256421D-03
+   4 0.426403D+02 0.256441D-03
+   5 0.426403D+02 0.256442D-03
+ 
+Dependent variable is COL14
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      26811.0053     1  26811.0053
+   Residual         42.6403     2    21.3201
+ 
+      Total      26853.6456     3
+Mean corrected      43.9923     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9984
+Mean corrected R-square (1-Residual/Corrected) =       0.0307
+          R(observed vs predicted) square      =       0.2178
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0003       0.0001       1.9324      -0.0003       0.0008
+ 
+          COL14        COL14
+  Case     Observed    Predicted     Residual
+      1      99.2200      99.2365      -0.0165
+      2      89.8400      95.5877      -5.7477
+      3      94.5400      91.4410       3.0990
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.536765D+04 0.000000D+00
+   1 0.941595D+03 0.170879D-02
+   2 0.195419D+03 0.327604D-02
+   3 0.142746D+03 0.394748D-02
+   4 0.142060D+03 0.403806D-02
+   5 0.142059D+03 0.404186D-02
+   6 0.142059D+03 0.404198D-02
+   7 0.142059D+03 0.404198D-02
+ 
+Dependent variable is COL15
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      13193.5866     1  13193.5866
+   Residual        142.0590     2    71.0295
+ 
+      Total      13335.6456     3
+Mean corrected    1322.5704     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9893
+Mean corrected R-square (1-Residual/Corrected) =       0.8926
+          R(observed vs predicted) square      =       0.8942
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0040       0.0010       4.2236      -0.0001       0.0082
+ 
+          COL15        COL15
+  Case     Observed    Predicted     Residual
+      1      92.9600      89.1854       3.7746
+      2      49.2200      57.8852      -8.6652
+      3      47.6600      40.3988       7.2612
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.515783D+04 0.000000D+00
+   1 0.954306D+03 0.166332D-02
+   2 0.285513D+03 0.312439D-02
+   3 0.246266D+03 0.368479D-02
+   4 0.245996D+03 0.373873D-02
+   5 0.245996D+03 0.373948D-02
+   6 0.245996D+03 0.373949D-02
+ 
+Dependent variable is COL16
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      14443.8294     1  14443.8294
+   Residual        245.9958     2   122.9979
+ 
+      Total      14689.8252     3
+Mean corrected    1666.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9833
+Mean corrected R-square (1-Residual/Corrected) =       0.8524
+          R(observed vs predicted) square      =       0.8683
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0037       0.0012       3.1956      -0.0013       0.0088
+ 
+          COL16        COL16
+  Case     Observed    Predicted     Residual
+      1      99.2200      89.9131       9.3069
+      2      49.2200      59.7690     -10.5490
+      3      49.2200      42.2849       6.9351
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.898583D+04 0.000000D+00
+   1 0.179484D+04 0.225633D-02
+   2 0.290068D+03 0.504579D-02
+   3 0.112791D+03 0.692456D-02
+   4 0.105879D+03 0.743229D-02
+   5 0.105821D+03 0.748257D-02
+   6 0.105820D+03 0.748572D-02
+   7 0.105820D+03 0.748590D-02
+   8 0.105820D+03 0.748591D-02
+ 
+Dependent variable is COL17
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       8412.0049     1   8412.0049
+   Residual        105.8203     2    52.9101
+ 
+      Total       8517.8252     3
+Mean corrected    1250.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9876
+Mean corrected R-square (1-Residual/Corrected) =       0.9153
+          R(observed vs predicted) square      =       0.9435
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0075       0.0016       4.7760       0.0007       0.0142
+ 
+          COL17        COL17
+  Case     Observed    Predicted     Residual
+      1      74.2200      81.6608      -7.4408
+      2      49.2200      42.5992       6.6208
+      3      24.2200      26.7927      -2.5727
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL18
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.144698D+04 0.000000D+00
+   1 0.146870D+03 0.899967D-03
+   2 0.675493D+02 0.125704D-02
+   3 0.667573D+02 0.129871D-02
+   4 0.667564D+02 0.130015D-02
+   5 0.667564D+02 0.130019D-02
+   6 0.667564D+02 0.130019D-02
+ 
+Dependent variable is COL19
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      19036.2252     1  19036.2252
+   Residual         66.7564     2    33.3782
+ 
+      Total      19102.9816     3
+Mean corrected     177.1955     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9965
+Mean corrected R-square (1-Residual/Corrected) =       0.6233
+          R(observed vs predicted) square      =       0.9817
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0013       0.0003       4.6625       0.0001       0.0025
+ 
+          COL19        COL19
+  Case     Observed    Predicted     Residual
+      1      88.2800      96.2459      -7.9659
+      2      80.4600      81.0350      -0.5750
+      3      69.5400      67.8164       1.7236
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.105873D+05 0.000000D+00
+   1 0.360774D+04 0.216250D-02
+   2 0.163741D+04 0.513460D-02
+   3 0.110929D+04 0.824332D-02
+   4 0.973522D+03 0.107319D-01
+   5 0.941370D+03 0.123096D-01
+   6 0.934491D+03 0.131480D-01
+   7 0.933132D+03 0.135463D-01
+   8 0.932876D+03 0.137244D-01
+   9 0.932829D+03 0.138019D-01
+  10 0.932821D+03 0.138351D-01
+  11 0.932819D+03 0.138493D-01
+  12 0.932819D+03 0.138553D-01
+  13 0.932819D+03 0.138579D-01
+  14 0.932819D+03 0.138590D-01
+  15 0.932819D+03 0.138594D-01
+  16 0.932819D+03 0.138596D-01
+ 
+Dependent variable is COL20
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       4186.5065     1   4186.5065
+   Residual        932.8187     2   466.4094
+ 
+      Total       5119.3252     3
+Mean corrected     104.1667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.8178
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.9546
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.133646D+03 0.000000D+00
+   1 0.100779D+01 0.283117D-03
+   2 0.461782D-01 0.311740D-03
+   3 0.461053D-01 0.311994D-03
+   4 0.461053D-01 0.311994D-03
+   5 0.461053D-01 0.311994D-03
+ 
+Dependent variable is COL21
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      26853.5995     1  26853.5995
+   Residual          0.0461     2     0.0231
+ 
+      Total      26853.6456     3
+Mean corrected      43.9923     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.9990
+          R(observed vs predicted) square      =       0.9991
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0003       0.0000      69.2130       0.0003       0.0003
+ 
+          COL21        COL21
+  Case     Observed    Predicted     Residual
+      1      99.2200      99.0727       0.1473
+      2      94.5400      94.6827      -0.1427
+      3      89.8400      89.7765       0.0635
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL22
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL23
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.732966D+04 0.000000D+00
+   1 0.179532D+04 0.190902D-02
+   2 0.557429D+03 0.407672D-02
+   3 0.392946D+03 0.551042D-02
+   4 0.384758D+03 0.593773D-02
+   5 0.384642D+03 0.599275D-02
+   6 0.384641D+03 0.599755D-02
+   7 0.384641D+03 0.599794D-02
+   8 0.384641D+03 0.599797D-02
+ 
+Dependent variable is COL24
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      10229.0202     1  10229.0202
+   Residual        384.6410     2   192.3205
+ 
+      Total      10613.6612     3
+Mean corrected    1381.7891     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9638
+Mean corrected R-square (1-Residual/Corrected) =       0.7216
+          R(observed vs predicted) square      =       0.7523
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0060       0.0023       2.5530      -0.0041       0.0161
+ 
+          COL24        COL24
+  Case     Observed    Predicted     Residual
+      1      85.1600      84.7501       0.4099
+      2      35.1600      48.0853     -12.9253
+      3      46.1000      31.3552      14.7448
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL25
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.608503D+04 0.000000D+00
+   1 0.154200D+04 0.171679D-02
+   2 0.631195D+03 0.341767D-02
+   3 0.513738D+03 0.441520D-02
+   4 0.505320D+03 0.474762D-02
+   5 0.504944D+03 0.482263D-02
+   6 0.504930D+03 0.483725D-02
+   7 0.504930D+03 0.484000D-02
+   8 0.504930D+03 0.484051D-02
+   9 0.504930D+03 0.484061D-02
+ 
+Dependent variable is COL27
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       9176.0986     1   9176.0986
+   Residual        504.9298     2   252.4649
+ 
+      Total       9681.0284     3
+Mean corrected     275.2683     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9478
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.8896
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL28
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.261826D+04 0.000000D+00
+   1 0.280072D+03 0.122079D-02
+   2 0.459158D+02 0.193182D-02
+   3 0.397169D+02 0.208287D-02
+   4 0.396937D+02 0.209260D-02
+   5 0.396936D+02 0.209297D-02
+   6 0.396936D+02 0.209298D-02
+ 
+Dependent variable is COL29
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      16486.5692     1  16486.5692
+   Residual         39.6936     2    19.8468
+ 
+      Total      16526.2628     3
+Mean corrected     460.3256     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9976
+Mean corrected R-square (1-Residual/Corrected) =       0.9138
+          R(observed vs predicted) square      =       0.9846
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0021       0.0003       7.1997       0.0008       0.0033
+ 
+          COL29        COL29
+  Case     Observed    Predicted     Residual
+      1      89.8400      94.0920      -4.2520
+      2      69.5400      72.6355      -3.0955
+      3      60.1600      56.6913       3.4687
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.764232D+03 0.000000D+00
+   1 0.861456D+02 0.640907D-03
+   2 0.593968D+02 0.822416D-03
+   3 0.592561D+02 0.836800D-03
+   4 0.592559D+02 0.837275D-03
+   5 0.592559D+02 0.837289D-03
+   6 0.592559D+02 0.837289D-03
+ 
+Dependent variable is COL30
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      22732.9757     1  22732.9757
+   Residual         59.2559     2    29.6280
+ 
+      Total      22792.2316     3
+Mean corrected     234.6251     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9974
+Mean corrected R-square (1-Residual/Corrected) =       0.7474
+          R(observed vs predicted) square      =       0.7580
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0008       0.0002       3.9261      -0.0001       0.0018
+ 
+          COL30        COL30
+  Case     Observed    Predicted     Residual
+      1      99.2200      97.5497       1.6703
+      2      80.4600      86.9027      -6.4427
+      3      80.4600      76.5925       3.8675
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.236044D+03 0.000000D+00
+   1 0.211563D+03 0.120649D-03
+   2 0.211502D+03 0.127148D-03
+   3 0.211502D+03 0.127248D-03
+   4 0.211502D+03 0.127249D-03
+ 
+Dependent variable is COL31
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      26120.5418     1  26120.5418
+   Residual        211.5022     2   105.7511
+ 
+      Total      26332.0440     3
+Mean corrected     109.0339     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9920
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.5005
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.202166D+05 0.000000D+00
+   1 0.646420D+04 0.322048D-02
+   2 0.170997D+04 0.102302D-01
+   3 0.268752D+03 0.226891D-01
+   4 0.490106D+02 0.342309D-01
+   5 0.424073D+02 0.373907D-01
+   6 0.424073D+02 0.373965D-01
+   7 0.424073D+02 0.373962D-01
+ 
+Dependent variable is COL32
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       2518.1679     1   2518.1679
+   Residual         42.4073     2    21.2036
+ 
+      Total       2560.5752     3
+Mean corrected    1290.7891     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9834
+Mean corrected R-square (1-Residual/Corrected) =       0.9671
+          R(observed vs predicted) square      =       0.9942
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0374       0.0061       6.0968       0.0110       0.0638
+ 
+          COL32        COL32
+  Case     Observed    Predicted     Residual
+      1      49.2200      47.1279       2.0921
+      2      11.7200      12.9344      -1.2144
+      3       0.7800       6.8261      -6.0461
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.523118D+04 0.000000D+00
+   1 0.939615D+03 0.167741D-02
+   2 0.212165D+03 0.319987D-02
+   3 0.158273D+03 0.386106D-02
+   4 0.157388D+03 0.396108D-02
+   5 0.157385D+03 0.396704D-02
+   6 0.157385D+03 0.396733D-02
+   7 0.157385D+03 0.396734D-02
+ 
+Dependent variable is COL33
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      13041.7917     1  13041.7917
+   Residual        157.3851     2    78.6926
+ 
+      Total      13199.1768     3
+Mean corrected    1186.1016     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9881
+Mean corrected R-square (1-Residual/Corrected) =       0.8673
+          R(observed vs predicted) square      =       0.8733
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0040       0.0010       4.0092      -0.0003       0.0082
+ 
+          COL33        COL33
+  Case     Observed    Predicted     Residual
+      1      91.4000      89.3639       2.0361
+      2      49.2200      58.3389      -9.1189
+      3      49.2200      40.8484       8.3716
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL34
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL35
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL36
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.257983D+04 0.000000D+00
+   1 0.199235D+04 0.567392D-03
+   2 0.193693D+04 0.803908D-03
+   3 0.193391D+04 0.865528D-03
+   4 0.193379D+04 0.878178D-03
+   5 0.193378D+04 0.880604D-03
+   6 0.193378D+04 0.881062D-03
+   7 0.193378D+04 0.881148D-03
+   8 0.193378D+04 0.881165D-03
+ 
+Dependent variable is COL38
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      20178.0426     1  20178.0426
+   Residual       1933.7826     2   966.8913
+ 
+      Total      22111.8252     3
+Mean corrected    1666.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9125
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0002
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.157830D+05 0.000000D+00
+   1 0.511058D+04 0.275939D-02
+   2 0.155027D+04 0.784371D-02
+   3 0.414976D+03 0.155463D-01
+   4 0.147873D+03 0.233322D-01
+   5 0.118071D+03 0.273492D-01
+   6 0.116869D+03 0.283089D-01
+   7 0.116848D+03 0.284420D-01
+   8 0.116847D+03 0.284577D-01
+   9 0.116847D+03 0.284595D-01
+  10 0.116847D+03 0.284597D-01
+ 
+Dependent variable is COL39
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       3010.1343     1   3010.1343
+   Residual        116.8473     2    58.4236
+ 
+      Total       3126.9816     3
+Mean corrected     620.1955     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9626
+Mean corrected R-square (1-Residual/Corrected) =       0.8116
+          R(observed vs predicted) square      =       0.9875
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0285       0.0074       3.8548      -0.0033       0.0602
+ 
+          COL39        COL39
+  Case     Observed    Predicted     Residual
+      1      49.2200      53.9435      -4.7235
+      2      19.5400      16.3325       3.2075
+      3      17.9600       8.7813       9.1787
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL41
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.741503D+04 0.000000D+00
+   1 0.128188D+04 0.207452D-02
+   2 0.238720D+03 0.427857D-02
+   3 0.183952D+03 0.520702D-02
+   4 0.183950D+03 0.521473D-02
+   5 0.183950D+03 0.521392D-02
+   6 0.183950D+03 0.521400D-02
+ 
+Dependent variable is COL45
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      13011.0786     1  13011.0786
+   Residual        183.9498     2    91.9749
+ 
+      Total      13195.0284     3
+Mean corrected    2526.6251     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9861
+Mean corrected R-square (1-Residual/Corrected) =       0.9272
+          R(observed vs predicted) square      =       0.9962
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0052       0.0014       3.7166      -0.0008       0.0113
+ 
+          COL45        COL45
+  Case     Observed    Predicted     Residual
+      1      99.2200      86.4738      12.7462
+      2      49.2200      51.5858      -2.3658
+      3      30.4600      34.4458      -3.9858
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL46
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL47
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.898583D+04 0.000000D+00
+   1 0.179484D+04 0.225633D-02
+   2 0.290068D+03 0.504579D-02
+   3 0.112791D+03 0.692456D-02
+   4 0.105879D+03 0.743229D-02
+   5 0.105821D+03 0.748257D-02
+   6 0.105820D+03 0.748572D-02
+   7 0.105820D+03 0.748590D-02
+   8 0.105820D+03 0.748591D-02
+ 
+Dependent variable is COL48
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       8412.0049     1   8412.0049
+   Residual        105.8203     2    52.9101
+ 
+      Total       8517.8252     3
+Mean corrected    1250.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9876
+Mean corrected R-square (1-Residual/Corrected) =       0.9153
+          R(observed vs predicted) square      =       0.9435
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0075       0.0016       4.7760       0.0007       0.0142
+ 
+          COL48        COL48
+  Case     Observed    Predicted     Residual
+      1      74.2200      81.6608      -7.4408
+      2      49.2200      42.5992       6.6208
+      3      24.2200      26.7927      -2.5727
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL49
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.739578D+04 0.000000D+00
+   1 0.702790D+04 0.443555D-03
+   2 0.699502D+04 0.611320D-03
+   3 0.699287D+04 0.657669D-03
+   4 0.699275D+04 0.668971D-03
+   5 0.699274D+04 0.671632D-03
+   6 0.699274D+04 0.672253D-03
+   7 0.699274D+04 0.672398D-03
+   8 0.699274D+04 0.672431D-03
+   9 0.699274D+04 0.672439D-03
+ 
+Dependent variable is COL50
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       8683.0382     1   8683.0382
+   Residual       6992.7402     2  3496.3701
+ 
+      Total      15675.7784     3
+Mean corrected    3464.4584     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.5539
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.9517
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL51
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.515783D+04 0.000000D+00
+   1 0.954306D+03 0.166332D-02
+   2 0.285513D+03 0.312439D-02
+   3 0.246266D+03 0.368479D-02
+   4 0.245996D+03 0.373873D-02
+   5 0.245996D+03 0.373948D-02
+   6 0.245996D+03 0.373949D-02
+ 
+Dependent variable is COL54
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      14443.8294     1  14443.8294
+   Residual        245.9958     2   122.9979
+ 
+      Total      14689.8252     3
+Mean corrected    1666.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9833
+Mean corrected R-square (1-Residual/Corrected) =       0.8524
+          R(observed vs predicted) square      =       0.8683
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0037       0.0012       3.1956      -0.0013       0.0088
+ 
+          COL54        COL54
+  Case     Observed    Predicted     Residual
+      1      99.2200      89.9131       9.3069
+      2      49.2200      59.7690     -10.5490
+      3      49.2200      42.2849       6.9351
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.702472D+02 0.000000D+00
+   1 0.124445D+02 0.186627D-03
+   2 0.122553D+02 0.198616D-03
+   3 0.122553D+02 0.198659D-03
+   4 0.122553D+02 0.198659D-03
+ 
+Dependent variable is COL56
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      27401.9919     1  27401.9919
+   Residual         12.2553     2     6.1277
+ 
+      Total      27414.2472     3
+Mean corrected      11.4611     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9996
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.4719
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.140318D+04 0.000000D+00
+   1 0.194090D+03 0.859216D-03
+   2 0.111800D+03 0.121180D-02
+   3 0.110491D+03 0.126364D-02
+   4 0.110486D+03 0.126704D-02
+   5 0.110486D+03 0.126722D-02
+   6 0.110486D+03 0.126723D-02
+ 
+Dependent variable is COL57
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      19260.6910     1  19260.6910
+   Residual        110.4858     2    55.2429
+ 
+      Total      19371.1768     3
+Mean corrected     196.7683     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9943
+Mean corrected R-square (1-Residual/Corrected) =       0.4385
+          R(observed vs predicted) square      =       0.7825
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0013       0.0004       3.5819      -0.0003       0.0028
+ 
+          COL57        COL57
+  Case     Observed    Predicted     Residual
+      1      91.4000      96.3375      -4.9375
+      2      74.2200      81.4264      -7.2064
+      3      74.2200      68.3742       5.8458
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.289198D+04 0.000000D+00
+   1 0.440174D+03 0.125549D-02
+   2 0.193990D+03 0.199643D-02
+   3 0.187201D+03 0.215790D-02
+   4 0.187171D+03 0.216925D-02
+   5 0.187171D+03 0.216975D-02
+   6 0.187171D+03 0.216977D-02
+ 
+Dependent variable is COL59
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      15048.8110     1  15048.8110
+   Residual        187.1706     2    93.5853
+ 
+      Total      15235.9816     3
+Mean corrected     294.1955     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9877
+Mean corrected R-square (1-Residual/Corrected) =       0.3638
+          R(observed vs predicted) square      =       0.8811
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0022       0.0006       3.3482      -0.0006       0.0050
+ 
+          COL59        COL59
+  Case     Observed    Predicted     Residual
+      1      80.4600      93.8885     -13.4285
+      2      74.2200      71.9136       2.3064
+      3      57.0400      55.8047       1.2353
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.574383D+04 0.000000D+00
+   1 0.444367D+04 0.837622D-03
+   2 0.420044D+04 0.139442D-02
+   3 0.416635D+04 0.165572D-02
+   4 0.416268D+04 0.174998D-02
+   5 0.416234D+04 0.177964D-02
+   6 0.416231D+04 0.178850D-02
+   7 0.416231D+04 0.179110D-02
+   8 0.416231D+04 0.179186D-02
+   9 0.416231D+04 0.179208D-02
+  10 0.416231D+04 0.179215D-02
+  11 0.416231D+04 0.179217D-02
+ 
+Dependent variable is COL61
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      16113.5158     1  16113.5158
+   Residual       4162.3094     2  2081.1547
+ 
+      Total      20275.8252     3
+Mean corrected    3750.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.7947
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0048
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL62
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.213298D+05 0.000000D+00
+   1 0.820055D+04 0.313041D-02
+   2 0.340021D+04 0.980635D-02
+   3 0.131419D+04 0.233709D-01
+   4 0.534536D+03 0.450796D-01
+   5 0.366498D+03 0.665820D-01
+   6 0.348179D+03 0.782337D-01
+   7 0.347443D+03 0.811429D-01
+   8 0.347433D+03 0.815083D-01
+   9 0.347433D+03 0.815441D-01
+  10 0.347433D+03 0.815475D-01
+ 
+Dependent variable is COL63
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression        826.3925     1    826.3925
+   Residual        347.4327     2   173.7163
+ 
+      Total       1173.8252     3
+Mean corrected     366.2891     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.7040
+Mean corrected R-square (1-Residual/Corrected) =       0.0515
+          R(observed vs predicted) square      =       0.3519
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0815       0.0496       1.6444      -0.1318       0.2949
+ 
+          COL63        COL63
+  Case     Observed    Predicted     Residual
+      1      24.2200      29.0155      -4.7955
+      2      24.2200       6.3781      17.8419
+      3       0.7800       3.2505      -2.4705
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.164268D+02 0.000000D+00
+   1 0.135643D+01 0.953190D-04
+   2 0.134543D+01 0.980558D-04
+   3 0.134543D+01 0.980491D-04
+   4 0.134543D+01 0.980491D-04
+ 
+Dependent variable is COL65
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      28923.0814     1  28923.0814
+   Residual          1.3454     2     0.6727
+ 
+      Total      28924.4268     3
+Mean corrected       6.4896     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.7927
+          R(observed vs predicted) square      =       0.7928
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0001       0.0000       4.5810       0.0000       0.0002
+ 
+          COL65        COL65
+  Case     Observed    Predicted     Residual
+      1      99.2200      99.7067      -0.4867
+      2      99.2200      98.2657       0.9543
+      3      96.1000      96.5449      -0.4449
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.714778D+03 0.000000D+00
+   1 0.424291D+02 0.641159D-03
+   2 0.189615D+02 0.812301D-03
+   3 0.188882D+02 0.822706D-03
+   4 0.188882D+02 0.822882D-03
+   5 0.188882D+02 0.822885D-03
+   6 0.188882D+02 0.822885D-03
+ 
+Dependent variable is COL67
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      23039.8902     1  23039.8902
+   Residual         18.8882     2     9.4441
+ 
+      Total      23058.7784     3
+Mean corrected     226.3256     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9992
+Mean corrected R-square (1-Residual/Corrected) =       0.9165
+          R(observed vs predicted) square      =       0.9168
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0008       0.0001       6.8821       0.0003       0.0013
+ 
+          COL67        COL67
+  Case     Observed    Predicted     Residual
+      1      99.2200      97.5908       1.6292
+      2      83.6000      87.0990      -3.4990
+      3      78.9000      76.9022       1.9978
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.148528D+03 0.000000D+00
+   1 0.146798D+02 0.282864D-03
+   2 0.134142D+02 0.315481D-03
+   3 0.134135D+02 0.316259D-03
+   4 0.134135D+02 0.316270D-03
+   5 0.134135D+02 0.316270D-03
+ 
+Dependent variable is COL68
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      26539.1149     1  26539.1149
+   Residual         13.4135     2     6.7067
+ 
+      Total      26552.5284     3
+Mean corrected      40.7683     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9995
+Mean corrected R-square (1-Residual/Corrected) =       0.6710
+          R(observed vs predicted) square      =       0.7221
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0003       0.0001       4.1033      -0.0000       0.0006
+ 
+          COL68        COL68
+  Case     Observed    Predicted     Residual
+      1      99.2200      99.0601       0.1599
+      2      91.4000      94.6138      -3.2138
+      3      91.4000      89.6508       1.7492
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.842444D+04 0.000000D+00
+   1 0.146252D+04 0.222819D-02
+   2 0.168345D+03 0.482663D-02
+   3 0.757878D+02 0.617553D-02
+   4 0.754920D+02 0.627454D-02
+   5 0.754905D+02 0.626744D-02
+   6 0.754905D+02 0.626801D-02
+   7 0.754905D+02 0.626796D-02
+ 
+Dependent variable is COL70
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      11004.9519     1  11004.9519
+   Residual         75.4905     2    37.7452
+ 
+      Total      11080.4424     3
+Mean corrected    2193.6563     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9932
+Mean corrected R-square (1-Residual/Corrected) =       0.9656
+          R(observed vs predicted) square      =       0.9934
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0063       0.0011       5.7453       0.0016       0.0110
+ 
+          COL70        COL70
+  Case     Observed    Predicted     Residual
+      1      89.8400      84.1723       5.6677
+      2      49.2200      46.9873       2.2327
+      3      24.2200      30.4154      -6.1954
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.515783D+04 0.000000D+00
+   1 0.954306D+03 0.166332D-02
+   2 0.285513D+03 0.312439D-02
+   3 0.246266D+03 0.368479D-02
+   4 0.245996D+03 0.373873D-02
+   5 0.245996D+03 0.373948D-02
+   6 0.245996D+03 0.373949D-02
+ 
+Dependent variable is COL71
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      14443.8294     1  14443.8294
+   Residual        245.9958     2   122.9979
+ 
+      Total      14689.8252     3
+Mean corrected    1666.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9833
+Mean corrected R-square (1-Residual/Corrected) =       0.8524
+          R(observed vs predicted) square      =       0.8683
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0037       0.0012       3.1956      -0.0013       0.0088
+ 
+          COL71        COL71
+  Case     Observed    Predicted     Residual
+      1      99.2200      89.9131       9.3069
+      2      49.2200      59.7690     -10.5490
+      3      49.2200      42.2849       6.9351
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.155503D+04 0.000000D+00
+   1 0.420591D+03 0.827870D-03
+   2 0.339969D+03 0.116880D-02
+   3 0.338301D+03 0.122565D-02
+   4 0.338288D+03 0.123077D-02
+   5 0.338288D+03 0.123118D-02
+   6 0.338288D+03 0.123121D-02
+ 
+Dependent variable is COL74
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      17620.7402     1  17620.7402
+   Residual        338.2882     2   169.1441
+ 
+      Total      17959.0284     3
+Mean corrected      14.6016     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9812
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.7806
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.148190D+04 0.000000D+00
+   1 0.394967D+03 0.811007D-03
+   2 0.322247D+03 0.113280D-02
+   3 0.320927D+03 0.118271D-02
+   4 0.320919D+03 0.118680D-02
+   5 0.320919D+03 0.118710D-02
+   6 0.320919D+03 0.118712D-02
+ 
+Dependent variable is COL75
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      17876.9769     1  17876.9769
+   Residual        320.9187     2   160.4593
+ 
+      Total      18197.8956     3
+Mean corrected      11.3568     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9824
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.9756
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL77
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.870778D+03 0.000000D+00
+   1 0.396154D+02 0.718445D-03
+   2 0.891471D+01 0.923412D-03
+   3 0.884085D+01 0.934504D-03
+   4 0.884085D+01 0.934538D-03
+   5 0.884085D+01 0.934538D-03
+ 
+Dependent variable is COL78
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      21957.9376     1  21957.9376
+   Residual          8.8408     2     4.4204
+ 
+      Total      21966.7784     3
+Mean corrected     210.1016     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9996
+Mean corrected R-square (1-Residual/Corrected) =       0.9579
+          R(observed vs predicted) square      =       0.9781
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0009       0.0001      10.8320       0.0006       0.0013
+ 
+          COL78        COL78
+  Case     Observed    Predicted     Residual
+      1      94.5400      97.2728      -2.7328
+      2      86.7200      85.6005       1.1195
+      3      74.2200      74.5653      -0.3453
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.842444D+04 0.000000D+00
+   1 0.258551D+04 0.195045D-02
+   2 0.113362D+04 0.433149D-02
+   3 0.909340D+03 0.611725D-02
+   4 0.896754D+03 0.671547D-02
+   5 0.896614D+03 0.678519D-02
+   6 0.896614D+03 0.678928D-02
+   7 0.896614D+03 0.678949D-02
+ 
+Dependent variable is COL79
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      10183.8285     1  10183.8285
+   Residual        896.6139     2   448.3070
+ 
+      Total      11080.4424     3
+Mean corrected    2193.6563     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9191
+Mean corrected R-square (1-Residual/Corrected) =       0.5913
+          R(observed vs predicted) square      =       0.6020
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0068       0.0041       1.6563      -0.0108       0.0244
+ 
+          COL79        COL79
+  Case     Observed    Predicted     Residual
+      1      89.8400      83.0782       6.7618
+      2      24.2200      45.0023     -20.7823
+      3      49.2200      28.7508      20.4692
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.172978D+04 0.000000D+00
+   1 0.218130D+03 0.967416D-03
+   2 0.101716D+03 0.141048D-02
+   3 0.995573D+02 0.148300D-02
+   4 0.995486D+02 0.148773D-02
+   5 0.995486D+02 0.148797D-02
+   6 0.995486D+02 0.148798D-02
+ 
+Dependent variable is COL80
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      18038.2298     1  18038.2298
+   Residual         99.5486     2    49.7743
+ 
+      Total      18137.7784     3
+Mean corrected     190.2579     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9945
+Mean corrected R-square (1-Residual/Corrected) =       0.4768
+          R(observed vs predicted) square      =       0.9483
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0015       0.0004       4.0455      -0.0001       0.0031
+ 
+          COL80        COL80
+  Case     Observed    Predicted     Residual
+      1      88.2800      95.7268      -7.4468
+      2      74.2200      78.8745      -4.6545
+      3      69.5400      64.8041       4.7359
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.102693D+04 0.000000D+00
+   1 0.125551D+03 0.756421D-03
+   2 0.975443D+02 0.958778D-03
+   3 0.975349D+02 0.962872D-03
+   4 0.975349D+02 0.962750D-03
+   5 0.975349D+02 0.962754D-03
+ 
+Dependent variable is COL81
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      22021.3999     1  22021.3999
+   Residual         97.5349     2    48.7674
+ 
+      Total      22118.9348     3
+Mean corrected     365.6643     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9956
+Mean corrected R-square (1-Residual/Corrected) =       0.7333
+          R(observed vs predicted) square      =       0.7341
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0010       0.0003       3.3157      -0.0003       0.0022
+ 
+          COL81        COL81
+  Case     Observed    Predicted     Residual
+      1      92.9600      97.1928      -4.2328
+      2      92.9600      85.2300       7.7300
+      3      69.5400      73.9971      -4.4571
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.839518D+04 0.000000D+00
+   1 0.145592D+04 0.222538D-02
+   2 0.181601D+03 0.480509D-02
+   3 0.954520D+02 0.610609D-02
+   4 0.952910D+02 0.617872D-02
+   5 0.952899D+02 0.617249D-02
+   6 0.952899D+02 0.617307D-02
+   7 0.952899D+02 0.617301D-02
+ 
+Dependent variable is COL82
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      11267.8869     1  11267.8869
+   Residual         95.2899     2    47.6449
+ 
+      Total      11363.1768     3
+Mean corrected    2305.7683     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9916
+Mean corrected R-square (1-Residual/Corrected) =       0.9587
+          R(observed vs predicted) square      =       0.9952
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0062       0.0012       5.1193       0.0010       0.0114
+ 
+          COL82        COL82
+  Case     Observed    Predicted     Residual
+      1      91.4000      84.3746       7.0254
+      2      49.2200      47.3677       1.8523
+      3      24.2200      30.7394      -6.5194
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.773583D+04 0.000000D+00
+   1 0.295197D+04 0.175340D-02
+   2 0.184323D+04 0.362927D-02
+   3 0.162500D+04 0.502209D-02
+   4 0.158724D+04 0.578436D-02
+   5 0.158118D+04 0.613036D-02
+   6 0.158024D+04 0.627373D-02
+   7 0.158010D+04 0.633086D-02
+   8 0.158008D+04 0.635327D-02
+   9 0.158007D+04 0.636200D-02
+  10 0.158007D+04 0.636540D-02
+  11 0.158007D+04 0.636672D-02
+  12 0.158007D+04 0.636723D-02
+  13 0.158007D+04 0.636743D-02
+  14 0.158007D+04 0.636751D-02
+ 
+Dependent variable is COL83
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       5687.7523     1   5687.7523
+   Residual       1580.0729     2   790.0364
+ 
+      Total       7267.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.7826
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.669240D+01 0.000000D+00
+   1 0.476239D+00 0.611260D-04
+   2 0.473995D+00 0.623341D-04
+   3 0.473995D+00 0.623338D-04
+   4 0.473995D+00 0.623338D-04
+ 
+Dependent variable is COL84
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29226.2184     1  29226.2184
+   Residual          0.4740     2     0.2370
+ 
+      Total      29226.6924     3
+Mean corrected       1.6224     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.7078
+          R(observed vs predicted) square      =       0.7955
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0001       0.0000       5.0188       0.0000       0.0001
+ 
+          COL84        COL84
+  Case     Observed    Predicted     Residual
+      1      99.2200      99.8133      -0.5933
+      2      99.2200      98.8904       0.3296
+      3      97.6600      97.7754      -0.1154
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.120740D+04 0.000000D+00
+   1 0.103616D+03 0.829023D-03
+   2 0.479120D+02 0.111928D-02
+   3 0.475764D+02 0.114497D-02
+   4 0.475763D+02 0.114548D-02
+   5 0.475763D+02 0.114548D-02
+   6 0.475763D+02 0.114548D-02
+ 
+Dependent variable is COL85
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      20067.8193     1  20067.8193
+   Residual         47.5763     2    23.7881
+ 
+      Total      20115.3956     3
+Mean corrected     182.1251     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9976
+Mean corrected R-square (1-Residual/Corrected) =       0.7388
+          R(observed vs predicted) square      =       0.9519
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0011       0.0002       5.2007       0.0002       0.0021
+ 
+          COL85        COL85
+  Case     Observed    Predicted     Residual
+      1      89.8400      96.6777      -6.8377
+      2      83.6000      82.9059       0.6941
+      3      71.1000      70.5168       0.5832
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.832183D+04 0.000000D+00
+   1 0.149555D+04 0.221129D-02
+   2 0.317692D+03 0.469810D-02
+   3 0.258958D+03 0.577185D-02
+   4 0.258931D+03 0.574286D-02
+   5 0.258931D+03 0.574720D-02
+   6 0.258931D+03 0.574657D-02
+   7 0.258931D+03 0.574666D-02
+ 
+Dependent variable is COL86
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      12594.8946     1  12594.8946
+   Residual        258.9306     2   129.4653
+ 
+      Total      12853.8252     3
+Mean corrected    2916.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9799
+Mean corrected R-square (1-Residual/Corrected) =       0.9112
+          R(observed vs predicted) square      =       0.9997
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0057       0.0018       3.1195      -0.0022       0.0137
+ 
+          COL86        COL86
+  Case     Observed    Predicted     Residual
+      1      99.2200      85.2952      13.9248
+      2      49.2200      49.1546       0.0654
+      3      24.2200      32.2838      -8.0638
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.263823D+04 0.000000D+00
+   1 0.576224D+03 0.118188D-02
+   2 0.478682D+03 0.165677D-02
+   3 0.478681D+03 0.165855D-02
+   4 0.478681D+03 0.165838D-02
+   5 0.478681D+03 0.165839D-02
+ 
+Dependent variable is COL87
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      19819.5502     1  19819.5502
+   Residual        478.6814     2   239.3407
+ 
+      Total      20298.2316     3
+Mean corrected    1369.2683     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9764
+Mean corrected R-square (1-Residual/Corrected) =       0.6504
+          R(observed vs predicted) square      =       0.6947
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0017       0.0009       1.9235      -0.0021       0.0054
+ 
+          COL87        COL87
+  Case     Observed    Predicted     Residual
+      1      94.5400      95.2606      -0.7206
+      2      94.5400      77.0113      17.5287
+      3      49.2200      62.2932     -13.0732
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.158105D+05 0.000000D+00
+   1 0.443889D+04 0.289707D-02
+   2 0.994709D+03 0.822411D-02
+   3 0.141760D+03 0.154413D-01
+   4 0.290390D+02 0.205927D-01
+   5 0.252991D+02 0.218714D-01
+   6 0.252845D+02 0.219567D-01
+   7 0.252845D+02 0.219594D-01
+   8 0.252845D+02 0.219595D-01
+ 
+Dependent variable is COL88
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       4069.2439     1   4069.2439
+   Residual         25.2845     2    12.6422
+ 
+      Total       4094.5284     3
+Mean corrected    1308.6563     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9938
+Mean corrected R-square (1-Residual/Corrected) =       0.9807
+          R(observed vs predicted) square      =       0.9817
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0220       0.0026       8.5776       0.0109       0.0330
+ 
+          COL88        COL88
+  Case     Observed    Predicted     Residual
+      1      58.6000      60.2851      -1.6851
+      2      24.2200      20.1910       4.0290
+      3       8.6000      11.0924      -2.4924
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.108998D+05 0.000000D+00
+   1 0.333389D+04 0.230137D-02
+   2 0.144579D+04 0.541017D-02
+   3 0.103170D+04 0.834801D-02
+   4 0.949240D+03 0.103279D-01
+   5 0.934371D+03 0.113627D-01
+   6 0.931904D+03 0.118256D-01
+   7 0.931514D+03 0.120169D-01
+   8 0.931454D+03 0.120932D-01
+   9 0.931445D+03 0.121233D-01
+  10 0.931444D+03 0.121350D-01
+  11 0.931443D+03 0.121396D-01
+  12 0.931443D+03 0.121413D-01
+  13 0.931443D+03 0.121420D-01
+  14 0.931443D+03 0.121423D-01
+ 
+Dependent variable is COL89
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       4500.3819     1   4500.3819
+   Residual        931.4433     2   465.7216
+ 
+      Total       5431.8252     3
+Mean corrected     416.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.8285
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.4665
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.515783D+04 0.000000D+00
+   1 0.954306D+03 0.166332D-02
+   2 0.285513D+03 0.312439D-02
+   3 0.246266D+03 0.368479D-02
+   4 0.245996D+03 0.373873D-02
+   5 0.245996D+03 0.373948D-02
+   6 0.245996D+03 0.373949D-02
+ 
+Dependent variable is COL90
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      14443.8294     1  14443.8294
+   Residual        245.9958     2   122.9979
+ 
+      Total      14689.8252     3
+Mean corrected    1666.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9833
+Mean corrected R-square (1-Residual/Corrected) =       0.8524
+          R(observed vs predicted) square      =       0.8683
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0037       0.0012       3.1956      -0.0013       0.0088
+ 
+          COL90        COL90
+  Case     Observed    Predicted     Residual
+      1      99.2200      89.9131       9.3069
+      2      49.2200      59.7690     -10.5490
+      3      49.2200      42.2849       6.9351
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.108998D+05 0.000000D+00
+   1 0.450779D+04 0.202363D-02
+   2 0.247524D+04 0.484369D-02
+   3 0.182397D+04 0.806120D-02
+   4 0.161695D+04 0.110461D-01
+   5 0.155619D+04 0.132830D-01
+   6 0.154061D+04 0.146555D-01
+   7 0.153711D+04 0.153768D-01
+   8 0.153639D+04 0.157205D-01
+   9 0.153625D+04 0.158758D-01
+  10 0.153622D+04 0.159442D-01
+  11 0.153621D+04 0.159740D-01
+  12 0.153621D+04 0.159869D-01
+  13 0.153621D+04 0.159925D-01
+  14 0.153621D+04 0.159949D-01
+  15 0.153621D+04 0.159959D-01
+  16 0.153621D+04 0.159964D-01
+  17 0.153621D+04 0.159966D-01
+ 
+Dependent variable is COL91
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       3895.6115     1   3895.6115
+   Residual       1536.2137     2   768.1069
+ 
+      Total       5431.8252     3
+Mean corrected     416.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.7172
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.1004
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.669240D+01 0.000000D+00
+   1 0.476239D+00 0.611260D-04
+   2 0.473995D+00 0.623341D-04
+   3 0.473995D+00 0.623338D-04
+   4 0.473995D+00 0.623338D-04
+ 
+Dependent variable is COL92
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29226.2184     1  29226.2184
+   Residual          0.4740     2     0.2370
+ 
+      Total      29226.6924     3
+Mean corrected       1.6224     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.7078
+          R(observed vs predicted) square      =       0.7955
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0001       0.0000       5.0188       0.0000       0.0001
+ 
+          COL92        COL92
+  Case     Observed    Predicted     Residual
+      1      99.2200      99.8133      -0.5933
+      2      99.2200      98.8904       0.3296
+      3      97.6600      97.7754      -0.1154
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.515783D+04 0.000000D+00
+   1 0.954306D+03 0.166332D-02
+   2 0.285513D+03 0.312439D-02
+   3 0.246266D+03 0.368479D-02
+   4 0.245996D+03 0.373873D-02
+   5 0.245996D+03 0.373948D-02
+   6 0.245996D+03 0.373949D-02
+ 
+Dependent variable is COL93
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      14443.8294     1  14443.8294
+   Residual        245.9958     2   122.9979
+ 
+      Total      14689.8252     3
+Mean corrected    1666.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9833
+Mean corrected R-square (1-Residual/Corrected) =       0.8524
+          R(observed vs predicted) square      =       0.8683
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0037       0.0012       3.1956      -0.0013       0.0088
+ 
+          COL93        COL93
+  Case     Observed    Predicted     Residual
+      1      99.2200      89.9131       9.3069
+      2      49.2200      59.7690     -10.5490
+      3      49.2200      42.2849       6.9351
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.107333D+05 0.000000D+00
+   1 0.242351D+04 0.242845D-02
+   2 0.373368D+03 0.589350D-02
+   3 0.416689D+02 0.893671D-02
+   4 0.198087D+02 0.101388D-01
+   5 0.194906D+02 0.103049D-01
+   6 0.194893D+02 0.103159D-01
+   7 0.194893D+02 0.103165D-01
+   8 0.194893D+02 0.103165D-01
+ 
+Dependent variable is COL94
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       7121.8203     1   7121.8203
+   Residual         19.4893     2     9.7446
+ 
+      Total       7141.3096     3
+Mean corrected    1329.7891     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9973
+Mean corrected R-square (1-Residual/Corrected) =       0.9853
+          R(observed vs predicted) square      =       0.9991
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0103       0.0010      10.7125       0.0062       0.0145
+ 
+          COL94        COL94
+  Case     Observed    Predicted     Residual
+      1      72.6600      76.3652      -3.7052
+      2      36.7200      35.0020       1.7180
+      3      22.6600      20.9840       1.6760
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.800440D+02 0.000000D+00
+   1 0.368410D+01 0.215199D-03
+   2 0.341483D+01 0.229801D-03
+   3 0.341482D+01 0.229764D-03
+   4 0.341482D+01 0.229764D-03
+ 
+Dependent variable is COL99
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      27732.6292     1  27732.6292
+   Residual          3.4148     2     1.7074
+ 
+      Total      27736.0440     3
+Mean corrected      34.2579     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9999
+Mean corrected R-square (1-Residual/Corrected) =       0.9003
+          R(observed vs predicted) square      =       0.9156
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0002       0.0000       6.2159       0.0001       0.0004
+ 
+          COL99        COL99
+  Case     Observed    Predicted     Residual
+      1      99.2200      99.3154      -0.0954
+      2      97.6600      96.0285       1.6315
+      3      91.4000      92.2625      -0.8625
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.686244D+04 0.000000D+00
+   1 0.140919D+04 0.191396D-02
+   2 0.314347D+03 0.396309D-02
+   3 0.185659D+03 0.518872D-02
+   4 0.179198D+03 0.554020D-02
+   5 0.179057D+03 0.559557D-02
+   6 0.179055D+03 0.560257D-02
+   7 0.179055D+03 0.560343D-02
+   8 0.179055D+03 0.560353D-02
+ 
+Dependent variable is COL104
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       9339.3877     1   9339.3877
+   Residual        179.0547     2    89.5273
+ 
+      Total       9518.4424     3
+Mean corrected     631.6563     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9812
+Mean corrected R-square (1-Residual/Corrected) =       0.7165
+          R(observed vs predicted) square      =       0.9972
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0056       0.0015       3.7562      -0.0008       0.0120
+ 
+          COL104       COL104
+  Case     Observed    Predicted     Residual
+      1      74.2200      85.6087     -11.3887
+      2      49.2200      49.7850      -0.5650
+      3      39.8400      32.8376       7.0024
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.251978D+05 0.000000D+00
+   1 0.992919D+04 0.338096D-02
+   2 0.361203D+04 0.118025D-01
+   3 0.863516D+03 0.323854D-01
+   4 0.124386D+03 0.653338D-01
+   5 0.280544D+02 0.932563D-01
+   6 0.238705D+02 0.102794D+00
+   7 0.238617D+02 0.103300D+00
+   8 0.238617D+02 0.103288D+00
+   9 0.238617D+02 0.103288D+00
+ 
+Dependent variable is COL105
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression        641.9635     1    641.9635
+   Residual         23.8617     2    11.9309
+ 
+      Total        665.8252     3
+Mean corrected     416.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9642
+Mean corrected R-square (1-Residual/Corrected) =       0.9427
+          R(observed vs predicted) square      =       0.9889
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.1033       0.0185       5.5691       0.0235       0.1831
+ 
+          COL105       COL105
+  Case     Observed    Predicted     Residual
+      1      25.7800      24.3983       1.3817
+      2       0.7800       5.1042      -4.3242
+      3       0.7800       2.5840      -1.8040
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.213293D+05 0.000000D+00
+   1 0.864338D+04 0.302573D-02
+   2 0.357853D+04 0.961957D-02
+   3 0.121321D+04 0.238649D-01
+   4 0.321528D+03 0.480835D-01
+   5 0.138374D+03 0.728812D-01
+   6 0.120150D+03 0.862804D-01
+   7 0.119593D+03 0.892474D-01
+   8 0.119589D+03 0.895110D-01
+   9 0.119589D+03 0.895275D-01
+  10 0.119589D+03 0.895285D-01
+ 
+Dependent variable is COL107
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression        741.7364     1    741.7364
+   Residual        119.5888     2    59.7944
+ 
+      Total        861.3252     3
+Mean corrected     104.1667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.8612
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.9882
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.400423D+04 0.000000D+00
+   1 0.464510D+03 0.154626D-02
+   2 0.885769D+02 0.261312D-02
+   3 0.820242D+02 0.281646D-02
+   4 0.820204D+02 0.281125D-02
+   5 0.820204D+02 0.281155D-02
+   6 0.820204D+02 0.281153D-02
+ 
+Dependent variable is COL108
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      16582.2112     1  16582.2112
+   Residual         82.0204     2    41.0102
+ 
+      Total      16664.2316     3
+Mean corrected    1498.6016     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9951
+Mean corrected R-square (1-Residual/Corrected) =       0.9453
+          R(observed vs predicted) square      =       0.9953
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0028       0.0005       5.3505       0.0006       0.0051
+ 
+          COL108       COL108
+  Case     Observed    Predicted     Residual
+      1      99.2200      92.2215       6.9985
+      2      69.5400      66.3977       3.1423
+      3      44.5400      49.3533      -4.8133
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL109
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.104380D+03 0.000000D+00
+   1 0.144744D+01 0.248924D-03
+   2 0.815074D+00 0.271639D-03
+   3 0.815009D+00 0.271871D-03
+   4 0.815009D+00 0.271872D-03
+   5 0.815009D+00 0.271872D-03
+ 
+Dependent variable is COL111
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      27135.5650     1  27135.5650
+   Residual          0.8150     2     0.4075
+ 
+      Total      27136.3800     3
+Mean corrected      30.9715     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.9737
+          R(observed vs predicted) square      =       0.9780
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0003       0.0000      14.6845       0.0002       0.0004
+ 
+          COL111       COL111
+  Case     Observed    Predicted     Residual
+      1      99.2200      99.1910       0.0290
+      2      94.5400      95.3346      -0.7946
+      3      91.4000      90.9725       0.4275
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.257983D+04 0.000000D+00
+   1 0.734526D+03 0.112286D-02
+   2 0.669094D+03 0.150666D-02
+   3 0.669001D+03 0.148946D-02
+   4 0.668999D+03 0.149172D-02
+   5 0.668999D+03 0.149143D-02
+   6 0.668999D+03 0.149147D-02
+ 
+Dependent variable is COL112
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      21442.8261     1  21442.8261
+   Residual        668.9991     2   334.4995
+ 
+      Total      22111.8252     3
+Mean corrected    1666.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9697
+Mean corrected R-square (1-Residual/Corrected) =       0.5986
+          R(observed vs predicted) square      =       0.7036
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0015       0.0010       1.5620      -0.0026       0.0056
+ 
+          COL112       COL112
+  Case     Observed    Predicted     Residual
+      1      99.2200      95.7172       3.5028
+      2      99.2200      78.8356      20.3844
+      3      49.2200      64.7507     -15.5307
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.213298D+05 0.000000D+00
+   1 0.945548D+04 0.287000D-02
+   2 0.432442D+04 0.911917D-02
+   3 0.174613D+04 0.230980D-01
+   4 0.721524D+03 0.483492D-01
+   5 0.506636D+03 0.757054D-01
+   6 0.484910D+03 0.913001D-01
+   7 0.484278D+03 0.947698D-01
+   8 0.484275D+03 0.950230D-01
+   9 0.484275D+03 0.950342D-01
+  10 0.484275D+03 0.950346D-01
+ 
+Dependent variable is COL113
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression        689.5506     1    689.5506
+   Residual        484.2746     2   242.1373
+ 
+      Total       1173.8252     3
+Mean corrected     366.2891     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.5874
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.1633
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL114
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.335103D+04 0.000000D+00
+   1 0.347819D+03 0.140949D-02
+   2 0.461529D+02 0.230411D-02
+   3 0.408106D+02 0.246841D-02
+   4 0.408105D+02 0.246794D-02
+   5 0.408105D+02 0.246796D-02
+ 
+Dependent variable is COL115
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      17218.2179     1  17218.2179
+   Residual         40.8105     2    20.4053
+ 
+      Total      17259.0284     3
+Mean corrected    1193.0912     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9976
+Mean corrected R-square (1-Residual/Corrected) =       0.9658
+          R(observed vs predicted) square      =       0.9993
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0025       0.0003       7.3967       0.0010       0.0039
+ 
+          COL115       COL115
+  Case     Observed    Predicted     Residual
+      1      99.2200      93.1065       6.1135
+      2      69.5400      69.2409       0.2991
+      3      50.7800      52.6093      -1.8293
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.582183D+04 0.000000D+00
+   1 0.133330D+04 0.170836D-02
+   2 0.464236D+03 0.337019D-02
+   3 0.363702D+03 0.428847D-02
+   4 0.358098D+03 0.455519D-02
+   5 0.357928D+03 0.460438D-02
+   6 0.357923D+03 0.461213D-02
+   7 0.357923D+03 0.461332D-02
+   8 0.357923D+03 0.461350D-02
+ 
+Dependent variable is COL124
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       9995.9018     1   9995.9018
+   Residual        357.9234     2   178.9617
+ 
+      Total      10353.8252     3
+Mean corrected     416.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9654
+Mean corrected R-square (1-Residual/Corrected) =       0.1410
+          R(observed vs predicted) square      =       0.8858
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0046       0.0017       2.6690      -0.0028       0.0121
+ 
+          COL124       COL124
+  Case     Observed    Predicted     Residual
+      1      74.2200      87.8421     -13.6221
+      2      49.2200      54.6318      -5.4118
+      3      49.2200      37.2587      11.9613
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.161146D+05 0.000000D+00
+   1 0.499171D+04 0.284558D-02
+   2 0.142601D+04 0.811459D-02
+   3 0.351447D+03 0.159322D-01
+   4 0.117458D+03 0.234264D-01
+   5 0.937880D+02 0.270208D-01
+   6 0.929206D+02 0.278245D-01
+   7 0.929057D+02 0.279333D-01
+   8 0.929055D+02 0.279461D-01
+   9 0.929055D+02 0.279476D-01
+  10 0.929055D+02 0.279478D-01
+ 
+Dependent variable is COL125
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       3053.6697     1   3053.6697
+   Residual         92.9055     2    46.4528
+ 
+      Total       3146.5752     3
+Mean corrected     729.1667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9705
+Mean corrected R-square (1-Residual/Corrected) =       0.8726
+          R(observed vs predicted) square      =       0.9695
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0279       0.0064       4.3347       0.0002       0.0557
+ 
+          COL125       COL125
+  Case     Observed    Predicted     Residual
+      1      49.2200      54.3941      -5.1741
+      2      24.2200      16.5821       7.6379
+      3      11.7200       8.9278       2.7922
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.153177D+03 0.000000D+00
+   1 0.754091D+02 0.213572D-03
+   2 0.746985D+02 0.236811D-03
+   3 0.746973D+02 0.237752D-03
+   4 0.746973D+02 0.237783D-03
+   5 0.746973D+02 0.237785D-03
+ 
+Dependent variable is COL127
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      26798.4795     1  26798.4795
+   Residual         74.6973     2    37.3487
+ 
+      Total      26873.1768     3
+Mean corrected      63.5235     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9972
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0574
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.129482D+05 0.000000D+00
+   1 0.336320D+04 0.263469D-02
+   2 0.999147D+03 0.675864D-02
+   3 0.762573D+03 0.100472D-01
+   4 0.762571D+03 0.100635D-01
+   5 0.762571D+03 0.100586D-01
+   6 0.762571D+03 0.100601D-01
+   7 0.762571D+03 0.100596D-01
+   8 0.762571D+03 0.100598D-01
+ 
+Dependent variable is COL128
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       9845.6605     1   9845.6605
+   Residual        762.5711     2   381.2855
+ 
+      Total      10608.2316     3
+Mean corrected    4232.6016     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9281
+Mean corrected R-square (1-Residual/Corrected) =       0.8198
+          R(observed vs predicted) square      =       0.9394
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0101       0.0059       1.7181      -0.0151       0.0353
+ 
+          COL128       COL128
+  Case     Observed    Predicted     Residual
+      1      99.2200      76.8172      22.4028
+      2      19.5400      35.5777     -16.0377
+      3      19.5400      21.4050      -1.8650
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.132566D+05 0.000000D+00
+   1 0.482650D+04 0.238239D-02
+   2 0.199901D+04 0.626356D-02
+   3 0.105124D+04 0.115396D-01
+   4 0.767621D+03 0.170131D-01
+   5 0.708286D+03 0.208018D-01
+   6 0.700711D+03 0.224796D-01
+   7 0.700073D+03 0.230088D-01
+   8 0.700030D+03 0.231503D-01
+   9 0.700027D+03 0.231861D-01
+  10 0.700027D+03 0.231950D-01
+  11 0.700027D+03 0.231972D-01
+  12 0.700027D+03 0.231978D-01
+ 
+Dependent variable is COL129
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       3340.6186     1   3340.6186
+   Residual        700.0270     2   350.0135
+ 
+      Total       4040.6456     3
+Mean corrected     440.8568     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.8268
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.5607
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.507784D+02 0.000000D+00
+   1 0.637626D+01 0.164144D-03
+   2 0.629626D+01 0.171869D-03
+   3 0.629625D+01 0.171817D-03
+   4 0.629625D+01 0.171817D-03
+ 
+Dependent variable is COL130
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      28324.4821     1  28324.4821
+   Residual          6.2963     2     3.1481
+ 
+      Total      28330.7784     3
+Mean corrected      26.1251     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9998
+Mean corrected R-square (1-Residual/Corrected) =       0.7590
+          R(observed vs predicted) square      =       0.7874
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0002       0.0000       3.5451      -0.0000       0.0004
+ 
+          COL130       COL130
+  Case     Observed    Predicted     Residual
+      1      99.2200      99.4872      -0.2672
+      2      99.2200      97.0001       2.2199
+      3      92.9600      94.0988      -1.1388
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.461185D+03 0.000000D+00
+   1 0.315447D+02 0.514223D-03
+   2 0.233284D+02 0.609839D-03
+   3 0.233257D+02 0.611658D-03
+   4 0.233257D+02 0.611646D-03
+   5 0.233257D+02 0.611646D-03
+ 
+Dependent variable is COL133
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      24029.8591     1  24029.8591
+   Residual         23.3257     2    11.6628
+ 
+      Total      24053.1848     3
+Mean corrected     118.9976     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9990
+Mean corrected R-square (1-Residual/Corrected) =       0.8040
+          R(observed vs predicted) square      =       0.8386
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0006       0.0001       5.1184       0.0001       0.0011
+ 
+          COL133       COL133
+  Case     Observed    Predicted     Residual
+      1      94.5400      98.1981      -3.6581
+      2      92.9600      90.0823       2.8777
+      3      80.4600      81.7494      -1.2894
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.641083D+03 0.000000D+00
+   1 0.105224D+03 0.566281D-03
+   2 0.858823D+02 0.713879D-03
+   3 0.857669D+02 0.726152D-03
+   4 0.857666D+02 0.726707D-03
+   5 0.857666D+02 0.726731D-03
+   6 0.857666D+02 0.726732D-03
+ 
+Dependent variable is COL134
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      22275.3166     1  22275.3166
+   Residual         85.7666     2    42.8833
+ 
+      Total      22361.0832     3
+Mean corrected      69.7632     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9962
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.6290
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.719646D+03 0.000000D+00
+   1 0.406277D+02 0.643969D-03
+   2 0.162935D+02 0.818289D-03
+   3 0.162082D+02 0.829533D-03
+   4 0.162082D+02 0.829758D-03
+   5 0.162082D+02 0.829762D-03
+   6 0.162082D+02 0.829762D-03
+ 
+Dependent variable is COL136
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      22735.4374     1  22735.4374
+   Residual         16.2082     2     8.1041
+ 
+      Total      22751.6456     3
+Mean corrected     190.5704     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9993
+Mean corrected R-square (1-Residual/Corrected) =       0.9149
+          R(observed vs predicted) square      =       0.9280
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0008       0.0001       7.4665       0.0004       0.0013
+ 
+          COL136       COL136
+  Case     Observed    Predicted     Residual
+      1      97.6600      97.5712       0.0888
+      2      83.6000      87.0052      -3.4052
+      3      78.9000      76.7540       2.1460
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.255794D+03 0.000000D+00
+   1 0.227466D+02 0.373734D-03
+   2 0.191536D+02 0.431546D-03
+   3 0.191495D+02 0.433551D-03
+   4 0.191495D+02 0.433588D-03
+   5 0.191495D+02 0.433589D-03
+ 
+Dependent variable is COL137
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      25080.6445     1  25080.6445
+   Residual         19.1495     2     9.5748
+ 
+      Total      25099.7940     3
+Mean corrected      34.2579     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9992
+Mean corrected R-square (1-Residual/Corrected) =       0.4410
+          R(observed vs predicted) square      =       0.8786
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0004       0.0001       4.4059       0.0000       0.0009
+ 
+          COL137       COL137
+  Case     Observed    Predicted     Residual
+      1      96.1000      98.7159      -2.6159
+      2      89.8400      92.7604      -2.9204
+      3      88.2800      86.3364       1.9436
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.665825D+03 0.000000D+00
+   1 0.509703D+03 0.297163D-03
+   2 0.505363D+03 0.356038D-03
+   3 0.505316D+03 0.362336D-03
+   4 0.505316D+03 0.362908D-03
+   5 0.505316D+03 0.362958D-03
+   6 0.505316D+03 0.362963D-03
+ 
+Dependent variable is COL138
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      24692.5091     1  24692.5091
+   Residual        505.3161     2   252.6580
+ 
+      Total      25197.8252     3
+Mean corrected     416.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9799
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0008
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.517243D+04 0.000000D+00
+   1 0.933902D+03 0.166894D-02
+   2 0.242127D+03 0.315436D-02
+   3 0.197457D+03 0.375382D-02
+   4 0.197003D+03 0.382434D-02
+   5 0.197003D+03 0.382655D-02
+   6 0.197003D+03 0.382660D-02
+   7 0.197003D+03 0.382660D-02
+ 
+Dependent variable is COL139
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      13883.4238     1  13883.4238
+   Residual        197.0030     2    98.5015
+ 
+      Total      14080.4268     3
+Mean corrected    1465.1563     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9860
+Mean corrected R-square (1-Residual/Corrected) =       0.8655
+          R(observed vs predicted) square      =       0.8703
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0038       0.0011       3.5763      -0.0008       0.0084
+ 
+          COL139       COL139
+  Case     Observed    Predicted     Residual
+      1      96.1000      89.7023       6.3977
+      2      49.2200      59.2140      -9.9940
+      3      49.2200      41.7238       7.4962
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.155878D+05 0.000000D+00
+   1 0.509979D+04 0.273489D-02
+   2 0.204278D+04 0.758487D-02
+   3 0.164001D+04 0.125616D-01
+   4 0.163990D+04 0.127267D-01
+   5 0.163989D+04 0.126614D-01
+   6 0.163988D+04 0.126877D-01
+   7 0.163988D+04 0.126772D-01
+   8 0.163988D+04 0.126814D-01
+   9 0.163988D+04 0.126797D-01
+  10 0.163988D+04 0.126804D-01
+  11 0.163988D+04 0.126801D-01
+ 
+Dependent variable is COL140
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       8791.9429     1   8791.9429
+   Residual       1639.8823     2   819.9411
+ 
+      Total      10431.8252     3
+Mean corrected    5288.2891     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.8428
+Mean corrected R-square (1-Residual/Corrected) =       0.6899
+          R(observed vs predicted) square      =       0.8079
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0127       0.0111       1.1374      -0.0353       0.0606
+ 
+          COL140       COL140
+  Case     Observed    Predicted     Residual
+      1      99.2200      72.4424      26.7776
+      2       0.7800      30.4651     -29.6851
+      3      24.2200      17.7674       6.4526
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.372306D+04 0.000000D+00
+   1 0.352447D+04 0.339505D-03
+   2 0.351982D+04 0.402540D-03
+   3 0.351979D+04 0.408044D-03
+   4 0.351979D+04 0.408436D-03
+   5 0.351979D+04 0.408464D-03
+ 
+Dependent variable is COL141
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      15983.2707     1  15983.2707
+   Residual       3519.7889     2  1759.8944
+ 
+      Total      19503.0596     3
+Mean corrected    2037.9896     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.8195
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.5899
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.640783D+04 0.000000D+00
+   1 0.119958D+04 0.194106D-02
+   2 0.627618D+03 0.353058D-02
+   3 0.621823D+03 0.379218D-02
+   4 0.621735D+03 0.375760D-02
+   5 0.621733D+03 0.376335D-02
+   6 0.621733D+03 0.376241D-02
+   7 0.621733D+03 0.376257D-02
+ 
+Dependent variable is COL142
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      15318.0926     1  15318.0926
+   Residual        621.7326     2   310.8663
+ 
+      Total      15939.8252     3
+Mean corrected    2916.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9610
+Mean corrected R-square (1-Residual/Corrected) =       0.7868
+          R(observed vs predicted) square      =       0.8868
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0038       0.0019       2.0109      -0.0043       0.0118
+ 
+          COL142       COL142
+  Case     Observed    Predicted     Residual
+      1      99.2200      89.8573       9.3627
+      2      74.2200      59.6211      14.5989
+      3      24.2200      42.1349     -17.9149
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.233066D+04 0.000000D+00
+   1 0.204805D+03 0.117067D-02
+   2 0.329206D+02 0.177290D-02
+   3 0.305562D+02 0.186227D-02
+   4 0.305553D+02 0.186403D-02
+   5 0.305553D+02 0.186404D-02
+   6 0.305553D+02 0.186404D-02
+ 
+Dependent variable is COL143
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      17456.1059     1  17456.1059
+   Residual         30.5553     2    15.2777
+ 
+      Total      17486.6612     3
+Mean corrected     494.4584     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9983
+Mean corrected R-square (1-Residual/Corrected) =       0.9382
+          R(observed vs predicted) square      =       0.9651
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0019       0.0002       7.9254       0.0009       0.0029
+ 
+          COL143       COL143
+  Case     Observed    Predicted     Residual
+      1      89.8400      94.7040      -4.8640
+      2      77.3400      74.8768       2.4632
+      3      58.6000      59.5106      -0.9106
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.627179D+04 0.000000D+00
+   1 0.143206D+04 0.177880D-02
+   2 0.472923D+03 0.359335D-02
+   3 0.375377D+03 0.457729D-02
+   4 0.372545D+03 0.478720D-02
+   5 0.372527D+03 0.480476D-02
+   6 0.372527D+03 0.480581D-02
+   7 0.372527D+03 0.480587D-02
+ 
+Dependent variable is COL144
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      11991.2673     1  11991.2673
+   Residual        372.5267     2   186.2634
+ 
+      Total      12363.7940     3
+Mean corrected    1508.5235     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9699
+Mean corrected R-square (1-Residual/Corrected) =       0.7531
+          R(observed vs predicted) square      =       0.7607
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0048       0.0018       2.6159      -0.0031       0.0127
+ 
+          COL144       COL144
+  Case     Observed    Predicted     Residual
+      1      91.4000      87.3991       4.0009
+      2      39.8400      53.6176     -13.7776
+      3      49.2200      36.3089      12.9111
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.192786D+05 0.000000D+00
+   1 0.834612D+04 0.275175D-02
+   2 0.392950D+04 0.828595D-02
+   3 0.177017D+04 0.194160D-01
+   4 0.792989D+03 0.388817D-01
+   5 0.530762D+03 0.612200D-01
+   6 0.493519D+03 0.760289D-01
+   7 0.491300D+03 0.808661D-01
+   8 0.491253D+03 0.816326D-01
+   9 0.491252D+03 0.817177D-01
+  10 0.491252D+03 0.817266D-01
+  11 0.491252D+03 0.817275D-01
+ 
+Dependent variable is COL146
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression        819.3228     1    819.3228
+   Residual        491.2524     2   245.6262
+ 
+      Total       1310.5752     3
+Mean corrected     104.1667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.6252
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.1605
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.679826D+04 0.000000D+00
+   1 0.125032D+04 0.193641D-02
+   2 0.186172D+03 0.399849D-02
+   3 0.915031D+02 0.509044D-02
+   4 0.898984D+02 0.527018D-02
+   5 0.898970D+02 0.527572D-02
+   6 0.898970D+02 0.527579D-02
+   7 0.898970D+02 0.527579D-02
+ 
+Dependent variable is COL148
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      11552.3658     1  11552.3658
+   Residual         89.8970     2    44.9485
+ 
+      Total      11642.2628     3
+Mean corrected    1524.7267     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9923
+Mean corrected R-square (1-Residual/Corrected) =       0.9410
+          R(observed vs predicted) square      =       0.9424
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0053       0.0010       5.3144       0.0010       0.0095
+ 
+          COL148       COL148
+  Case     Observed    Predicted     Residual
+      1      89.8400      86.3354       3.5046
+      2      44.5400      51.2915      -6.7515
+      3      39.8400      34.1803       5.6597
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.670692D+03 0.000000D+00
+   1 0.118298D+03 0.591761D-03
+   2 0.109420D+03 0.697289D-03
+   3 0.109417D+03 0.695314D-03
+   4 0.109417D+03 0.695406D-03
+   5 0.109417D+03 0.695402D-03
+ 
+Dependent variable is COL149
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      24781.2753     1  24781.2753
+   Residual        109.4171     2    54.7085
+ 
+      Total      24890.6924     3
+Mean corrected     392.2891     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9956
+Mean corrected R-square (1-Residual/Corrected) =       0.7211
+          R(observed vs predicted) square      =       0.7976
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0007       0.0003       2.5739      -0.0005       0.0019
+ 
+          COL149       COL149
+  Case     Observed    Predicted     Residual
+      1      99.2200      97.9564       1.2636
+      2      97.6600      88.8753       8.7847
+      3      74.2200      79.7562      -5.5362
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.250000D+04 0.000000D+00
+   1 0.277778D+03 0.166667D-01
+   2 0.111111D+02 0.291667D-01
+   3 0.384469D-01 0.330729D-01
+   4 0.582130D-06 0.333323D-01
+   5 0.137324D-15 0.333333D-01
+   6 0.000000D+00 0.333333D-01
+   7 0.000000D+00 0.333333D-01
+   8 0.000000D+00 0.333333D-01
+ 
+Dependent variable is COL150
+ 
+Zero weights, missing data or estimates reduced degrees of freedom
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0333        .            .            .            .
+ 
+          COL150       COL150
+  Case     Observed    Predicted     Residual
+      1      50.0000      50.0000       0.0000
+      2        .          14.2857        .
+      3        .           7.5949        .
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.897784D+02 0.000000D+00
+   1 0.645852D+00 0.232061D-03
+   2 0.222538D+00 0.250508D-03
+   3 0.222532D+00 0.250577D-03
+   4 0.222532D+00 0.250577D-03
+   5 0.222532D+00 0.250577D-03
+ 
+Dependent variable is COL151
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      27433.5559     1  27433.5559
+   Residual          0.2225     2     0.1113
+ 
+      Total      27433.7784     3
+Mean corrected      30.9923     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.9928
+          R(observed vs predicted) square      =       0.9938
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0003       0.0000      26.2286       0.0002       0.0003
+ 
+          COL151       COL151
+  Case     Observed    Predicted     Residual
+      1      99.2200      99.2539      -0.0339
+      2      96.1000      95.6843       0.4157
+      3      91.4000      91.6203      -0.2203
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.207060D+03 0.000000D+00
+   1 0.207026D+02 0.333920D-03
+   2 0.183252D+02 0.379916D-03
+   3 0.183232D+02 0.381296D-03
+   4 0.183232D+02 0.381320D-03
+   5 0.183232D+02 0.381320D-03
+ 
+Dependent variable is COL152
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      25968.7364     1  25968.7364
+   Residual         18.3232     2     9.1616
+ 
+      Total      25987.0596     3
+Mean corrected      58.6563     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9993
+Mean corrected R-square (1-Residual/Corrected) =       0.6876
+          R(observed vs predicted) square      =       0.7270
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0004       0.0001       4.0786      -0.0000       0.0008
+ 
+          COL152       COL152
+  Case     Observed    Predicted     Residual
+      1      99.2200      98.8690       0.3510
+      2      89.8400      93.5771      -3.7371
+      3      89.8400      87.7823       2.0577
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.568423D+04 0.000000D+00
+   1 0.967223D+03 0.177433D-02
+   2 0.171592D+03 0.344564D-02
+   3 0.118528D+03 0.415770D-02
+   4 0.118058D+03 0.423748D-02
+   5 0.118058D+03 0.423868D-02
+   6 0.118058D+03 0.423869D-02
+ 
+Dependent variable is COL153
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      13226.1735     1  13226.1735
+   Residual        118.0581     2    59.0290
+ 
+      Total      13344.2316     3
+Mean corrected    1525.2683     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9912
+Mean corrected R-square (1-Residual/Corrected) =       0.9226
+          R(observed vs predicted) square      =       0.9285
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0042       0.0009       4.6410       0.0003       0.0082
+ 
+          COL153       COL153
+  Case     Observed    Predicted     Residual
+      1      94.5400      88.7185       5.8215
+      2      49.2200      56.7227      -7.5027
+      3      44.5400      39.2600       5.2800
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.906869D+04 0.000000D+00
+   1 0.185461D+04 0.225914D-02
+   2 0.327613D+03 0.506804D-02
+   3 0.139558D+03 0.700498D-02
+   4 0.131085D+03 0.757077D-02
+   5 0.130982D+03 0.763840D-02
+   6 0.130981D+03 0.764381D-02
+   7 0.130981D+03 0.764422D-02
+   8 0.130981D+03 0.764425D-02
+ 
+Dependent variable is COL158
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       8157.7114     1   8157.7114
+   Residual        130.9810     2    65.4905
+ 
+      Total       8288.6924     3
+Mean corrected    1173.6224     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9842
+Mean corrected R-square (1-Residual/Corrected) =       0.8884
+          R(observed vs predicted) square      =       0.9333
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0076       0.0018       4.2834      -0.0000       0.0153
+ 
+          COL158       COL158
+  Case     Observed    Predicted     Residual
+      1      72.6600      81.3453      -8.6853
+      2      49.2200      42.0882       7.1318
+      3      24.2200      26.3842      -2.1642
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.289713D+04 0.000000D+00
+   1 0.143222D+04 0.921039D-03
+   2 0.124487D+04 0.144891D-02
+   3 0.123214D+04 0.161911D-02
+   4 0.123164D+04 0.165500D-02
+   5 0.123163D+04 0.166142D-02
+   6 0.123163D+04 0.166252D-02
+   7 0.123163D+04 0.166271D-02
+   8 0.123163D+04 0.166275D-02
+ 
+Dependent variable is COL160
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      16821.5032     1  16821.5032
+   Residual       1231.6268     2   615.8134
+ 
+      Total      18053.1300     3
+Mean corrected    1060.9272     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9318
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0694
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.132983D+04 0.000000D+00
+   1 0.165890D+03 0.845128D-03
+   2 0.941181D+02 0.117415D-02
+   3 0.933029D+02 0.121473D-02
+   4 0.933013D+02 0.121656D-02
+   5 0.933013D+02 0.121662D-02
+   6 0.933013D+02 0.121662D-02
+ 
+Dependent variable is COL166
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      20768.5239     1  20768.5239
+   Residual         93.3013     2    46.6507
+ 
+      Total      20861.8252     3
+Mean corrected     416.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9955
+Mean corrected R-square (1-Residual/Corrected) =       0.7761
+          R(observed vs predicted) square      =       0.7798
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0012       0.0003       3.8241      -0.0002       0.0026
+ 
+          COL166       COL166
+  Case     Observed    Predicted     Residual
+      1      99.2200      96.4787       2.7413
+      2      74.2200      82.0350      -7.8150
+      3      74.2200      69.2488       4.9712
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.782378D+04 0.000000D+00
+   1 0.259213D+04 0.199540D-02
+   2 0.221076D+04 0.337380D-02
+   3 0.221068D+04 0.334212D-02
+   4 0.221068D+04 0.335060D-02
+   5 0.221068D+04 0.334836D-02
+   6 0.221068D+04 0.334896D-02
+   7 0.221068D+04 0.334880D-02
+   8 0.221068D+04 0.334884D-02
+ 
+Dependent variable is COL171
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      16709.1012     1  16709.1012
+   Residual       2210.6772     2  1105.3386
+ 
+      Total      18919.7784     3
+Mean corrected    4845.7683     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.8832
+Mean corrected R-square (1-Residual/Corrected) =       0.5438
+          R(observed vs predicted) square      =       0.6674
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0033       0.0032       1.0557      -0.0103       0.0170
+ 
+          COL171       COL171
+  Case     Observed    Predicted     Residual
+      1      99.2200      90.8707       8.3493
+      2      94.5400      62.3912      32.1488
+      3      11.7200      44.9980     -33.2780
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL175
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.574383D+04 0.000000D+00
+   1 0.444367D+04 0.837622D-03
+   2 0.420044D+04 0.139442D-02
+   3 0.416635D+04 0.165572D-02
+   4 0.416268D+04 0.174998D-02
+   5 0.416234D+04 0.177964D-02
+   6 0.416231D+04 0.178850D-02
+   7 0.416231D+04 0.179110D-02
+   8 0.416231D+04 0.179186D-02
+   9 0.416231D+04 0.179208D-02
+  10 0.416231D+04 0.179215D-02
+  11 0.416231D+04 0.179217D-02
+ 
+Dependent variable is COL176
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      16113.5158     1  16113.5158
+   Residual       4162.3094     2  2081.1547
+ 
+      Total      20275.8252     3
+Mean corrected    3750.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.7947
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0048
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.148604D+04 0.000000D+00
+   1 0.185677D+03 0.893409D-03
+   2 0.944602D+02 0.127152D-02
+   3 0.929966D+02 0.132787D-02
+   4 0.929911D+02 0.133138D-02
+   5 0.929911D+02 0.133156D-02
+   6 0.929911D+02 0.133157D-02
+ 
+Dependent variable is COL177
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      19049.0529     1  19049.0529
+   Residual         92.9911     2    46.4956
+ 
+      Total      19142.0440     3
+Mean corrected     216.2579     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9951
+Mean corrected R-square (1-Residual/Corrected) =       0.5700
+          R(observed vs predicted) square      =       0.8439
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0013       0.0003       3.9929      -0.0001       0.0028
+ 
+          COL177       COL177
+  Case     Observed    Predicted     Residual
+      1      91.4000      96.1587      -4.7587
+      2      74.2200      80.6658      -6.4458
+      3      72.6600      67.2938       5.3662
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.275529D+04 0.000000D+00
+   1 0.682152D+03 0.119078D-02
+   2 0.594073D+03 0.164826D-02
+   3 0.594037D+03 0.163704D-02
+   4 0.594036D+03 0.163845D-02
+   5 0.594036D+03 0.163828D-02
+   6 0.594036D+03 0.163830D-02
+ 
+Dependent variable is COL178
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      20757.2575     1  20757.2575
+   Residual        594.0365     2   297.0182
+ 
+      Total      21351.2940     3
+Mean corrected    1671.5339     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9722
+Mean corrected R-square (1-Residual/Corrected) =       0.6446
+          R(observed vs predicted) square      =       0.7442
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0016       0.0010       1.7190      -0.0025       0.0057
+ 
+          COL178       COL178
+  Case     Observed    Predicted     Residual
+      1      99.2200      95.3153       3.9047
+      2      96.1000      77.2264      18.8736
+      3      47.6600      62.5790     -14.9190
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.892243D+04 0.000000D+00
+   1 0.597216D+04 0.131605D-02
+   2 0.526028D+04 0.251671D-02
+   3 0.508803D+04 0.337883D-02
+   4 0.504366D+04 0.391876D-02
+   5 0.503137D+04 0.423726D-02
+   6 0.502776D+04 0.442069D-02
+   7 0.502667D+04 0.452531D-02
+   8 0.502633D+04 0.458471D-02
+   9 0.502622D+04 0.461837D-02
+  10 0.502619D+04 0.463743D-02
+  11 0.502617D+04 0.464821D-02
+  12 0.502617D+04 0.465431D-02
+  13 0.502617D+04 0.465776D-02
+  14 0.502617D+04 0.465971D-02
+  15 0.502617D+04 0.466081D-02
+  16 0.502617D+04 0.466143D-02
+  17 0.502617D+04 0.466178D-02
+  18 0.502617D+04 0.466198D-02
+  19 0.502617D+04 0.466210D-02
+  20 0.502617D+04 0.466216D-02
+ 
+Dependent variable is COL179
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       3116.2573     1   3116.2573
+   Residual       5026.1695     2  2513.0847
+ 
+      Total       8142.4268     3
+Mean corrected    1027.3568     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.3827
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.9745
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.271573D+04 0.000000D+00
+   1 0.271043D+03 0.125217D-02
+   2 0.257539D+02 0.199258D-02
+   3 0.196126D+02 0.214692D-02
+   4 0.195963D+02 0.215529D-02
+   5 0.195963D+02 0.215552D-02
+   6 0.195963D+02 0.215553D-02
+ 
+Dependent variable is COL180
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      16604.1353     1  16604.1353
+   Residual         19.5963     2     9.7981
+ 
+      Total      16623.7316     3
+Mean corrected     557.7944     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9988
+Mean corrected R-square (1-Residual/Corrected) =       0.9649
+          R(observed vs predicted) square      =       0.9897
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0022       0.0002      10.3296       0.0013       0.0031
+ 
+          COL180       COL180
+  Case     Observed    Predicted     Residual
+      1      91.4000      93.9262      -2.5262
+      2      69.5400      72.0463      -2.5063
+      3      58.6000      55.9670       2.6330
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.192786D+05 0.000000D+00
+   1 0.768833D+04 0.289062D-02
+   2 0.342196D+04 0.863921D-02
+   3 0.150616D+04 0.196049D-01
+   4 0.673643D+03 0.375074D-01
+   5 0.446639D+03 0.570675D-01
+   6 0.412597D+03 0.697542D-01
+   7 0.410238D+03 0.741044D-01
+   8 0.410166D+03 0.749321D-01
+   9 0.410165D+03 0.750517D-01
+  10 0.410165D+03 0.750680D-01
+  11 0.410165D+03 0.750702D-01
+ 
+Dependent variable is COL181
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression        900.4106     1    900.4106
+   Residual        410.1646     2   205.0823
+ 
+      Total       1310.5752     3
+Mean corrected     104.1667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.6870
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.3541
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.399119D+04 0.000000D+00
+   1 0.506468D+03 0.151091D-02
+   2 0.436809D+02 0.264960D-02
+   3 0.232551D+02 0.299867D-02
+   4 0.231291D+02 0.302898D-02
+   5 0.231289D+02 0.303002D-02
+   6 0.231289D+02 0.303005D-02
+   7 0.231289D+02 0.303005D-02
+ 
+Dependent variable is COL182
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      14436.0635     1  14436.0635
+   Residual         23.1289     2    11.5645
+ 
+      Total      14459.1924     3
+Mean corrected     812.0339     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9984
+Mean corrected R-square (1-Residual/Corrected) =       0.9715
+          R(observed vs predicted) square      =       0.9852
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0030       0.0003      10.1938       0.0018       0.0043
+ 
+          COL182       COL182
+  Case     Observed    Predicted     Residual
+      1      89.8400      91.6673      -1.8273
+      2      61.7200      64.7078      -2.9878
+      3      50.7800      47.4841       3.2959
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL183
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL184
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.295338D+05 0.000000D+00
+   1 0.137179D+05 0.342600D-02
+   2 0.637107D+04 0.125012D-01
+   3 0.217452D+04 0.397372D-01
+   4 0.560626D+03 0.105486D+00
+   5 0.136632D+03 0.236261D+00
+   6 0.323547D+02 0.483238D+00
+   7 0.760488D+01 0.922082D+00
+   8 0.210320D+01 0.161646D+01
+   9 0.105126D+01 0.249276D+01
+  10 0.912757D+00 0.320981D+01
+  11 0.905531D+00 0.347381D+01
+  12 0.905487D+00 0.349784D+01
+  13 0.905487D+00 0.349807D+01
+  14 0.905487D+00 0.349807D+01
+ 
+Dependent variable is COL185
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression          0.9197     1      0.9197
+   Residual          0.9055     2     0.4527
+ 
+      Total          1.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.5039
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.121498D+05 0.000000D+00
+   1 0.310597D+04 0.252656D-02
+   2 0.597047D+03 0.649989D-02
+   3 0.118844D+03 0.106222D-01
+   4 0.840625D+02 0.125095D-01
+   5 0.837914D+02 0.127097D-01
+   6 0.837914D+02 0.127104D-01
+   7 0.837914D+02 0.127104D-01
+ 
+Dependent variable is COL186
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       6598.0338     1   6598.0338
+   Residual         83.7914     2    41.8957
+ 
+      Total       6681.8252     3
+Mean corrected    1666.6667     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9875
+Mean corrected R-square (1-Residual/Corrected) =       0.9497
+          R(observed vs predicted) square      =       0.9509
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0127       0.0025       5.0303       0.0018       0.0236
+ 
+          COL186       COL186
+  Case     Observed    Predicted     Residual
+      1      74.2200      72.3950       1.8250
+      2      24.2200      30.4149      -6.1949
+      3      24.2200      17.7328       6.4872
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.841078D+04 0.000000D+00
+   1 0.296967D+04 0.189061D-02
+   2 0.167819D+04 0.404461D-02
+   3 0.141511D+04 0.575049D-02
+   4 0.136728D+04 0.674043D-02
+   5 0.135915D+04 0.721230D-02
+   6 0.135782D+04 0.741587D-02
+   7 0.135760D+04 0.749987D-02
+   8 0.135757D+04 0.753389D-02
+   9 0.135756D+04 0.754756D-02
+  10 0.135756D+04 0.755304D-02
+  11 0.135756D+04 0.755524D-02
+  12 0.135756D+04 0.755611D-02
+  13 0.135756D+04 0.755646D-02
+  14 0.135756D+04 0.755660D-02
+ 
+Dependent variable is COL187
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       5333.2187     1   5333.2187
+   Residual       1357.5597     2   678.7799
+ 
+      Total       6690.7784     3
+Mean corrected      26.1251     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.7971
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.5207
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL188
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.171236D+05 0.000000D+00
+   1 0.538872D+04 0.293036D-02
+   2 0.149635D+04 0.861538D-02
+   3 0.294740D+03 0.175872D-01
+   4 0.491939D+02 0.263338D-01
+   5 0.300503D+02 0.301036D-01
+   6 0.296934D+02 0.307011D-01
+   7 0.296915D+02 0.307463D-01
+   8 0.296914D+02 0.307492D-01
+   9 0.296914D+02 0.307494D-01
+ 
+Dependent variable is COL189
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression       2877.9542     1   2877.9542
+   Residual         29.6914     2    14.8457
+ 
+      Total       2907.6456     3
+Mean corrected     831.5235     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9898
+Mean corrected R-square (1-Residual/Corrected) =       0.9643
+          R(observed vs predicted) square      =       0.9936
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0307       0.0041       7.5551       0.0132       0.0483
+ 
+          COL189       COL189
+  Case     Observed    Predicted     Residual
+      1      49.2200      52.0161      -2.7961
+      2      19.5400      15.3025       4.2375
+      3      10.1600       8.1809       1.9791
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.182520D+01 0.000000D+00
+   1 0.614943D+00 0.269329D-04
+   2 0.614803D+00 0.272274D-04
+   3 0.614803D+00 0.272280D-04
+   4 0.614803D+00 0.272280D-04
+ 
+Dependent variable is COL190
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      29533.2104     1  29533.2104
+   Residual          0.6148     2     0.3074
+ 
+      Total      29533.8252     3
+Mean corrected       0.0000     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.0000
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.198503D+04 0.000000D+00
+   1 0.196555D+04 0.105768D-03
+   2 0.196541D+04 0.115112D-03
+   3 0.196541D+04 0.115639D-03
+   4 0.196541D+04 0.115667D-03
+   5 0.196541D+04 0.115668D-03
+ 
+Dependent variable is COL191
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      20799.6164     1  20799.6164
+   Residual       1965.4120     2   982.7060
+ 
+      Total      22765.0284     3
+Mean corrected    1276.6251     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9137
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.7060
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.109185D+03 0.000000D+00
+   1 0.257880D+02 0.223162D-03
+   2 0.252682D+02 0.243353D-03
+   3 0.252680D+02 0.243727D-03
+   4 0.252680D+02 0.243732D-03
+   5 0.252680D+02 0.243732D-03
+ 
+Dependent variable is COL192
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      26491.9168     1  26491.9168
+   Residual         25.2680     2    12.6340
+ 
+      Total      26517.1848     3
+Mean corrected       1.6643     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9990
+Mean corrected R-square (1-Residual/Corrected) =       0.0000
+          R(observed vs predicted) square      =       0.7821
+This problem did not converge.  Try:
+- different starting values after inspecting scatter plots
+- different estimation methods, Marquardting, adjust TOL, CONV, HALF, ...
+- estimate the model in stages: hold some of the parameters fixed
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.327303D+04 0.000000D+00
+   1 0.320641D+03 0.140153D-02
+   2 0.416715D+02 0.226112D-02
+   3 0.375148D+02 0.240428D-02
+   4 0.375144D+02 0.240284D-02
+   5 0.375144D+02 0.240289D-02
+   6 0.375144D+02 0.240289D-02
+ 
+Dependent variable is COL193
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      16831.5140     1  16831.5140
+   Residual         37.5144     2    18.7572
+ 
+      Total      16869.0284     3
+Mean corrected    1030.6016     2
+ 
+       Raw  R-square (1-Residual/Total)        =       0.9978
+Mean corrected R-square (1-Residual/Corrected) =       0.9636
+          R(observed vs predicted) square      =       0.9748
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0024       0.0003       7.6691       0.0011       0.0038
+ 
+          COL193       COL193
+  Case     Observed    Predicted     Residual
+      1      94.5400      93.2760       1.2640
+      2      74.2200      69.8070       4.4130
+      3      49.2200      53.2749      -4.0549
+
+
+
+ 
+ Iteration
+ No.      Loss       K
+   0 0.358956D+02 0.000000D+00
+   1 0.319861D+00 0.146374D-03
+   2 0.248901D+00 0.153542D-03
+   3 0.248901D+00 0.153550D-03
+   4 0.248901D+00 0.153550D-03
+ 
+Dependent variable is COL194
+ 
+    Source   Sum-of-Squares    df  Mean-Square
+ Regression      28319.6467     1  28319.6467
+   Residual          0.2489     2     0.1245
+ 
+      Total      28319.8956     3
+Mean corrected      11.3568     2
+ 
+       Raw  R-square (1-Residual/Total)        =       1.0000
+Mean corrected R-square (1-Residual/Corrected) =       0.9781
+          R(observed vs predicted) square      =       0.9794
+ 
+                                                      Wald Confidence Interval
+Parameter         Estimate       A.S.E.    Param/ASE        Lower < 95%> Upper
+ K                  0.0002       0.0000      16.1137       0.0001       0.0002
+ 
+          COL194       COL194
+  Case     Observed    Predicted     Residual
+      1      99.2200      99.5415      -0.3215
+      2      97.6600      97.3104       0.3496
+      3      94.5400      94.6929      -0.1529

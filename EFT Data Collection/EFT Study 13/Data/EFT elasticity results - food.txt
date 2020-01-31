@@ -1,0 +1,5346 @@
+
+
+ 
+The following results are for:
+   RESPID_$     = R_10ZR1FLDDC
+Data for the following results were selected according to:
+      case>9
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_12ZR3EKSXR
+Data for the following results were selected according to:
+      case>9
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.0986       0.5155       0.5499
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.7167     -2.3709
+ 
+Residual:
+      0.7750
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -14.4039
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.7167           0.3247           8.3673           0.0000
+LOG_PORF          -2.3709           0.4406          -5.3805           0.0000
+ 
+Residual variance:
+------------------
+                   0.6458           0.2637           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6996      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1CJ8CFEBZM
+Data for the following results were selected according to:
+      case>9
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       0.6931       0.2310       0.3413
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.1924     -3.0206
+ 
+Residual:
+      1.4756
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -18.2678
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.1924           0.3921           5.5921           0.0000
+LOG_PORF          -3.0206           0.9797          -3.0833           0.0020
+ 
+Residual variance:
+------------------
+                   1.2297           0.5020           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.5774      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1CKN43YMLO
+Data for the following results were selected according to:
+      case>9
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       1.1965       0.9622
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.3268     -1.5314
+ 
+Residual:
+      0.2562
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =      -7.7637
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.3268           0.2187          15.2145           0.0000
+LOG_PORF          -1.5314           0.1448         -10.5757           0.0000
+ 
+Residual variance:
+------------------
+                   0.2135           0.0872           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7923      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1D4A2FQA7I
+Data for the following results were selected according to:
+      case>9
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_1D4DQFBJTJ
+Data for the following results were selected according to:
+      case>9
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       3.0910       1.4911       1.4185
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.9629     -0.9847
+ 
+Residual:
+      0.4984
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -11.7549
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.9629           0.2763          10.7242           0.0000
+LOG_PORF          -0.9847           0.1370          -7.1888           0.0000
+ 
+Residual variance:
+------------------
+                   0.4153           0.1695           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7393      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1E5QXPMOGZ
+Data for the following results were selected according to:
+      case>9
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.6931       1.7918       1.5087       0.3533
+ 
+Starting values
+---------------
+ 
+Covariates:
+     -1.3690      1.8980
+ 
+Residual:
+      2.1501
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -20.5265
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT         -1.3690           1.7665          -0.7750           0.4384
+LOG_PORF           1.8980           1.1425           1.6613           0.0967
+ 
+Residual variance:
+------------------
+                   1.7918           0.7315           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.9758      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1FRFCGGJZB
+Data for the following results were selected according to:
+      case>9
+***ERROR***
+The design matrix shows evidence of multicollinearity. One or more
+variables in the model may be a linear combination of the others.
+
+
+
+
+ 
+The following results are for:
+   RESPID_$     = R_1HXV7YAXNZ
+Data for the following results were selected according to:
+      case>96
+***ERROR***
+The design matrix shows evidence of multicollinearity. One or more
+variables in the model may be a linear combination of the others.
+
+
+
+ 
+The following results are for:
+   RESPID_$     = R_1I4NHKZRRH
+Data for the following results were selected according to:
+      case>108
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_1I5YMG6CJ1
+Data for the following results were selected according to:
+      case>108
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.0986       0.6071       0.5477
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.0556     -2.5714
+ 
+Residual:
+      0.4627
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -11.3094
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.0556           0.2742          11.1426           0.0000
+LOG_PORF          -2.5714           0.3418          -7.5223           0.0000
+ 
+Residual variance:
+------------------
+                   0.3856           0.1574           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7568      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1IQBYTOQY4
+Data for the following results were selected according to:
+      case>108
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 6
+Level 1 observations = 6
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       0.6931       0.2489       0.2605
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       1.0397       1.1390
+ 
+Starting values
+---------------
+ 
+Covariates:
+      0.4406     -0.1844
+ 
+Residual:
+      0.0297
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =       3.2545
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          0.4406           0.0812           5.4249           0.0000
+LOG_PORF          -0.1844           0.0552          -3.3380           0.0008
+ 
+Residual variance:
+------------------
+                   0.0198           0.0114           1.7321           0.0416
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7071      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1J7BFO1RWQ
+Data for the following results were selected according to:
+      case>108
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_1JDKUGSYUU
+Data for the following results were selected according to:
+      case>108
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       0.6931       0.5776       0.2698
+ 
+Starting values
+---------------
+ 
+Covariates:
+      4.0540     -4.4311
+ 
+Residual:
+      1.0724
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -16.3526
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          4.0540           0.6684           6.0648           0.0000
+LOG_PORF          -4.4311           1.0564          -4.1945           0.0000
+ 
+Residual variance:
+------------------
+                   0.8936           0.3648           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.9129      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1L0FGEMAFN
+Data for the following results were selected according to:
+      case>108
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.3979       0.9084       1.1295
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.4437     -1.0449
+ 
+Residual:
+      1.1125
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -16.5731
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.4437           0.3630           6.7318           0.0000
+LOG_PORF          -1.0449           0.2570          -4.0652           0.0000
+ 
+Residual variance:
+------------------
+                   0.9271           0.3785           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6432      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1LAKJ4SJOW
+Data for the following results were selected according to:
+      case>108
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       1.3285       1.0005
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.4194     -1.4488
+ 
+Residual:
+      0.3334
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =      -9.3422
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.4194           0.2602          13.1433           0.0000
+LOG_PORF          -1.4488           0.1588          -9.1212           0.0000
+ 
+Residual variance:
+------------------
+                   0.2778           0.1134           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.8111      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1LAS5BASJ3
+Data for the following results were selected according to:
+      case>108
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.7081       0.9658       1.2451
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.3911     -0.9283
+ 
+Residual:
+      1.1750
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -16.9012
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.3911           0.3676           6.5038           0.0000
+LOG_PORF          -0.9283           0.2396          -3.8740           0.0001
+ 
+Residual variance:
+------------------
+                   0.9792           0.3998           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6295      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1LMO6GEEVG
+Data for the following results were selected according to:
+      case>108
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_1LNG2XXTFK
+Data for the following results were selected according to:
+      case>108
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_1MRMWNQILS
+Data for the following results were selected according to:
+      case>108
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_1N3JJYLUL4
+Data for the following results were selected according to:
+      case>108
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_1NFFPNG2KZ
+Data for the following results were selected according to:
+      case>108
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_1ONWAR5K4P
+Data for the following results were selected according to:
+      case>108
+***ERROR***
+The design matrix shows evidence of multicollinearity. One or more
+variables in the model may be a linear combination of the others.
+
+
+ 
+The following results are for:
+   RESPID_$     = R_1PZCM3G6IL
+Data for the following results were selected according to:
+      case>276
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       1.2228       0.9542
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.3909     -1.5508
+ 
+Residual:
+      0.2358
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =      -7.2636
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.3909           0.2138          15.8614           0.0000
+LOG_PORF          -1.5508           0.1401         -11.0729           0.0000
+ 
+Residual variance:
+------------------
+                   0.1965           0.0802           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.8011      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1Q43ZC3BGB
+Data for the following results were selected according to:
+      case>276
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       0.3466       0.8094
+ 
+Starting values
+---------------
+ 
+Covariates:
+      1.7876     -0.8456
+ 
+Residual:
+      2.1293
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -20.4680
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          1.7876           0.4212           4.2437           0.0000
+LOG_PORF          -0.8456           0.4962          -1.7042           0.0883
+ 
+Residual variance:
+------------------
+                   1.7744           0.7244           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.4082      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1Q6NDLCMRF
+Data for the following results were selected according to:
+      case>276
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.3863       0.6354       0.6905
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.6824     -1.8695
+ 
+Residual:
+      0.8115
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -14.6804
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.6824           0.3293           8.1467           0.0000
+LOG_PORF          -1.8695           0.3591          -5.2063           0.0000
+ 
+Residual variance:
+------------------
+                   0.6763           0.2761           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6929      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1QASFLNACH
+Data for the following results were selected according to:
+      case>276
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       0.6931       0.9346
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.2738     -1.1243
+ 
+Residual:
+      1.4300
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -18.0795
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.2738           0.3986           5.7043           0.0000
+LOG_PORF          -1.1243           0.3522          -3.1925           0.0014
+ 
+Residual variance:
+------------------
+                   1.1917           0.4865           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6124      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1QFUMJU0TI
+Data for the following results were selected according to:
+      case>276
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.3863       0.4959       0.6397
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.3899     -1.8057
+ 
+Residual:
+      1.1767
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -16.9097
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.3899           0.3678           6.4979           0.0000
+LOG_PORF          -1.8057           0.4667          -3.8690           0.0001
+ 
+Residual variance:
+------------------
+                   0.9806           0.4003           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6292      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_1YM8N9OHXO
+Data for the following results were selected according to:
+      case>276
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_21PQLPM96K
+Data for the following results were selected according to:
+      case>276
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_2395EOQ8HA
+Data for the following results were selected according to:
+      case>276
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       0.6931       0.0578       0.2001
+ 
+Starting values
+---------------
+ 
+Covariates:
+      1.6304     -2.3521
+ 
+Residual:
+      2.4010
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -21.1885
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          1.6304           0.4265           3.8228           0.0001
+LOG_PORF          -2.3521           2.1314          -1.1036           0.2698
+ 
+Residual variance:
+------------------
+                   2.0008           0.8168           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.2887      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_245WQROYNT
+Data for the following results were selected according to:
+      case>276
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       3.0445       0.9361       1.0143
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.6250     -1.2077
+ 
+Residual:
+      0.9943
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -15.8987
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.6250           0.3650           7.1923           0.0000
+LOG_PORF          -1.2077           0.2706          -4.4631           0.0000
+ 
+Residual variance:
+------------------
+                   0.8285           0.3383           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6940      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_246TNVW6NI
+Data for the following results were selected according to:
+      case>276
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       0.6931       0.2310       0.3413
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.1924     -3.0206
+ 
+Residual:
+      1.4756
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -18.2678
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.1924           0.3921           5.5921           0.0000
+LOG_PORF          -3.0206           0.9797          -3.0833           0.0020
+ 
+Residual variance:
+------------------
+                   1.2297           0.5020           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.5774      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_24WSTIAFLL
+Data for the following results were selected according to:
+      case>276
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_27J92FKNUL
+Data for the following results were selected according to:
+      case>276
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       0.4142       0.6849
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.0631     -1.3729
+ 
+Residual:
+      1.6720
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -19.0176
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.0631           0.4030           5.1190           0.0000
+LOG_PORF          -1.3729           0.5196          -2.6420           0.0082
+ 
+Residual variance:
+------------------
+                   1.3934           0.5688           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.5340      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_28MW6JNAVT
+Data for the following results were selected according to:
+      case>276
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       1.2468       0.9732
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.3808     -1.5129
+ 
+Residual:
+      0.2597
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =      -7.8447
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.3808           0.2243          15.0700           0.0000
+LOG_PORF          -1.5129           0.1441         -10.4969           0.0000
+ 
+Residual variance:
+------------------
+                   0.2164           0.0884           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.8010      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_28ZCOKFWQB
+Data for the following results were selected according to:
+      case>276
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.0986       0.6409       0.5657
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.0684     -2.4560
+ 
+Residual:
+      0.5213
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -12.0244
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.0684           0.2948          10.4103           0.0000
+LOG_PORF          -2.4560           0.3513          -6.9915           0.0000
+ 
+Residual variance:
+------------------
+                   0.4344           0.1773           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7638      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_29D0UEKQWH
+Data for the following results were selected according to:
+      case>276
+***ERROR***
+The design matrix shows evidence of multicollinearity. One or more
+variables in the model may be a linear combination of the others.
+
+
+
+The following results are for:
+   RESPID_$     = R_2ALRUQN5FQ
+Data for the following results were selected according to:
+      case>456
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_2B8WG9DMP0
+Data for the following results were selected according to:
+      case>456
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.0986       0.6071       0.5477
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.0556     -2.5714
+ 
+Residual:
+      0.4627
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -11.3094
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.0556           0.2742          11.1426           0.0000
+LOG_PORF          -2.5714           0.3418          -7.5223           0.0000
+ 
+Residual variance:
+------------------
+                   0.3856           0.1574           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7568      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2BYBYP09QF
+Data for the following results were selected according to:
+      case>456
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       3.2581       1.3350       0.9788
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.0575     -1.1708
+ 
+Residual:
+      1.1999
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -17.0270
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.0575           0.5024           6.0856           0.0000
+LOG_PORF          -1.1708           0.3080          -3.8010           0.0001
+ 
+Residual variance:
+------------------
+                   1.0000           0.4082           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.8185      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2CZOY8Z2KM
+Data for the following results were selected according to:
+      case>456
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_2DQQDDDGH8
+Data for the following results were selected according to:
+      case>456
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.3863       0.9242       0.6153
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.7312     -2.4202
+ 
+Residual:
+      0.2057
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =      -6.4457
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.7312           0.2224          16.7790           0.0000
+LOG_PORF          -2.4202           0.2029         -11.9277           0.0000
+ 
+Residual variance:
+------------------
+                   0.1714           0.0700           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.8433      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2DTRDGCZCG
+Data for the following results were selected according to:
+      case>456
+***ERROR***
+The design matrix shows evidence of multicollinearity. One or more
+variables in the model may be a linear combination of the others.
+
+
+
+ 
+The following results are for:
+   RESPID_$     = R_2DTTYPWPLC
+Data for the following results were selected according to:
+      case>528
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       0.9242       0.9950
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.7022     -1.3067
+ 
+Residual:
+      0.7850
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -14.4810
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.7022           0.3253           8.3067           0.0000
+LOG_PORF          -1.3067           0.2451          -5.3317           0.0000
+ 
+Residual variance:
+------------------
+                   0.6542           0.2671           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6963      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2DVAS5YI3E
+Data for the following results were selected according to:
+      case>528
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       0.6931       0.5776       0.2698
+ 
+Starting values
+---------------
+ 
+Covariates:
+      4.0540     -4.4311
+ 
+Residual:
+      1.0724
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -16.3526
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          4.0540           0.6684           6.0648           0.0000
+LOG_PORF          -4.4311           1.0564          -4.1945           0.0000
+ 
+Residual variance:
+------------------
+                   0.8936           0.3648           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.9129      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2EMJXN9Z7F
+Data for the following results were selected according to:
+      case>528
+***ERROR***
+The design matrix shows evidence of multicollinearity. One or more
+variables in the model may be a linear combination of the others.
+
+
+
+The following results are for:
+   RESPID_$     = R_2FFGPITPPV
+Data for the following results were selected according to:
+      case>564
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_2OZ9MYEVPX
+Data for the following results were selected according to:
+      case>564
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_2PPHADVDTU
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       0.6931       0.2310       0.3413
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.1924     -3.0206
+ 
+Residual:
+      1.4756
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -18.2678
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.1924           0.3921           5.5921           0.0000
+LOG_PORF          -3.0206           0.9797          -3.0833           0.0020
+ 
+Residual variance:
+------------------
+                   1.2297           0.5020           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.5774      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2R35QTEHB1
+Data for the following results were selected according to:
+      case>564
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_2RO2A47FMA
+Data for the following results were selected according to:
+      case>564
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_2RPEO9IMAS
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.3863       0.6931       0.7240
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.7401     -1.7971
+ 
+Residual:
+      0.7827
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -14.4636
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.7401           0.3297           8.3106           0.0000
+LOG_PORF          -1.7971           0.3364          -5.3427           0.0000
+ 
+Residual variance:
+------------------
+                   0.6523           0.2663           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7071      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2THU8KVPLR
+Data for the following results were selected according to:
+      case>564
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_2TODIIXL8B
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       0.6931       0.1733       0.3135
+ 
+Starting values
+---------------
+ 
+Covariates:
+      1.9102     -2.3991
+ 
+Residual:
+      2.0224
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -20.1591
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          1.9102           0.4327           4.4143           0.0000
+LOG_PORF          -2.3991           1.2486          -1.9214           0.0547
+ 
+Residual variance:
+------------------
+                   1.6853           0.6880           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.5000      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2UIS6AYDSV
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.6094       0.5243       0.5934
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.6055     -2.1190
+ 
+Residual:
+      0.9054
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -15.3372
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.6055           0.3412           7.6361           0.0000
+LOG_PORF          -2.1190           0.4414          -4.8011           0.0000
+ 
+Residual variance:
+------------------
+                   0.7545           0.3080           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6782      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2UPWHAOM6E
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.0986       0.4578       0.5657
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.4477     -2.0823
+ 
+Residual:
+      1.1182
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -16.6037
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.4477           0.3649           6.7087           0.0000
+LOG_PORF          -2.0823           0.5145          -4.0473           0.0001
+ 
+Residual variance:
+------------------
+                   0.9318           0.3804           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6455      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2V7ILTA0FW
+Data for the following results were selected according to:
+      case>564
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_2VC3BONCRC
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       3.0910       1.1177       1.2741
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.6010     -0.9899
+ 
+Residual:
+      0.8948
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -15.2664
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.6010           0.3381           7.6930           0.0000
+LOG_PORF          -0.9899           0.2044          -4.8442           0.0000
+ 
+Residual variance:
+------------------
+                   0.7457           0.3044           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6756      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2VC9ETNRBY
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.0986       0.5493       0.5737
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.5667     -1.9520
+ 
+Residual:
+      1.2650
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -17.3438
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.5667           0.4192           6.1235           0.0000
+LOG_PORF          -1.9520           0.5396          -3.6176           0.0003
+ 
+Residual variance:
+------------------
+                   1.0542           0.4304           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7071      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2VEWRCPQOX
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       3.3673       1.3800       1.7071
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.4488     -0.6915
+ 
+Residual:
+      1.1118
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -16.5689
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.4488           0.3637           6.7339           0.0000
+LOG_PORF          -0.6915           0.1700          -4.0676           0.0000
+ 
+Residual variance:
+------------------
+                   0.9265           0.3782           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6451      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2VL6KRDXCA
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.3863       0.3804       0.5874
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.1421     -1.7027
+ 
+Residual:
+      1.5444
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -18.5413
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.1421           0.3954           5.4181           0.0000
+LOG_PORF          -1.7027           0.5824          -2.9238           0.0035
+ 
+Residual variance:
+------------------
+                   1.2870           0.5254           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.5603      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2VLUII92WS
+Data for the following results were selected according to:
+      case>564
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_2VXCM2FHCL
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       0.8033       0.9296
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.5731     -1.3427
+ 
+Residual:
+      0.9307
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -15.5025
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.5731           0.3425           7.5136           0.0000
+LOG_PORF          -1.3427           0.2856          -4.7008           0.0000
+ 
+Residual variance:
+------------------
+                   0.7756           0.3166           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6700      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2VXQI7PS0W
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       0.6931       0.4043       0.3569
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.0684     -3.8926
+ 
+Residual:
+      0.5213
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -12.0244
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.0684           0.2948          10.4103           0.0000
+LOG_PORF          -3.8926           0.5568          -6.9915           0.0000
+ 
+Residual variance:
+------------------
+                   0.4344           0.1773           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7638      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2WGGHHPZJQ
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.0986       0.0916       0.3171
+ 
+Starting values
+---------------
+ 
+Covariates:
+      1.6304     -1.4840
+ 
+Residual:
+      2.4010
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -21.1885
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          1.6304           0.4265           3.8228           0.0001
+LOG_PORF          -1.4840           1.3448          -1.1036           0.2698
+ 
+Residual variance:
+------------------
+                   2.0008           0.8168           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.2887      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2WGQIR6FRK
+Data for the following results were selected according to:
+      case>564
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_2WPAXL7OEH
+Data for the following results were selected according to:
+      case>564
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_2XBPBMBMVH
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       0.8837       0.8607
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.9138     -1.6061
+ 
+Residual:
+      0.5426
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -12.2648
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.9138           0.2846          10.2375           0.0000
+LOG_PORF          -1.6061           0.2356          -6.8184           0.0000
+ 
+Residual variance:
+------------------
+                   0.4521           0.1846           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7314      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2XCEOQVA8P
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       1.0397       1.0860
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.7401     -1.1980
+ 
+Residual:
+      0.7827
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -14.4636
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.7401           0.3297           8.3106           0.0000
+LOG_PORF          -1.1980           0.2242          -5.3427           0.0000
+ 
+Residual variance:
+------------------
+                   0.6523           0.2663           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7071      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2XWVZ4M6LU
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.7918       1.1216       0.8509
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.4060     -1.7043
+ 
+Residual:
+      0.3309
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =      -9.2978
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.4060           0.2579          13.2053           0.0000
+LOG_PORF          -1.7043           0.1861          -9.1600           0.0000
+ 
+Residual variance:
+------------------
+                   0.2758           0.1126           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.8091      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2YMZGXARGB
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.7918       0.4479       0.8104
+ 
+Starting values
+---------------
+ 
+Covariates:
+      1.9736     -1.0696
+ 
+Residual:
+      1.8183
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -19.5206
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          1.9736           0.4103           4.8100           0.0000
+LOG_PORF          -1.0696           0.4580          -2.3353           0.0195
+ 
+Residual variance:
+------------------
+                   1.5152           0.6186           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.5000      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2YWGVLOFJ4
+Data for the following results were selected according to:
+      case>564
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.9459       1.0435       0.8419
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.3131     -1.7427
+ 
+Residual:
+      0.2766
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =      -8.2231
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.3131           0.2267          14.6122           0.0000
+LOG_PORF          -1.7427           0.1720         -10.1349           0.0000
+ 
+Residual variance:
+------------------
+                   0.2305           0.0941           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7914      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_2ZBZLKHYDT
+Data for the following results were selected according to:
+      case>564
+***ERROR***
+The design matrix shows evidence of multicollinearity. One or more
+variables in the model may be a linear combination of the others.
+
+
+
+The following results are for:
+   RESPID_$     = R_2ZDOBCZ5IH
+Data for the following results were selected according to:
+      case>888
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_31A25E7NZS
+Data for the following results were selected according to:
+      case>888
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_31B0FNVH17
+Data for the following results were selected according to:
+      case>888
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.0986       0.6071       0.5477
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.0556     -2.5714
+ 
+Residual:
+      0.4627
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -11.3094
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.0556           0.2742          11.1426           0.0000
+LOG_PORF          -2.5714           0.3418          -7.5223           0.0000
+ 
+Residual variance:
+------------------
+                   0.3856           0.1574           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7568      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_31LSXUU5EF
+Data for the following results were selected according to:
+      case>888
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       3.4340       0.2862       0.9913
+ 
+Starting values
+---------------
+ 
+Covariates:
+      1.6304     -0.4748
+ 
+Residual:
+      2.4010
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -21.1885
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          1.6304           0.4265           3.8228           0.0001
+LOG_PORF          -0.4748           0.4302          -1.1036           0.2698
+ 
+Residual variance:
+------------------
+                   2.0008           0.8168           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.2887      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_33QKXZVTQ0
+Data for the following results were selected according to:
+      case>888
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_3DNGDKUPR8
+Data for the following results were selected according to:
+      case>888
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.0986       0.5155       0.5499
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.7167     -2.3709
+ 
+Residual:
+      0.7750
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -14.4039
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.7167           0.3247           8.3673           0.0000
+LOG_PORF          -2.3709           0.4406          -5.3805           0.0000
+ 
+Residual variance:
+------------------
+                   0.6458           0.2637           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6996      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3EEMDHGTLX
+Data for the following results were selected according to:
+      case>888
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       0.6931       0.3466       0.3620
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.7401     -3.5941
+ 
+Residual:
+      0.7827
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -14.4636
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.7401           0.3297           8.3106           0.0000
+LOG_PORF          -3.5941           0.6727          -5.3427           0.0000
+ 
+Residual variance:
+------------------
+                   0.6523           0.2663           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7071      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3ERBIJ6INP
+Data for the following results were selected according to:
+      case>888
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       3.0910       1.0243       1.2838
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.4322     -0.9154
+ 
+Residual:
+      1.1252
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -16.6412
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.4322           0.3639           6.6843           0.0000
+LOG_PORF          -0.9154           0.2274          -4.0254           0.0001
+ 
+Residual variance:
+------------------
+                   0.9377           0.3828           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6402      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3EVHIBCPDM
+Data for the following results were selected according to:
+      case>888
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_3FFVHGN2WA
+Data for the following results were selected according to:
+      case>888
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_3FPUUVUHGQ
+Data for the following results were selected according to:
+      case>888
+***ERROR***
+The design matrix shows evidence of multicollinearity. One or more
+variables in the model may be a linear combination of the others.
+
+
+
+The following results are for:
+   RESPID_$     = R_3FVYYU3IK3
+Data for the following results were selected according to:
+      case>1020
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       0.6931       0.3466       0.3620
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.7401     -3.5941
+ 
+Residual:
+      0.7827
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -14.4636
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.7401           0.3297           8.3106           0.0000
+LOG_PORF          -3.5941           0.6727          -5.3427           0.0000
+ 
+Residual variance:
+------------------
+                   0.6523           0.2663           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7071      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3GCAAEKDPC
+Data for the following results were selected according to:
+      case>1020
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.3863       0.6354       0.6905
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.6483     -1.8159
+ 
+Residual:
+      0.9151
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -15.4011
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.6483           0.3496           7.5744           0.0000
+LOG_PORF          -1.8159           0.3813          -4.7623           0.0000
+ 
+Residual variance:
+------------------
+                   0.7626           0.3113           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6929      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3HB0BF5H3X
+Data for the following results were selected according to:
+      case>1020
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_3IPWK3ZI7L
+Data for the following results were selected according to:
+      case>1020
+***ERROR***
+The design matrix shows evidence of multicollinearity. One or more
+variables in the model may be a linear combination of the others.
+
+
+ 
+The following results are for:
+   RESPID_$     = R_3IQ9Y0KCJB
+Data for the following results were selected according to:
+      case>1068
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.0986       0.2986       0.4577
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.1500     -2.1948
+ 
+Residual:
+      1.5344
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -18.5021
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.1500           0.3950           5.4428           0.0000
+LOG_PORF          -2.1948           0.7449          -2.9467           0.0032
+ 
+Residual variance:
+------------------
+                   1.2787           0.5220           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.5631      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3JF1HJ77KY
+Data for the following results were selected according to:
+      case>1068
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_3JTHGLMFJV
+Data for the following results were selected according to:
+      case>1068
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       1.0397       1.0023
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.9303     -1.3810
+ 
+Residual:
+      0.5373
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -12.2057
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.9303           0.2848          10.2892           0.0000
+LOG_PORF          -1.3810           0.2013          -6.8607           0.0000
+ 
+Residual variance:
+------------------
+                   0.4477           0.1828           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7348      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3JVIU6JYR4
+Data for the following results were selected according to:
+      case>1068
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.3863       0.5874       0.6409
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.6809     -2.0196
+ 
+Residual:
+      0.8015
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -14.6054
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.6809           0.3266           8.2089           0.0000
+LOG_PORF          -2.0196           0.3844          -5.2533           0.0000
+ 
+Residual variance:
+------------------
+                   0.6679           0.2727           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6915      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3K4U1VFA71
+Data for the following results were selected according to:
+      case>1068
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.7918       0.2409       0.5816
+ 
+Starting values
+---------------
+ 
+Covariates:
+      1.7700     -1.1436
+ 
+Residual:
+      2.1579
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -20.5482
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          1.7700           0.4218           4.1965           0.0000
+LOG_PORF          -1.1436           0.6952          -1.6451           0.0999
+ 
+Residual variance:
+------------------
+                   1.7983           0.7341           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.3970      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3K5KQT78EU
+Data for the following results were selected according to:
+      case>1068
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.7918       0.1493       0.5172
+ 
+Starting values
+---------------
+ 
+Covariates:
+      1.6304     -0.9099
+ 
+Residual:
+      2.4010
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -21.1885
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          1.6304           0.4265           3.8228           0.0001
+LOG_PORF          -0.9099           0.8245          -1.1036           0.2698
+ 
+Residual variance:
+------------------
+                   2.0008           0.8168           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.2887      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3KRCBPBB6O
+Data for the following results were selected according to:
+      case>1068
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_3KZE4KQWOG
+Data for the following results were selected according to:
+      case>1068
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_3L6W2VGTD0
+Data for the following results were selected according to:
+      case>1068
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.6931       2.7081       1.7559       0.5859
+ 
+Starting values
+---------------
+ 
+Covariates:
+     -2.7660      2.4265
+ 
+Residual:
+      0.4217
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -10.7523
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT         -2.7660           0.5623          -4.9187           0.0000
+LOG_PORF           2.4265           0.3051           7.9536           0.0000
+ 
+Residual variance:
+------------------
+                   0.3514           0.1435           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.9526      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3M4NKIRMQM
+Data for the following results were selected according to:
+      case>1068
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_3MDEVYEETI
+Data for the following results were selected according to:
+      case>1068
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       0.9766       0.9596
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.8942     -1.4332
+ 
+Residual:
+      0.5639
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -12.4962
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.8942           0.2888          10.0213           0.0000
+LOG_PORF          -1.4332           0.2154          -6.6541           0.0000
+ 
+Residual variance:
+------------------
+                   0.4699           0.1918           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7283      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3MFGMMDO3P
+Data for the following results were selected according to:
+      case>1068
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       3.9318       0.6578       1.5293
+ 
+Starting values
+---------------
+ 
+Covariates:
+      1.7736     -0.4243
+ 
+Residual:
+      2.1813
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -20.6130
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          1.7736           0.4267           4.1569           0.0000
+LOG_PORF          -0.4243           0.2658          -1.5964           0.1104
+ 
+Residual variance:
+------------------
+                   1.8178           0.7421           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.4098      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3MPT0JRW60
+Data for the following results were selected according to:
+      case>1068
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       1.0624       1.0104
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.9552     -1.3749
+ 
+Residual:
+      0.5219
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -12.0313
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.9552           0.2828          10.4514           0.0000
+LOG_PORF          -1.3749           0.1968          -6.9865           0.0000
+ 
+Residual variance:
+------------------
+                   0.4349           0.1775           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7394      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3NCJBLNKF8
+Data for the following results were selected according to:
+      case>1068
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.3863       0.7847       0.6973
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.0783     -2.0183
+ 
+Residual:
+      0.4657
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -11.3477
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.0783           0.2775          11.0926           0.0000
+LOG_PORF          -2.0183           0.2694          -7.4933           0.0000
+ 
+Residual variance:
+------------------
+                   0.3881           0.1584           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7616      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3ON0J3YORD
+Data for the following results were selected according to:
+      case>1068
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       0.6931       0.0578       0.2001
+ 
+Starting values
+---------------
+ 
+Covariates:
+      1.6304     -2.3521
+ 
+Residual:
+      2.4010
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -21.1885
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          1.6304           0.4265           3.8228           0.0001
+LOG_PORF          -2.3521           2.1314          -1.1036           0.2698
+ 
+Residual variance:
+------------------
+                   2.0008           0.8168           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.2887      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3PC93SFMHT
+Data for the following results were selected according to:
+      case>1068
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_3PLPQEH3A2
+Data for the following results were selected according to:
+      case>1068
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_3QJACOEPXW
+Data for the following results were selected according to:
+      case>1068
+***ERROR***
+The design matrix shows evidence of multicollinearity. One or more
+variables in the model may be a linear combination of the others.
+
+
+
+The following results are for:
+   RESPID_$     = R_3QSSUGA3XP
+Data for the following results were selected according to:
+      case>1284
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_3QTIM85ACL
+Data for the following results were selected according to:
+      case>1284
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       0.8664       1.0708
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.4477     -1.1001
+ 
+Residual:
+      1.1182
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -16.6037
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.4477           0.3649           6.7087           0.0000
+LOG_PORF          -1.1001           0.2718          -4.0473           0.0001
+ 
+Residual variance:
+------------------
+                   0.9318           0.3804           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6455      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_3RW2CYGHEF
+Data for the following results were selected according to:
+      case>1284
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_6MXYGLNHPN
+Data for the following results were selected according to:
+      case>1284
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_6WRTCKV2S5
+Data for the following results were selected according to:
+      case>1284
+***ERROR***
+The design matrix shows evidence of multicollinearity. One or more
+variables in the model may be a linear combination of the others.
+
+
+
+The following results are for:
+   RESPID_$     = R_72Q4XD5N8U
+Data for the following results were selected according to:
+      case>1344
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_7APKSILI6E
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.9459       0.2537       0.6195
+ 
+Starting values
+---------------
+ 
+Covariates:
+      1.7642     -1.0628
+ 
+Residual:
+      2.1679
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -20.5758
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          1.7642           0.4220           4.1803           0.0000
+LOG_PORF          -1.0628           0.6542          -1.6245           0.1043
+ 
+Residual variance:
+------------------
+                   1.8065           0.7375           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.3933      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_8DFZUBXYMM
+Data for the following results were selected according to:
+      case>1344
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_9M2BEVM7K3
+Data for the following results were selected according to:
+      case>1344
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_9RKMPAYGYK
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       0.7847       1.0052
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.3987     -1.1523
+ 
+Residual:
+      1.1690
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -16.8700
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.3987           0.3676           6.5249           0.0000
+LOG_PORF          -1.1523           0.2961          -3.8921           0.0001
+ 
+Residual variance:
+------------------
+                   0.9741           0.3977           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6319      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_ACAWMWADHU
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       1.0397       1.0023
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.9303     -1.3810
+ 
+Residual:
+      0.5373
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -12.2057
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.9303           0.2848          10.2892           0.0000
+LOG_PORF          -1.3810           0.2013          -6.8607           0.0000
+ 
+Residual variance:
+------------------
+                   0.4477           0.1828           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7348      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_AFWNDXBMFF
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.7081       1.1603       1.3284
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.5877     -0.9421
+ 
+Residual:
+      0.9217
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -15.4444
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.5877           0.3425           7.5559           0.0000
+LOG_PORF          -0.9421           0.1989          -4.7360           0.0000
+ 
+Residual variance:
+------------------
+                   0.7681           0.3136           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6740      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_AWYLXXN37U
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       0.6931       0.4043       0.3569
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.0684     -3.8926
+ 
+Residual:
+      0.5213
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -12.0244
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.0684           0.2948          10.4103           0.0000
+LOG_PORF          -3.8926           0.5568          -6.9915           0.0000
+ 
+Residual variance:
+------------------
+                   0.4344           0.1773           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7638      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_BRQY9NXXIQ
+Data for the following results were selected according to:
+      case>1344
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_BRX10QDQDT
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       3.7612       1.6569       1.7072
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.7769     -0.7740
+ 
+Residual:
+      0.7241
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -13.9964
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.7769           0.3193           8.6967           0.0000
+LOG_PORF          -0.7740           0.1372          -5.6415           0.0000
+ 
+Residual variance:
+------------------
+                   0.6034           0.2463           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7119      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_BYCU0ZUITR
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       0.6931       0.4043       0.3569
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.0684     -3.8926
+ 
+Residual:
+      0.5213
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -12.0244
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.0684           0.2948          10.4103           0.0000
+LOG_PORF          -3.8926           0.5568          -6.9915           0.0000
+ 
+Residual variance:
+------------------
+                   0.4344           0.1773           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7638      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_DNNGM6QPBB
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       1.0397       1.0860
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.7401     -1.1980
+ 
+Residual:
+      0.7827
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -14.4636
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.7401           0.3297           8.3106           0.0000
+LOG_PORF          -1.1980           0.2242          -5.3427           0.0000
+ 
+Residual variance:
+------------------
+                   0.6523           0.2663           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7071      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_DO8OC1YDSI
+Data for the following results were selected according to:
+      case>1344
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_DOF8PIFURR
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.7918       0.7466       0.8443
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.6139     -1.4993
+ 
+Residual:
+      0.8820
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -15.1800
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.6139           0.3369           7.7587           0.0000
+LOG_PORF          -1.4993           0.3062          -4.8970           0.0000
+ 
+Residual variance:
+------------------
+                   0.7350           0.3001           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6785      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_DWA2YOGOIH
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       0.6931       0.9346
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.3229     -1.1951
+ 
+Residual:
+      1.2722
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -17.3778
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.3229           0.3760           6.1784           0.0000
+LOG_PORF          -1.1951           0.3322          -3.5980           0.0003
+ 
+Residual variance:
+------------------
+                   1.0602           0.4328           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6124      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_ELFQYEPBDA
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.7918       0.8381       0.8959
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.7129     -1.4537
+ 
+Residual:
+      0.7787
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -14.4326
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.7129           0.3251           8.3443           0.0000
+LOG_PORF          -1.4537           0.2711          -5.3623           0.0000
+ 
+Residual variance:
+------------------
+                   0.6489           0.2649           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6989      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_O8U1IMOFCK
+Data for the following results were selected according to:
+      case>1344
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_OR190X8MUX
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       0.9340       0.9206
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.8879     -1.4918
+ 
+Residual:
+      0.5696
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -12.5565
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.8879           0.2898           9.9659           0.0000
+LOG_PORF          -1.4918           0.2256          -6.6117           0.0000
+ 
+Residual variance:
+------------------
+                   0.4747           0.1938           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7273      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_P9IU3RQKTG
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.3979       0.3996       0.9334
+ 
+Starting values
+---------------
+ 
+Covariates:
+      1.7876     -0.7333
+ 
+Residual:
+      2.1293
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -20.4680
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          1.7876           0.4212           4.2437           0.0000
+LOG_PORF          -0.7333           0.4303          -1.7042           0.0883
+ 
+Residual variance:
+------------------
+                   1.7744           0.7244           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.4082      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_PLUQ10QWM7
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.3863       0.4959       0.6397
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.3899     -1.8057
+ 
+Residual:
+      1.1767
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -16.9097
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.3899           0.3678           6.4979           0.0000
+LOG_PORF          -1.8057           0.4667          -3.8690           0.0001
+ 
+Residual variance:
+------------------
+                   0.9806           0.4003           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6292      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_RFYQ0ABLOP
+Data for the following results were selected according to:
+      case>1344
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_RRZONLY7O4
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.7081       0.9973       1.1635
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.5592     -1.0676
+ 
+Residual:
+      0.9472
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -15.6076
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.5592           0.3442           7.4349           0.0000
+LOG_PORF          -1.0676           0.2302          -4.6374           0.0000
+ 
+Residual variance:
+------------------
+                   0.7893           0.3222           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6670      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_RZELQEEJSP
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.0986       0.6409       0.5657
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.0684     -2.4560
+ 
+Residual:
+      0.5213
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -12.0244
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.0684           0.2948          10.4103           0.0000
+LOG_PORF          -2.4560           0.3513          -6.9915           0.0000
+ 
+Residual variance:
+------------------
+                   0.4344           0.1773           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7638      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_S542W7KUQX
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.3979       1.1003       1.0782
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.9018     -1.2791
+ 
+Residual:
+      0.5526
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -12.3741
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.9018           0.2863          10.1359           0.0000
+LOG_PORF          -1.2791           0.1898          -6.7405           0.0000
+ 
+Residual variance:
+------------------
+                   0.4605           0.1880           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7293      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_SMJZ46R8ZF
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.0986       0.5155       0.5499
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.7167     -2.3709
+ 
+Residual:
+      0.7750
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -14.4039
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.7167           0.3247           8.3673           0.0000
+LOG_PORF          -2.3709           0.4406          -5.3805           0.0000
+ 
+Residual variance:
+------------------
+                   0.6458           0.2637           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6996      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_SWDBX7UCQH
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.7918       0.2648       0.5502
+ 
+Starting values
+---------------
+ 
+Covariates:
+      1.8628     -1.3908
+ 
+Residual:
+      2.0006
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -20.0940
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          1.8628           0.4172           4.4652           0.0000
+LOG_PORF          -1.3908           0.7076          -1.9654           0.0494
+ 
+Residual variance:
+------------------
+                   1.6672           0.6806           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.4492      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_TELYKAUJK6
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.7081       1.3415       1.2590
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.9901     -1.1148
+ 
+Residual:
+      0.4776
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -11.4989
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.9901           0.2725          10.9740           0.0000
+LOG_PORF          -1.1148           0.1511          -7.3793           0.0000
+ 
+Residual variance:
+------------------
+                   0.3980           0.1625           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7438      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_TJDUM1YMHZ
+Data for the following results were selected according to:
+      case>1344
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_UXVVFLTRE6
+Data for the following results were selected according to:
+      case>1344
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_UZ5VM4UYXL
+Data for the following results were selected according to:
+      case>1344
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_VMQD88T7PR
+Data for the following results were selected according to:
+      case>1344
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_VTTXVL7WGR
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.7918       0.9536       0.8669
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.0518     -1.6330
+ 
+Residual:
+      0.4399
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -11.0054
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.0518           0.2662          11.4642           0.0000
+LOG_PORF          -1.6330           0.2106          -7.7557           0.0000
+ 
+Residual variance:
+------------------
+                   0.3665           0.1496           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7543      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_WM2J6WM6VQ
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.0794       1.2468       0.9991
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.3162     -1.4611
+ 
+Residual:
+      0.3004
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =      -8.7175
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.3162           0.2373          13.9763           0.0000
+LOG_PORF          -1.4611           0.1510          -9.6770           0.0000
+ 
+Residual variance:
+------------------
+                   0.2503           0.1022           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7934      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_X59HWBUDYY
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       1.0986       0.6409       0.5657
+ 
+Starting values
+---------------
+ 
+Covariates:
+      3.0684     -2.4560
+ 
+Residual:
+      0.5213
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -12.0244
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          3.0684           0.2948          10.4103           0.0000
+LOG_PORF          -2.4560           0.3513          -6.9915           0.0000
+ 
+Residual variance:
+------------------
+                   0.4344           0.1773           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.7638      1.0000
+ 
+The following results are for:
+   RESPID_$     = R_XAFXCDJIBT
+Data for the following results were selected according to:
+      case>1344
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_XRICLVO7LS
+Data for the following results were selected according to:
+      case>1344
+***ERROR***
+No cases were found to process.
+ 
+The following results are for:
+   RESPID_$     = R_Y9MK6PQPTB
+Data for the following results were selected according to:
+      case>1344
+Perform 10 EM iterations
+0 random terms
+2 fixed  terms
+ 
+Numbers of observations
+-----------------------
+Level 2 observations = 12
+Level 1 observations = 12
+ 
+Descriptive statistics for all variables:
+-----------------------------------------
+                                                        Standard
+Variable          Minimum      Maximum         Mean    Deviation
+ 
+LOG_PRICE          0.0000       4.3944       1.4945       1.5505
+INTERCEPT          1.0000       1.0000       1.0000       0.0000
+LOG_PORF           0.0000       2.3979       0.9391       1.0860
+ 
+Starting values
+---------------
+ 
+Covariates:
+      2.5746     -1.1501
+ 
+Residual:
+      0.9286
+ 
+---------------------------------------------------------------
+* Final Results - Maximum Marginal Likelihood (MML) Estimates *
+---------------------------------------------------------------
+ 
+EM Iterations     =           10
+Fisher Iterations =            2
+Total Iterations  =           12
+Log Likelihood    =     -15.4886
+ 
+                              Standardized
+Variable         Estimate            Error                Z          p-value
+------------ ------------     ------------     ------------     ------------
+INTERCEPT          2.5746           0.3422           7.5241           0.0000
+LOG_PORF          -1.1501           0.2442          -4.7093           0.0000
+ 
+Residual variance:
+------------------
+                   0.7738           0.3159           2.4495           0.0072
+ 
+Correlation of the MML estimates of the fixed terms
+                                  1           2
+                          INTERCEPT    LOG_PORF
+     1   INTERCEPT           1.0000
+     2   LOG_PORF           -0.6703      1.0000
+

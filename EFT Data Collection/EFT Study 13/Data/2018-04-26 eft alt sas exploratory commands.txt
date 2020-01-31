@@ -1,0 +1,222 @@
+>if group = 2 then let t1_check6 = t1_check5
+>if group = 2 then let t2_check6 = t2_check5
+>if group = 2 then let t3_check6 = t3_check5
+>if group = 2 then let t1_check5 = .
+>if group = 2 then let t2_check5 = .
+>if group = 2 then let t3_check5 = .
+>select group = 2
+>xtab
+>tabulate t1_check5
+>select exclude=.
+>xtab
+>tabulate t1_check1
+>tabulate t1_check2
+>tabulate t1_check3
+>tabulate t1_check4
+>tabulate t1_check5
+>tabulate t1_check6
+>tabulate t1_check7
+>if cue1$ <> "" and cue1_1$ <>"" then let cue1 = 0
+>if cue1$ <> "" and cue1_1$ ="" then let cue1 = 1
+>xtab
+>tabulate cue1
+>if t1_check1 = 2 and t1_check2 = 2 and t1_check3 = 2 and t1_check4 = 2 and t1_check6 = 2 then let t1check = 1
+>if t2_check1 = 2 and t2_check2 = 2 and t2_check3 = 2 and t2_check4 = 2 and t2_check6 = 2 then let t2check = 1
+>if t1_check1 = 1 then let t1check = 0
+>if t2_check1 = 1 then let t2check = 0
+>xtab
+>tabulate t1check*t2check
+>select group>2 and exclude = .
+>anova
+>cat group
+>depend g1_imp
+>est
+>depend g1_mot
+>est
+>depend g1_con
+>est
+>depend g1_conf
+>est
+>select group>2 and exclude=.
+>anova
+>cat group
+>depend g1_conf
+>est
+>print med
+>eswt
+>est
+>depend g1_imp g1_mot g1_conf /repeat
+>est
+>anova
+>select exclude=.
+>anova
+>cat time type
+>depend t1_rate1 t1_rate2 t1_rate3 t1_rate4 t1_rate5 /repeat
+>est
+>cat group
+>est
+>depend t1_rate4
+>est
+>depend t1_rate5
+>est
+>depend t1_rate3
+>est
+>depend t1_rate2
+>est
+>depend t1_rate1
+>est
+>let rate1 = (t1_rate1 + t2_rate1 + t3_rate1)/3
+>depend rate1
+>est
+>anova
+>cat time type
+>depend auc
+>est
+>cov rate1
+>est
+>depend rref_int
+>est
+>cov
+>est
+>depend log_fint
+>est
+>print med
+>est
+>print short
+>est
+>cat time type
+>depend log_fint
+>est
+>print med
+>est
+>cov rate1
+>est
+>depend log_aint
+>est
+>select exclude = . and exclude = 3
+>anova
+>cat time type
+>depend log_fint
+>est
+>select
+>select exclude = .
+>select exclude = . or exclude=3
+>anova
+>cat time type
+>depend log_fint
+>est
+>cov rate1
+>est
+>select exclude=.
+>depend log_fpmax
+>est
+>depend log_apmax
+>est
+>cov
+>est
+>depend log_fpmax
+>est
+>depend rre_pmaxp
+>est
+>cov rate1
+>est
+>if t1_check1 = 2 or t1_check2 = 2 or t1_check3 = 2 or t1_check4 = 2 or t1_check5 = 2 then let t1check = 2
+>xtab
+>tabulate t1check
+>select exclude = . and t1check <>2
+>anova
+>cat time type
+>depend log_fint 
+>est
+>cov rate1
+>est
+>select exclude = .
+>anova
+>cat time type
+>depend log_fint
+>cov
+>eswt
+>est
+>depend rref_int
+e>st
+>est
+>depend log_fint log_aint /repeat
+>est
+>let rre_intp = (rref_int) / (rref_int + rrea_int)
+>anova
+>cat time type
+>depend rre_intp
+>est
+>cov rate1
+>est
+>let rate2 = (t1_rate2 + t2_rate2 + t3_rate2) /3
+>let rate_vivid = ((t1_rate4 + t2_rate4 + t3_rate4)/3 + (t1_rate5 + t2_rate5 + t3_rate5)/3) / 2
+>anova
+>cat time type
+>depend rate_vivid
+>eswt
+>est
+>corr
+>pearson rate1 rate2 rate_vivid
+>pearson rate1 rate2 rate_vivid /prob
+>anov
+>anova
+>cat time type
+>depend log_fint
+>cov rate2
+>est
+>cov rate1 rate_vivid
+>est
+>cov rate_vivid
+>est
+>anova
+>cat time type
+>depend auc
+>cov rate_vivid
+>est
+>cov
+>anova
+>cat time type
+>depend auc
+>est
+>depend log_fint
+>est
+>depend log_aint
+>est
+>SELECT exclude = . and case<>3
+>anova
+>cat time type
+>depend log_fint
+>est
+>cov rate_vivid
+>est
+>cov rate1 rate_vivid
+>est
+>depend auc
+>est
+>cov
+>est
+>depend log_aint
+>est
+>DEPEND log_fpmax
+>est
+>depend log_apmax
+>est
+>select exclude = .
+>depend log_fpmax
+>est
+>depend log_apmax
+>est
+>cov rate_vivid
+>est
+>cov rate1 rate_vivid
+>est
+>select exclude = . and case<>3
+>est
+>mglh
+>cat time type
+>model log_apmax = constant rate1 rate_vivid time type time*type
+>est
+>cat
+>est
+>

@@ -1,0 +1,470 @@
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+GROUP (4 levels)
+          1,        2,        3,        4
+ 
+Dep Var: RATE1   N: 265   Multiple R: 0.305   Squared multiple R: 0.093
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+GROUP                      8.757     3        2.919       8.909       0.000
+                                                                                                                                                                                                        
+Error                     85.520   261        0.328
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  GROUP       =1                   4.561        0.072      63
+  GROUP       =2                   4.415        0.071      65
+  GROUP       =3                   4.413        0.070      67
+  GROUP       =4                   4.071        0.068      70
+
+ 
+-------------------------------------------------------------------------------
+*** WARNING ***
+Case          228 is an outlier        (Studentized Residual =       -4.036)
+ 
+Durbin-Watson D Statistic          2.234
+First Order Autocorrelation       -0.117
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+GROUP (4 levels)
+          1,        2,        3,        4
+ 
+Dep Var: RATE2   N: 265   Multiple R: 0.253   Squared multiple R: 0.064
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+GROUP                      8.602     3        2.867       5.975       0.001
+                                                                                                                                                                                                        
+Error                    125.250   261        0.480
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  GROUP       =1                   4.407        0.087      63
+  GROUP       =2                   4.082        0.086      65
+  GROUP       =3                   4.333        0.085      67
+  GROUP       =4                   3.967        0.083      70
+
+ 
+-------------------------------------------------------------------------------
+*** WARNING ***
+Case           87 is an outlier        (Studentized Residual =       -4.119)
+ 
+Durbin-Watson D Statistic          2.018
+First Order Autocorrelation       -0.010
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+GROUP (4 levels)
+          1,        2,        3,        4
+ 
+Dep Var: RATE3   N: 265   Multiple R: 0.463   Squared multiple R: 0.214
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+GROUP                     43.307     3       14.436      23.679       0.000
+                                                                                                                                                                                                        
+Error                    159.119   261        0.610
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  GROUP       =1                   4.429        0.098      63
+  GROUP       =2                   3.703        0.097      65
+  GROUP       =3                   4.279        0.095      67
+  GROUP       =4                   3.448        0.093      70
+
+ 
+-------------------------------------------------------------------------------
+ 
+Durbin-Watson D Statistic          2.193
+First Order Autocorrelation       -0.097
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+GROUP (4 levels)
+          1,        2,        3,        4
+ 
+Dep Var: RATE_VIVID   N: 265   Multiple R: 0.063   Squared multiple R: 0.004
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+GROUP                      2.126     3        0.709       0.348       0.791
+                                                                                                                                                                                                        
+Error                    531.916   261        2.038
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  GROUP       =1                   8.630        0.180      63
+  GROUP       =2                   8.769        0.177      65
+  GROUP       =3                   8.547        0.174      67
+  GROUP       =4                   8.552        0.171      70
+
+ 
+-------------------------------------------------------------------------------
+ 
+Durbin-Watson D Statistic          2.060
+First Order Autocorrelation       -0.033
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+TIME (2 levels)
+          1,        2
+TYPE (2 levels)
+          1,        2
+ 
+Dep Var: RATE1   N: 265   Multiple R: 0.305   Squared multiple R: 0.093
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+TIME                       3.922     1        3.922      11.969       0.001
+TYPE                       4.001     1        4.001      12.211       0.001
+TIME*TYPE                  0.636     1        0.636       1.940       0.165
+                                                                                                                                                                                                        
+Error                     85.520   261        0.328
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  TIME        =1                   4.487        0.050     130
+  TIME        =2                   4.243        0.049     135
+
+ 
+-------------------------------------------------------------------------------
+  TYPE        =1                   4.488        0.051     128
+  TYPE        =2                   4.242        0.049     137
+
+ 
+-------------------------------------------------------------------------------
+TIME        =1           
+  TYPE        =1                   4.561        0.072      63
+TIME        =1           
+  TYPE        =2                   4.413        0.070      67
+TIME        =2           
+  TYPE        =1                   4.415        0.071      65
+TIME        =2           
+  TYPE        =2                   4.071        0.068      70
+
+ 
+-------------------------------------------------------------------------------
+*** WARNING ***
+Case          228 is an outlier        (Studentized Residual =       -4.036)
+ 
+Durbin-Watson D Statistic          2.234
+First Order Autocorrelation       -0.117
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+TIME (2 levels)
+          1,        2
+TYPE (2 levels)
+          1,        2
+ 
+Dep Var: RATE2   N: 265   Multiple R: 0.253   Squared multiple R: 0.064
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+TIME                       7.920     1        7.920      16.503       0.000
+TYPE                       0.594     1        0.594       1.237       0.267
+TIME*TYPE                  0.028     1        0.028       0.059       0.809
+                                                                                                                                                                                                        
+Error                    125.250   261        0.480
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  TIME        =1                   4.370        0.061     130
+  TIME        =2                   4.024        0.060     135
+
+ 
+-------------------------------------------------------------------------------
+  TYPE        =1                   4.245        0.061     128
+  TYPE        =2                   4.150        0.059     137
+
+ 
+-------------------------------------------------------------------------------
+TIME        =1           
+  TYPE        =1                   4.407        0.087      63
+TIME        =1           
+  TYPE        =2                   4.333        0.085      67
+TIME        =2           
+  TYPE        =1                   4.082        0.086      65
+TIME        =2           
+  TYPE        =2                   3.967        0.083      70
+
+ 
+-------------------------------------------------------------------------------
+*** WARNING ***
+Case           87 is an outlier        (Studentized Residual =       -4.119)
+ 
+Durbin-Watson D Statistic          2.018
+First Order Autocorrelation       -0.010
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+TIME (2 levels)
+          1,        2
+TYPE (2 levels)
+          1,        2
+ 
+Dep Var: RATE3   N: 265   Multiple R: 0.463   Squared multiple R: 0.214
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+TIME                      40.091     1       40.091      65.760       0.000
+TYPE                       2.711     1        2.711       4.447       0.036
+TIME*TYPE                  0.182     1        0.182       0.299       0.585
+                                                                                                                                                                                                        
+Error                    159.119   261        0.610
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  TIME        =1                   4.354        0.069     130
+  TIME        =2                   3.575        0.067     135
+
+ 
+-------------------------------------------------------------------------------
+  TYPE        =1                   4.066        0.069     128
+  TYPE        =2                   3.863        0.067     137
+
+ 
+-------------------------------------------------------------------------------
+TIME        =1           
+  TYPE        =1                   4.429        0.098      63
+TIME        =1           
+  TYPE        =2                   4.279        0.095      67
+TIME        =2           
+  TYPE        =1                   3.703        0.097      65
+TIME        =2           
+  TYPE        =2                   3.448        0.093      70
+
+ 
+-------------------------------------------------------------------------------
+ 
+Durbin-Watson D Statistic          2.193
+First Order Autocorrelation       -0.097
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+TIME (2 levels)
+          1,        2
+TYPE (2 levels)
+          1,        2
+ 
+Dep Var: RATE_VIVID   N: 265   Multiple R: 0.063   Squared multiple R: 0.004
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+TIME                       0.346     1        0.346       0.170       0.680
+TYPE                       1.481     1        1.481       0.727       0.395
+TIME*TYPE                  0.299     1        0.299       0.147       0.702
+                                                                                                                                                                                                        
+Error                    531.916   261        2.038
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  TIME        =1                   8.588        0.125     130
+  TIME        =2                   8.661        0.123     135
+
+ 
+-------------------------------------------------------------------------------
+  TYPE        =1                   8.699        0.126     128
+  TYPE        =2                   8.550        0.122     137
+
+ 
+-------------------------------------------------------------------------------
+TIME        =1           
+  TYPE        =1                   8.630        0.180      63
+TIME        =1           
+  TYPE        =2                   8.547        0.174      67
+TIME        =2           
+  TYPE        =1                   8.769        0.177      65
+TIME        =2           
+  TYPE        =2                   8.552        0.171      70
+
+ 
+-------------------------------------------------------------------------------
+ 
+Durbin-Watson D Statistic          2.060
+First Order Autocorrelation       -0.033
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+TIME (2 levels)
+          1,        2
+128 case(s) deleted due to missing data.
+ 
+Dep Var: G1_IMP   N: 137   Multiple R: 0.029   Squared multiple R: 0.001
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+TIME                       0.044     1        0.044       0.111       0.740
+                                                                                                                                                                                                        
+Error                     54.189   135        0.401
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  TIME        =1                   4.493        0.077      67
+  TIME        =2                   4.529        0.076      70
+
+ 
+-------------------------------------------------------------------------------
+ 
+Durbin-Watson D Statistic          1.967
+First Order Autocorrelation        0.011
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+TIME (2 levels)
+          1,        2
+128 case(s) deleted due to missing data.
+ 
+Dep Var: G1_MOT   N: 137   Multiple R: 0.075   Squared multiple R: 0.006
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+TIME                       0.635     1        0.635       0.761       0.385
+                                                                                                                                                                                                        
+Error                    112.722   135        0.835
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  TIME        =1                   3.821        0.112      67
+  TIME        =2                   3.957        0.109      70
+
+ 
+-------------------------------------------------------------------------------
+ 
+Durbin-Watson D Statistic          2.168
+First Order Autocorrelation       -0.084
+
+
+
+Data for the following results were selected according to:
+      exclude =0 and phq_tot<15
+ 
+Effects coding used for categorical variables in model.
+ 
+Categorical values encountered during processing are:
+TIME (2 levels)
+          1,        2
+128 case(s) deleted due to missing data.
+ 
+Dep Var: G1_CONF   N: 137   Multiple R: 0.107   Squared multiple R: 0.011
+ 
+Analysis of Variance
+Source             Sum-of-Squares   df  Mean-Square     F-ratio       P
+                                                                                                                                                                                                        
+TIME                       1.607     1        1.607       1.551       0.215
+                                                                                                                                                                                                        
+Error                    139.853   135        1.036
+
+ 
+-------------------------------------------------------------------------------
+ 
+Least squares means
+                                LS Mean           SE      N
+  TIME        =1                   3.612        0.124      67
+  TIME        =2                   3.829        0.122      70
+
+ 
+-------------------------------------------------------------------------------
+ 
+Durbin-Watson D Statistic          1.916
+First Order Autocorrelation        0.041

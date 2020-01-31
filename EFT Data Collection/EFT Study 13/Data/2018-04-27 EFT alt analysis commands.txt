@@ -1,0 +1,85 @@
+select exclude = 0 or exclude = 7 or exclude = 8 or exclude =11
+
+anova
+cat group
+depend scn_age
+est
+depend hh_tot
+est
+depend phq_tot
+est
+depend like_food
+est
+depend like_act
+est
+depend bmi
+est
+depend per_ovt
+est
+depend income
+est
+depend edu_years
+est
+depend fsec_tot
+est
+
+xtab
+tabulate group*scn_sex
+tabulate group*ovwtgp
+tabulate group*bcompgp
+tabulate bcompgp*ovwtgp
+tabulate group*employ1
+tabulate group*marital
+tabulate group*min
+
+
+let rate1 = (t1_rate1 + t2_rate1 + t3_rate1)/3
+let rate2 = (t1_rate2 + t2_rate2 + t3_rate2)/3
+let rate3 = (t1_rate3 + t2_rate3 + t3_rate3)/3
+
+let rate_vivid = ( (t1_rate4 + t2_rate4 + t3_rate4)/3 + (t1_rate5 + t2_rate5 + t3_rate5)/3 )
+
+anova
+cat group 
+depend rate1
+est
+depend rate2
+est
+depend rate3
+est
+depend rate_vivid
+est
+
+anova
+cat group
+depend g1_imp
+est
+depend g1_mot
+est
+depend g1_conf
+est
+
+cat time type
+depend rate1
+est
+depend rate2
+est
+depend rate3
+est
+depend rate_vivid
+est
+
+anova
+cat time
+depend g1_imp
+est
+depend g1_mot
+est
+depend g1_conf
+est
+
+
+
+
+
+
